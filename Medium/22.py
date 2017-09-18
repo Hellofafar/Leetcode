@@ -63,3 +63,22 @@ class Solution(object):
 # ["("+generateParenthesis(n-1)+")", "()"+generateParenthesis(n-1), generateParenthesis(n-1)+"()"]
 # But there is another situation. For example when n=4, there is a combination "(())(())", 
 # which cannot fit in anyone I thought before.
+# 
+# It seems there is a general solution based on length of the rest:
+# From sample 28 ms submission:
+# 
+# class Solution(object):
+#     def generateParenthesis(self, n):
+#         """
+#         :type n: int
+#         :rtype: List[str]
+#         """
+#         def gen(s,l,r,res =[]):
+#             if l:
+#                 gen (s+'(', l-1, r, res)
+#             if r > l:
+#                 gen(s+')', l, r-1, res)
+#             if not r:
+#                 res += s,
+#             return res
+#         return gen('', n, n)
