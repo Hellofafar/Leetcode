@@ -8,6 +8,7 @@
 | 14 | Longest Common Prefix | Easy | 29.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/14.py) | 09/16/17 |
 | 20 | Valid Parentheses | Easy | 61.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/20.py) | 09/17/17 |
 | 21 | Merge Two Sorted Lists | Easy | 39.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/21.py) | 09/17/17 |
+| 26 | Remove Duplicates from Sorted Array | Easy | 16.47% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/26.py) | 09/19/17 |
 
 ### Medium
 | # | Title	| Difficulty | Beats | Version | Last Try |
