@@ -14,3 +14,4 @@
 | # | Title	| Difficulty | Beats | Version | Last Try |
 | - | ----- | ---------- | ----- | ------- | -------- |
 | 22 | Generate Parentheses | Medium | 56.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/22.py) | 09/18/17 |
+| 24 | Swap Nodes in Pairs | Medium | 52.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/24.py) | 09/20/17 |
