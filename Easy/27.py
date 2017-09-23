@@ -37,11 +37,11 @@ class Solution(object):
 
 
 # Used for test
-if __name__ == "__main__":
-    test = Solution()
-    nums = []
+# if __name__ == "__main__":
+#     test = Solution()
+#     nums = []
     
-    print(test.removeElement(nums, 4))
+#     print(test.removeElement(nums, 4))
 
 
 # ------------------------------
