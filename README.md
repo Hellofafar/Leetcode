@@ -13,6 +13,7 @@ My solutions and summary for problems in LeetCode.
 | 26 | Remove Duplicates from Sorted Array | Easy | 16.47% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/26.py) | 09/19/17 | 27 |
 | 27 | Remove Element | Easy | 58.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/27.py) | 09/22/17 | 26 |
 | 28 | Implement strStr() | Easy | 13.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/28.py) | 09/23/17 | |
+| 35 | Search Insert Position | Easy | 41.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/35.py) | 09/24/17 | |
 
 ### Medium
 | # | Title	| Difficulty | Beats | Version | Last Try | Similar |
