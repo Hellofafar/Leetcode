@@ -11,7 +11,7 @@
 # 
 # 
 # Version: 1.0
-# 09/18/17 by Jianfa
+# 09/26/17 by Jianfa
 # ------------------------------
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
