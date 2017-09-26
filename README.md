@@ -14,6 +14,7 @@ My solutions and summary for problems in LeetCode.
 | 27 | Remove Element | Easy | 58.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/27.py) | 09/22/17 | 26 |
 | 28 | Implement strStr() | Easy | 13.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/28.py) | 09/23/17 | |
 | 35 | Search Insert Position | Easy | 41.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/35.py) | 09/24/17 | |
+| 38 | Count and Say | Easy | 12.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/38.py) | 09/26/17 | |
 
 ### Medium
 | # | Title	| Difficulty | Beats | Version | Last Try | Similar |
