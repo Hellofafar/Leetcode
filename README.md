@@ -22,6 +22,7 @@ My solutions and summary for problems in LeetCode.
 | 22 | Generate Parentheses | Medium | 56.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/22.py) | 09/18/17 | |
 | 24 | Swap Nodes in Pairs | Medium | 52.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/24.py) | 09/20/17 | 25 |
 | 3 | Longest Substring Without Repeating Characters | Medium | 68.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/3.py) | 09/26/17 | |
+| 5 | Longest Palindromic Substring | Medium | 96.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/5.py) | 09/28/17 | |
 
 ### Hard
 | # | Title	| Difficulty | Beats | Version | Last Try | Similar |
