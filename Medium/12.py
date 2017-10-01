@@ -6,7 +6,7 @@
 # Input is guaranteed to be within the range from 1 to 3999.
 # 
 # Version: 1.0
-# 09/29/17 by Jianfa
+# 09/30/17 by Jianfa
 # ------------------------------
 
 class Solution(object):
