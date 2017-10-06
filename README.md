@@ -28,6 +28,7 @@ My solutions and summary for problems in LeetCode.
 | 3 | Longest Substring Without Repeating Characters | Medium | Python | 68.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/3.py) | 09/26/17 | |
 | 5 | Longest Palindromic Substring | Medium | Python | 96.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/5.py) | 09/28/17 | |
 | 12 | Integer to Roman | Medium | Python | 66.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/12.py) | 09/30/17 | 13 |
+| 445 | Add Two Numbers II | Medium | Python | 89.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/445.py) | 10/06/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
