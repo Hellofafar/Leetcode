@@ -18,6 +18,7 @@ My solutions and summary for problems in LeetCode.
 | 9 | Palindrome Number | Easy | Python | 63.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/9.py) | 09/29/17 | |
 | 53 | Maximum Subarray | Easy | Python | 30.29% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/53.py) | 10/01/17 | |
 | 121 | Best Time to Buy and Sell Stock | Easy | Python | 83.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/121.py) | 10/03/17 | |
+| 283 | Move Zeroes | Easy | Python | 79.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/283.py) | 10/05/17 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
