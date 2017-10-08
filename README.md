@@ -29,6 +29,7 @@ My solutions and summary for problems in LeetCode.
 | 5 | Longest Palindromic Substring | Medium | Python | 96.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/5.py) | 09/28/17 | |
 | 12 | Integer to Roman | Medium | Python | 66.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/12.py) | 09/30/17 | 13 |
 | 445 | Add Two Numbers II | Medium | Python | 89.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/445.py) | 10/06/17 |  |
+| 50 | Pow(x, n) | Medium | Python | 73.08% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/50.py) | 10/07/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
