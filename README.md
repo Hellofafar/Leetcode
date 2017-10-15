@@ -20,6 +20,8 @@ My solutions and summary for problems in LeetCode.
 | 121 | Best Time to Buy and Sell Stock | Easy | Python | 83.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/121.py) | 10/03/17 | |
 | 283 | Move Zeroes | Easy | Python | 79.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/283.py) | 10/05/17 | |
 | 387 | First Unique Character in a String | Easy | Python | 79.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/387.py) | 10/08/17 | |
+|  | Count Binary Substrings | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/#696.py) | 10/14/17 | |
+|  | Degree of an Array | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/#697.py) | 10/14/17 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -33,7 +35,7 @@ My solutions and summary for problems in LeetCode.
 | 50 | Pow(x, n) | Medium | Python | 73.08% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/50.py) | 10/07/17 |  |
 | 62 | Unique Paths | Medium | java | 4.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/62.java) | 10/09/17 |  |
 | 15 | 3Sum | Medium | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/15.java) | 10/11/17 | 16 |
-| 16 | 3Sum Closest | Medium | Python | 51.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/16.java) | 10/11/17 | 15 |
+| 16 | 3Sum Closest | Medium | Python | 51.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/16.java) | 10/13/17 | 15 |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
