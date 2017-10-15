@@ -35,7 +35,8 @@ My solutions and summary for problems in LeetCode.
 | 50 | Pow(x, n) | Medium | Python | 73.08% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/50.py) | 10/07/17 |  |
 | 62 | Unique Paths | Medium | java | 4.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/62.java) | 10/09/17 |  |
 | 15 | 3Sum | Medium | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/15.java) | 10/11/17 | 16 |
-| 16 | 3Sum Closest | Medium | Python | 51.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/16.java) | 10/13/17 | 15 |
+| 16 | 3Sum Closest | Medium | Python | 51.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/16.py) | 10/13/17 | 15 |
+| 75 | Sort Color | Medium | Python | 70.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/75.py) | 10/14/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
