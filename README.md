@@ -38,6 +38,7 @@ My solutions and summary for problems in LeetCode.
 | 16 | 3Sum Closest | Medium | Python | 51.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/16.py) | 10/13/17 | 15 |
 | 75 | Sort Color | Medium | Python | 70.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/75.py) | 10/14/17 |  |
 | 17 | Letter Combinations of a Phone Number | Medium | Python | 86.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/17.py) | 10/16/17 |  |
+| 187 | Repeated DNA Sequences | Medium | Python | 50.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/187.py) | 10/16/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
