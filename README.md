@@ -39,6 +39,7 @@ My solutions and summary for problems in LeetCode.
 | 75 | Sort Color | Medium | Python | 70.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/75.py) | 10/14/17 |  |
 | 17 | Letter Combinations of a Phone Number | Medium | Python | 86.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/17.py) | 10/16/17 |  |
 | 187 | Repeated DNA Sequences | Medium | Python | 50.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/187.py) | 10/16/17 |  |
+| 18| 4Sum | Medium | Python | 33.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/18.py) | 10/17/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
