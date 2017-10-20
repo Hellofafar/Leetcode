@@ -1,53 +1,66 @@
 # ------------------------------
-# 19. Remove Nth Node From End of List
+# 18. 4Sum
 # 
 # Description:
-# Given a linked list, remove the nth node from the end of list and return its head.
+# Given an array S of n integers, are there elements a, b, c, and d in S such that a + b + c + d = target? Find all unique quadruplets in the array which gives the sum of target.
 # 
-# For example,
-#  Given linked list: 1->2->3->4->5, and n = 2.
+# Note: The solution set must not contain duplicate quadruplets.
 # 
-#  After removing the second node from the end, the linked list becomes 1->2->3->5.
-# 
-# Note:
-# Given n will always be valid.
-# Try to do this in one pass.
+# Note: The solution set must not contain duplicate triplets.
+# For example, given array S = [-1, 0, 1, 2, -1, -4],
+# A solution set is:
+# [
+#   [-1, 0, 1],
+#   [-1, -1, 2]
+# ]
 # 
 # Version: 1.0
-# 10/18/17 by Jianfa
+# 10/17/17 by Jianfa
 # ------------------------------
 
-# Definition for singly-linked list.
-# class ListNode(object):
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
-
 class Solution(object):
-    def removeNthFromEnd(self, head, n):
+    def fourSum(self, nums, target):
         """
-        :type head: ListNode
-        :type n: int
-        :rtype: ListNode
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[List[int]]
         """
-        count = 0
-        dict_Node = {}
-        while head:
-            dict_Node[count] = head
-            count += 1
-            head = head.next
+        res = []
+        nums.sort()
+        for i in range(len(nums) - 3):
+            if i > 0 and nums[i] == nums[i-1]:
+                continue  # Think over here! At first I wrote i += 1, it's wrong.
+            possible_rest_three = self.threeSum(nums[i+1:], target - nums[i])
+            if possible_rest_three:
+                for three_set in possible_rest_three:
+                    three_set.insert(0, nums[i])
+                    res.append(three_set)
         
-        target = count - n
-        if target - 1 in dict_Node and target + 1 in dict_Node:
-            dict_Node[target - 1].next = dict_Node[target + 1]
-            return dict_Node[0]
-        elif target - 1 not in dict_Node and target + 1 in dict_Node:
-            return dict_Node[target + 1]
-        elif target - 1 in dict_Node and target + 1 not in dict_Node:
-            dict_Node[target - 1].next = None
-            return dict_Node[0]
-        else:
-            return None
+        return res
+        
+    def threeSum(self, nums, target):
+        res = []
+        nums.sort()
+        for i in range(0, len(nums) - 2):
+            if i > 0 and nums[i] == nums[i-1]:
+                continue
+            l, r = i+1, len(nums) - 1
+            while l < r:
+                s = nums[i] + nums[l] + nums[r]
+                if s > target:
+                    r -= 1
+                elif s < target:
+                    l += 1
+                else:
+                    res.append([nums[i], nums[l], nums[r]])
+                    while l < r and nums[l] == nums[l+1]:
+                        l += 1
+                    while l < r and nums[r] == nums[r-1]:
+                        r -= 1
+                    l += 1
+                    r -= 1
+                    
+        return res
     
         
 # Used for test
@@ -59,10 +72,4 @@ if __name__ == "__main__":
     print(test.fourSum(nums, target))
 
 # Summary
-# I use a dictionary to store every node during counting, and remove the target one.
-# Need to think over some boundary condition, for example the first Node or the last Node.
-# 
-# Get a good idea from the shortest-time solution:
-# Use two pointer p1 and p2. Start from head, move p1 n steps. If p1 == None, then head is the target to be
-# removed. If p1 is not None, then move p1 and p2 together until p1 reach None. Then p2.next is the target 
-# to be removed. This idea is very smart!
+# Leverage the idea of 3Sum. Check integer one by one and check 3Sum for the rest.
