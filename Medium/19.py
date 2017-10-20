@@ -49,14 +49,7 @@ class Solution(object):
         else:
             return None
     
-        
-# Used for test
-if __name__ == "__main__":
-    test = Solution()
-    nums = [1,0,-1,0,-2,2]
-    target = 0
-    
-    print(test.fourSum(nums, target))
+
 
 # Summary
 # I use a dictionary to store every node during counting, and remove the target one.
