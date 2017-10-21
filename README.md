@@ -9,7 +9,7 @@ My solutions and summary for problems in LeetCode.
 | 13 | Roman to Integer | Easy | Python | 89.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/13.py) | 09/15/17 | 12 |
 | 14 | Longest Common Prefix | Easy | Python | 29.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/14.py) | 09/16/17 | |
 | 20 | Valid Parentheses | Easy | Python | 61.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/20.py) | 09/17/17 | |
-| 21 | Merge Two Sorted Lists | Easy | Python | 39.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/21.py) | 09/17/17 | |
+| 21 | Merge Two Sorted Lists | Easy | Python | 39.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/21.py) | 09/17/17 | 23 |
 | 26 | Remove Duplicates from Sorted Array | Easy | Python | 16.47% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/26.py) | 09/19/17 | 27 |
 | 27 | Remove Element | Easy | Python | 58.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/27.py) | 09/22/17 | 26 |
 | 28 | Implement strStr() | Easy | Python | 13.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/28.py) | 09/23/17 | |
@@ -47,3 +47,4 @@ My solutions and summary for problems in LeetCode.
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
 | - | ----- | ---------- | -------- | ----- | ------- | -------- | ------- |
 | 25 | Reverse Nodes in k-Group | Hard | Python | 52.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/25.py) | 09/21/17 | 24 |
+| 23 | Merge k Sorted Lists | Hard | Python | 4.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/23.py) | 10/20/17 | 21 |
