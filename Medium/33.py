@@ -11,7 +11,7 @@
 # 
 # 
 # Version: 1.0
-# 10/21/17 by Jianfa
+# 10/22/17 by Jianfa
 # ------------------------------
 
 class Solution(object):

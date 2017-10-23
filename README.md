@@ -42,7 +42,7 @@ My solutions and summary for problems in LeetCode.
 | 18| 4Sum | Medium | Python | 33.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/18.py) | 10/17/17 |  |
 | 19| Remove Nth Node From End of List | Medium | Python | 76.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/19.py) | 10/18/17 |  |
 | 31| Next Permutation | Medium | Python | 54.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/31.py) | 10/19/17 |  |
-| 33| Search in Rotated Sorted Array | Medium | Python | 80.22% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/33.py) | 10/21/17 |  |
+| 33| Search in Rotated Sorted Array | Medium | Python | 80.22% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/33.py) | 10/22/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
