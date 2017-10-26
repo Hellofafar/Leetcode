@@ -45,6 +45,7 @@ My solutions and summary for problems in LeetCode.
 | 33 | Search in Rotated Sorted Array | Medium | Python | 80.22% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/33.py) | 10/22/17 |  |
 | 34 | Search for a Range | Medium | Python | 63.92% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/34.py) | 10/24/17 |  |
 
+
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
 | - | ----- | ---------- | -------- | ----- | ------- | -------- | ------- |
