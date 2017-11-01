@@ -52,3 +52,12 @@ if __name__ == "__main__":
 # Summary:
 # O(3n) solution. I check every line at first, then every column, finally every sub-square. If there is 
 # duplicate in a subset, then return False, else True.
+# Another good idea from one of the best solution:
+# Create three list includes 9 set() initially:
+#   row = [set() for i in xrange(0, 9)]
+#   col = [set() for i in xrange(0, 9)]
+#   grid = [set() for i in xrange(0, 9)]
+# Then traverse every unit, and check if it's in corresponding line/column/grid. 
+# for i in range(9):
+#   for j in range(9):
+#       g = i / 3 * 3 + j / 3  # which grid does current unit belong to
