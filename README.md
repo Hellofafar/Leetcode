@@ -4,7 +4,8 @@ My solutions and summary for problems in LeetCode.
 
 ## Classification
 | Type | Problems |
-| Backtrack | 39 |
+| ---- | -------- |
+| Backtrack | 39, 40 |
 
 ## Finished problems
 ### Easy
@@ -50,7 +51,8 @@ My solutions and summary for problems in LeetCode.
 | 34 | Search for a Range | Medium | Python | 63.92% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/34.py) | 10/24/17 |  |
 | 357 | Search for a Range | Medium | Python | 47.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/357.py) | 10/26/17 |  |
 | 36 | Valid Sudoku | Medium | Python | 66.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/36.py) | 11/01/17 |  |
-| 39 | Combination Sum | Medium | Python | 24.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/39.py) | 11/01/17 |  |
+| 39 | Combination Sum | Medium | Python | 24.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/39.py) | 11/01/17 | 39 |
+| 40 | Combination Sum II | Medium | Python | 95.53% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/40.py) | 11/01/17 | 40 |
 
 
 ### Hard
