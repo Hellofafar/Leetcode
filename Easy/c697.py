@@ -1,5 +1,5 @@
 # ------------------------------
-# #697. Degree of an Array (Weekly Contest 54)
+# c697. Degree of an Array (Weekly Contest 54)
 # 
 # Description:
 # Given a non-empty array of non-negative integers nums, the degree of this array is defined as the maximum 

@@ -25,8 +25,8 @@ My solutions and summary for problems in LeetCode.
 | 121 | Best Time to Buy and Sell Stock | Easy | Python | 83.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/121.py) | 10/03/17 | |
 | 283 | Move Zeroes | Easy | Python | 79.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/283.py) | 10/05/17 | |
 | 387 | First Unique Character in a String | Easy | Python | 79.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/387.py) | 10/08/17 | |
-|  | Count Binary Substrings | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/#696.py) | 10/14/17 | |
-|  | Degree of an Array | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/#697.py) | 10/14/17 | |
+|  | Count Binary Substrings | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c696.py) | 10/14/17 | |
+|  | Degree of an Array | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c697.py) | 10/14/17 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
