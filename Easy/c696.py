@@ -1,5 +1,5 @@
 # ------------------------------
-# #696. Count Binary Substrings (Weekly Contest 54)
+# c696. Count Binary Substrings (Weekly Contest 54)
 # 
 # Description:
 # Give a string s, count the number of non-empty (contiguous) substrings that have the same number of 0's 
