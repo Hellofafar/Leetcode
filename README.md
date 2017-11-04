@@ -56,6 +56,7 @@ My solutions and summary for problems in LeetCode.
 | 43 | Multiply Strings | Medium | Python | 32.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/43.py) | 11/03/17 |  |
 | 46 | Permutations | Medium | Python | 31.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/46.py) | 11/03/17 | 47 |
 | 47 | Permutations II | Medium | Python | 16.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/47.py) | 11/03/17 | 46 |
+| 48 | Rotate Image | Medium | Python | 24.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/48.py) | 11/03/17 |  |
 
 
 ### Hard
