@@ -5,7 +5,7 @@ My solutions and summary for problems in LeetCode.
 ## Classification
 | Type | Problems |
 | ---- | -------- |
-| Backtrack | 39, 40 |
+| Backtrack | 39, 40, 46, 47 |
 
 ## Finished problems
 ### Easy
@@ -54,6 +54,8 @@ My solutions and summary for problems in LeetCode.
 | 39 | Combination Sum | Medium | Python | 24.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/39.py) | 11/01/17 | 39 |
 | 40 | Combination Sum II | Medium | Python | 95.53% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/40.py) | 11/01/17 | 40 |
 | 43 | Multiply Strings | Medium | Python | 32.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/43.py) | 11/03/17 |  |
+| 46 | Permutations | Medium | Python | 31.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/46.py) | 11/03/17 | 47 |
+| 47 | Permutations II | Medium | Python | 16.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/47.py) | 11/03/17 | 46 |
 
 
 ### Hard
