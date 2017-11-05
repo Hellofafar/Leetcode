@@ -28,6 +28,7 @@ My solutions and summary for problems in LeetCode.
 |  | Count Binary Substrings | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c696.py) | 10/14/17 | |
 |  | Degree of an Array | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c697.py) | 10/14/17 | |
 | 66 | Plus One | Easy | Python | 84.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/66.py) | 11/04/17 | |
+|  | Longest Word in Dictionary | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c720.py) | 11/04/17 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
