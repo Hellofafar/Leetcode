@@ -27,6 +27,7 @@ My solutions and summary for problems in LeetCode.
 | 387 | First Unique Character in a String | Easy | Python | 79.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/387.py) | 10/08/17 | |
 |  | Count Binary Substrings | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c696.py) | 10/14/17 | |
 |  | Degree of an Array | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c697.py) | 10/14/17 | |
+| 66 | Plus One | Easy | Python | 84.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/66.py) | 11/04/17 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -57,6 +58,8 @@ My solutions and summary for problems in LeetCode.
 | 46 | Permutations | Medium | Python | 31.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/46.py) | 11/03/17 | 47 |
 | 47 | Permutations II | Medium | Python | 16.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/47.py) | 11/03/17 | 46 |
 | 48 | Rotate Image | Medium | Python | 24.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/48.py) | 11/03/17 |  |
+| 388 | Longest Absolute File Path | Medium | Python | 36.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/388.py) | 11/04/17 |  |
+| 681 | Next Closest Time | Medium | Python | 65.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/681.py) | 11/04/17 |  |
 
 
 ### Hard
@@ -65,3 +68,4 @@ My solutions and summary for problems in LeetCode.
 | 25 | Reverse Nodes in k-Group | Hard | Python | 52.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/25.py) | 09/21/17 | 24 |
 | 23 | Merge k Sorted Lists | Hard | Python | 4.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/23.py) | 10/20/17 | 21 |
 | 32 | Longest Valid Parentheses | Hard | Python | 55.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/32.py) | 10/23/17 | 20 |
+| 683 | K Empty Slots | Hard | Python | 15.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/32.py) | 11/04/17 |  |
