@@ -62,6 +62,7 @@ My solutions and summary for problems in LeetCode.
 | 388 | Longest Absolute File Path | Medium | Python | 36.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/388.py) | 11/04/17 |  |
 | 681 | Next Closest Time | Medium | Python | 65.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/681.py) | 11/04/17 |  |
 | 482 | License Key Formatting | Medium | Python | 54.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/482.py) | 11/04/17 |  |
+| 49 | Group Anagrams | Medium | Python | 24.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49.py) | 11/07/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
