@@ -6,6 +6,9 @@ My solutions and summary for problems in LeetCode.
 | Type | Problems |
 | ---- | -------- |
 | Backtrack | 39, 40, 46, 47 |
+| Hash Table | 348 |
+| Design | 308, 346 |
+| Tree | 298 |
 
 ## Finished problems
 ### Easy
@@ -29,6 +32,7 @@ My solutions and summary for problems in LeetCode.
 |  | Degree of an Array | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c697.py) | 10/14/17 | |
 | 66 | Plus One | Easy | Python | 84.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/66.py) | 11/04/17 | |
 |  | Longest Word in Dictionary | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c720.py) | 11/04/17 | |
+| 346 | Moving Average from Data Stream | Easy | Python | 95.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/346.py) | 11/07/17 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -63,6 +67,7 @@ My solutions and summary for problems in LeetCode.
 | 681 | Next Closest Time | Medium | Python | 65.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/681.py) | 11/04/17 |  |
 | 482 | License Key Formatting | Medium | Python | 54.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/482.py) | 11/04/17 |  |
 | 49 | Group Anagrams | Medium | Python | 24.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49.py) | 11/07/17 |  |
+| 298 | Binary Tree Longest Consecutive Sequence | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/298.py) | 11/07/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -71,3 +76,5 @@ My solutions and summary for problems in LeetCode.
 | 23 | Merge k Sorted Lists | Hard | Python | 4.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/23.py) | 10/20/17 | 21 |
 | 32 | Longest Valid Parentheses | Hard | Python | 55.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/32.py) | 10/23/17 | 20 |
 | 683 | K Empty Slots | Hard | Python | 15.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/32.py) | 11/04/17 |  |
+| 348 | Longest Substring with At Most K Distinct Characters | Hard | Python | 94.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/348.py) | 11/07/17 |  |
+| 308 | Range Sum Query 2D - Mutable | Hard | Python | 45.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/308.py) | 11/07/17 |  |
