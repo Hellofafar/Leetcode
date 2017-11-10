@@ -9,6 +9,7 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 348 |
 | Design | 308, 346 |
 | Tree | 298 |
+| Dynamic Programming | 361, 418 |
 
 ## Finished problems
 ### Easy
@@ -68,6 +69,9 @@ My solutions and summary for problems in LeetCode.
 | 482 | License Key Formatting | Medium | Python | 54.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/482.py) | 11/04/17 |  |
 | 49 | Group Anagrams | Medium | Python | 24.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49.py) | 11/07/17 |  |
 | 298 | Binary Tree Longest Consecutive Sequence | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/298.py) | 11/07/17 |  |
+| 418 | Sentence Screen Fitting | Medium | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/418.py) | 11/08/17 |  |
+| 361 | Bomb Enemy | Medium | Python | 60.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/361.py) | 11/08/17 |  |
+| 394 | Decode String | Medium | Python | 97.49% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/394.py) | 11/08/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
