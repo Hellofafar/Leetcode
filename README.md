@@ -9,7 +9,7 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 348 |
 | Design | 308, 346 |
 | Tree | 298 |
-| Dynamic Programming | 361, 418 |
+| Dynamic Programming | 361, 418, 568 |
 | Stack | 394 |
 
 ## Finished problems
@@ -84,3 +84,4 @@ My solutions and summary for problems in LeetCode.
 | 683 | K Empty Slots | Hard | Python | 15.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/32.py) | 11/04/17 |  |
 | 348 | Longest Substring with At Most K Distinct Characters | Hard | Python | 94.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/348.py) | 11/07/17 |  |
 | 308 | Range Sum Query 2D - Mutable | Hard | Python | 45.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/308.py) | 11/07/17 |  |
+| 568 | Maximum Vacation Days | Hard | Python | 46.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/568.py) | 11/10/17 |  |
