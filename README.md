@@ -74,6 +74,8 @@ My solutions and summary for problems in LeetCode.
 | 361 | Bomb Enemy | Medium | Python | 60.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/361.py) | 11/08/17 |  |
 | 394 | Decode String | Medium | Python | 97.49% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/394.py) | 11/09/17 |  |
 | 393 | UTF-8 Validation | Medium | Python | 33.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/393.py) | 11/09/17 |  |
+| 163 | Missing Ranges | Medium | Python | 15.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/163.py) | 11/10/17 |  |
+| 271 | Encode and Decode Strings | Medium | Python | 34.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/271.py) | 11/10/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
