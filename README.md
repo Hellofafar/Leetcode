@@ -76,6 +76,9 @@ My solutions and summary for problems in LeetCode.
 | 393 | UTF-8 Validation | Medium | Python | 33.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/393.py) | 11/09/17 |  |
 | 163 | Missing Ranges | Medium | Python | 15.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/163.py) | 11/10/17 |  |
 | 271 | Encode and Decode Strings | Medium | Python | 34.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/271.py) | 11/10/17 |  |
+| 351 | Android Unlock Patterns | Medium | Python | 19.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/351.py) | 11/11/17 |  |
+| 288 | Unique Word Abbreviation | Medium | Python | 29.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/288.py) | 11/11/17 |  |
+| 288 | Game of Life | Medium | Python | 86.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/289.py) | 11/12/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
