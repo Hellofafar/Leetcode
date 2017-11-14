@@ -11,6 +11,7 @@ My solutions and summary for problems in LeetCode.
 | Tree | 298 |
 | Dynamic Programming | 361, 418, 568 |
 | Stack | 394 |
+| Array | 289 |
 
 ## Finished problems
 ### Easy
@@ -80,7 +81,8 @@ My solutions and summary for problems in LeetCode.
 | 271 | Encode and Decode Strings | Medium | Python | 34.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/271.py) | 11/10/17 |  |
 | 351 | Android Unlock Patterns | Medium | Python | 19.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/351.py) | 11/11/17 |  |
 | 288 | Unique Word Abbreviation | Medium | Python | 29.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/288.py) | 11/11/17 |  |
-| 288 | Game of Life | Medium | Python | 86.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/289.py) | 11/12/17 |  |
+| 289 | Game of Life | Medium | Python | 86.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/289.py) | 11/12/17 |  |
+| 200 | Number of Islands | Medium | Python | 15.98% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200.py) | 11/13/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
