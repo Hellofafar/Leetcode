@@ -12,6 +12,7 @@ My solutions and summary for problems in LeetCode.
 | Dynamic Programming | 361, 418, 568 |
 | Stack | 394 |
 | Array | 289 |
+| Union Find | 305 |
 
 ## Finished problems
 ### Easy
@@ -82,7 +83,7 @@ My solutions and summary for problems in LeetCode.
 | 351 | Android Unlock Patterns | Medium | Python | 19.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/351.py) | 11/11/17 |  |
 | 288 | Unique Word Abbreviation | Medium | Python | 29.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/288.py) | 11/11/17 |  |
 | 289 | Game of Life | Medium | Python | 86.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/289.py) | 11/12/17 |  |
-| 200 | Number of Islands | Medium | Python | 15.98% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200.py) | 11/13/17 |  |
+| 200 | Number of Islands | Medium | Python | 15.98% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200.py) | 11/13/17 | 305 |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -94,3 +95,4 @@ My solutions and summary for problems in LeetCode.
 | 348 | Longest Substring with At Most K Distinct Characters | Hard | Python | 94.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/348.py) | 11/07/17 |  |
 | 308 | Range Sum Query 2D - Mutable | Hard | Python | 45.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/308.py) | 11/07/17 |  |
 | 568 | Maximum Vacation Days | Hard | Python | 46.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/568.py) | 11/10/17 |  |
+| 305 | Number of Islands II | Hard | Python | 75.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/305.py) | 11/14/17 |  |
