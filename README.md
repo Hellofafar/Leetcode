@@ -100,3 +100,4 @@ My solutions and summary for problems in LeetCode.
 | 568 | Maximum Vacation Days | Hard | Python | 46.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/568.py) | 11/10/17 |  |
 | 305 | Number of Islands II | Hard | Python | 75.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/305.py) | 11/14/17 | 200 |
 | 159 | Longest Substring with At Most Two Distinct Characters | Hard | Python | 70.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/159.py) | 11/14/17 | 340 |
+| 317 | Shortest Distance from All Buildings | Hard | Python | 26.77% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/317.py) | 11/15/17 | 317 |
