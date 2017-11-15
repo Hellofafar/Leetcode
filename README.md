@@ -6,13 +6,14 @@ My solutions and summary for problems in LeetCode.
 | Type | Problems |
 | ---- | -------- |
 | Backtrack | 39, 40, 46, 47 |
-| Hash Table | 348 |
+| Hash Table | 340 |
 | Design | 308, 346 |
 | Tree | 298 |
 | Dynamic Programming | 361, 418, 568 |
 | Stack | 394 |
 | Array | 289 |
 | Union Find | 305 |
+| Two Pointers | 259 |
 
 ## Finished problems
 ### Easy
@@ -38,7 +39,7 @@ My solutions and summary for problems in LeetCode.
 |  | Longest Word in Dictionary | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c720.py) | 11/04/17 | |
 | 346 | Moving Average from Data Stream | Easy | Python | 95.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/346.py) | 11/07/17 | |
 | 686 | Repeated String Match | Easy | Python | 56.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/686.py) | 11/13/17 | |
-
+| 246 | Strobogrammatic Number | Easy | Python | 26.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/246.py) | 11/14/17 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -84,6 +85,8 @@ My solutions and summary for problems in LeetCode.
 | 288 | Unique Word Abbreviation | Medium | Python | 29.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/288.py) | 11/11/17 |  |
 | 289 | Game of Life | Medium | Python | 86.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/289.py) | 11/12/17 |  |
 | 200 | Number of Islands | Medium | Python | 15.98% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200.py) | 11/13/17 | 305 |
+| 280 | Wiggle Sort | Medium | Python | 80.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/280.py) | 11/14/17 |  |
+| 259 | 3Sum Smaller | Medium | Python | 90.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/259.py) | 11/14/17 | 15 |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -92,7 +95,8 @@ My solutions and summary for problems in LeetCode.
 | 23 | Merge k Sorted Lists | Hard | Python | 4.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/23.py) | 10/20/17 | 21 |
 | 32 | Longest Valid Parentheses | Hard | Python | 55.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/32.py) | 10/23/17 | 20 |
 | 683 | K Empty Slots | Hard | Python | 15.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/32.py) | 11/04/17 |  |
-| 348 | Longest Substring with At Most K Distinct Characters | Hard | Python | 94.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/348.py) | 11/07/17 |  |
+| 340 | Longest Substring with At Most K Distinct Characters | Hard | Python | 94.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/340.py) | 11/07/17 |  |
 | 308 | Range Sum Query 2D - Mutable | Hard | Python | 45.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/308.py) | 11/07/17 |  |
 | 568 | Maximum Vacation Days | Hard | Python | 46.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/568.py) | 11/10/17 |  |
-| 305 | Number of Islands II | Hard | Python | 75.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/305.py) | 11/14/17 |  |
+| 305 | Number of Islands II | Hard | Python | 75.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/305.py) | 11/14/17 | 200 |
+| 159 | Longest Substring with At Most Two Distinct Characters | Hard | Python | 70.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/159.py) | 11/14/17 |  |
