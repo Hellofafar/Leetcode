@@ -13,7 +13,7 @@ My solutions and summary for problems in LeetCode.
 | Stack | 394 |
 | Array | 289 |
 | Union Find | 305 |
-| Two Pointers | 259 |
+| Two Pointers | 259, 345 |
 
 ## Finished problems
 ### Easy
@@ -40,6 +40,7 @@ My solutions and summary for problems in LeetCode.
 | 346 | Moving Average from Data Stream | Easy | Python | 95.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/346.py) | 11/07/17 | |
 | 686 | Repeated String Match | Easy | Python | 56.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/686.py) | 11/13/17 | |
 | 246 | Strobogrammatic Number | Easy | Python | 26.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/246.py) | 11/14/17 | |
+| 345 | Reverse Vowels of a String | Easy | Python | 24.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/345.py) | 11/15/17 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |

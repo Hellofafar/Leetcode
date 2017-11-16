@@ -1,10 +1,10 @@
 # ------------------------------
-# 
+# 317. Shortest Distance from All Buildings
 # 
 # Description:
 # 
 # Version: 1.0
-# 11/08/17 by Jianfa
+# 11/15/17 by Jianfa
 # ------------------------------
 
 class Solution(object):

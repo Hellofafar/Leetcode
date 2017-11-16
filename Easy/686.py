@@ -9,7 +9,7 @@
 # substring of A repeated two times ("abcdabcd").
 # 
 # Version: 1.0
-# 11/08/17 by Jianfa
+# 11/13/17 by Jianfa
 # ------------------------------
 
 class Solution(object):
