@@ -11,9 +11,11 @@ My solutions and summary for problems in LeetCode.
 | Tree | 298 |
 | Dynamic Programming | 361, 418, 568 |
 | Stack | 394 |
-| Array | 289 |
+| Array | 289, 54 |
 | Union Find | 305 |
 | Two Pointers | 259, 345 |
+| DFS/BFS | 317, 329, 417 |
+| Union Find | 305, 317 |
 
 ## Finished problems
 ### Easy
@@ -88,6 +90,7 @@ My solutions and summary for problems in LeetCode.
 | 200 | Number of Islands | Medium | Python | 15.98% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200.py) | 11/13/17 | 305 |
 | 280 | Wiggle Sort | Medium | Python | 80.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/280.py) | 11/14/17 |  |
 | 259 | 3Sum Smaller | Medium | Python | 90.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/259.py) | 11/14/17 | 15 |
+| 54 | Spiral Matrix | Medium | Python | 46.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/54.py) | 11/18/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -102,3 +105,4 @@ My solutions and summary for problems in LeetCode.
 | 305 | Number of Islands II | Hard | Python | 75.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/305.py) | 11/14/17 | 200 |
 | 159 | Longest Substring with At Most Two Distinct Characters | Hard | Python | 70.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/159.py) | 11/14/17 | 340 |
 | 317 | Shortest Distance from All Buildings | Hard | Python | 26.77% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/317.py) | 11/15/17 | 317 |
+| 329 | Longest Increasing Path in a Matrix | Hard | Python | 56.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/329.py) | 11/16/17 |  |
