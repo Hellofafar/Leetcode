@@ -43,6 +43,7 @@ My solutions and summary for problems in LeetCode.
 | 686 | Repeated String Match | Easy | Python | 56.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/686.py) | 11/13/17 | |
 | 246 | Strobogrammatic Number | Easy | Python | 26.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/246.py) | 11/14/17 | |
 | 345 | Reverse Vowels of a String | Easy | Python | 24.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/345.py) | 11/15/17 | |
+| 58 | Length of Last Word | Easy | Python | 51.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/58.py) | 11/21/17 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -91,6 +92,7 @@ My solutions and summary for problems in LeetCode.
 | 280 | Wiggle Sort | Medium | Python | 80.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/280.py) | 11/14/17 |  |
 | 259 | 3Sum Smaller | Medium | Python | 90.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/259.py) | 11/14/17 | 15 |
 | 54 | Spiral Matrix | Medium | Python | 46.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/54.py) | 11/18/17 |  |
+| 55 | Jump Game | Medium | Python | 15.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/54.py) | 11/18/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
