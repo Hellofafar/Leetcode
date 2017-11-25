@@ -16,6 +16,7 @@ My solutions and summary for problems in LeetCode.
 | Two Pointers | 259, 345 |
 | DFS/BFS | 317, 329, 417 |
 | Union Find | 305, 317 |
+| Greedy | 406 |
 
 ## Finished problems
 ### Easy
@@ -92,7 +93,8 @@ My solutions and summary for problems in LeetCode.
 | 280 | Wiggle Sort | Medium | Python | 80.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/280.py) | 11/14/17 |  |
 | 259 | 3Sum Smaller | Medium | Python | 90.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/259.py) | 11/14/17 | 15 |
 | 54 | Spiral Matrix | Medium | Python | 46.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/54.py) | 11/18/17 |  |
-| 55 | Jump Game | Medium | Python | 15.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/54.py) | 11/18/17 |  |
+| 55 | Jump Game | Medium | Python | 15.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/55.py) | 11/21/17 |  |
+| 406 | Queue Reconstruction by Height | Medium | Python | 67.74% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/406.py) | 11/25/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
