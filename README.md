@@ -95,6 +95,7 @@ My solutions and summary for problems in LeetCode.
 | 54 | Spiral Matrix | Medium | Python | 46.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/54.py) | 11/18/17 |  |
 | 55 | Jump Game | Medium | Python | 15.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/55.py) | 11/21/17 |  |
 | 406 | Queue Reconstruction by Height | Medium | Python | 67.74% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/406.py) | 11/25/17 |  |
+| 616 | Add Bold Tag in String | Medium | Python | 29.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/616.py) | 12/04/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
