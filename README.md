@@ -45,6 +45,7 @@ My solutions and summary for problems in LeetCode.
 | 246 | Strobogrammatic Number | Easy | Python | 26.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/246.py) | 11/14/17 | |
 | 345 | Reverse Vowels of a String | Easy | Python | 24.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/345.py) | 11/15/17 | |
 | 58 | Length of Last Word | Easy | Python | 51.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/58.py) | 11/21/17 | |
+| 687 | Longest Univalue Path | Easy | Python | 89.83% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/687.py) | 12/06/17 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
