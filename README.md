@@ -100,6 +100,7 @@ My solutions and summary for problems in LeetCode.
 | 616 | Add Bold Tag in String | Medium | Python | 29.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/616.py) | 12/04/17 |  |
 | 399 | Evaluate Division | Medium | Python | 96.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/399.py) | 12/09/17 |  |
 | 417 | Pacific Atlantic Water Flow | Medium | Python | 69.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/417.py) | 12/09/17 |  |
+| 284 | Peeking Iterator | Medium | Python | 25.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/284.py) | 12/10/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
