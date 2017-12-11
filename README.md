@@ -7,10 +7,10 @@ My solutions and summary for problems in LeetCode.
 | ---- | -------- |
 | Backtrack | 39, 40, 46, 47 |
 | Hash Table | 159, 340 |
-| Design | 308, 346 |
+| Design | 308, 346, 284, 173 |
 | Tree | 298 |
 | Dynamic Programming | 361, 418, 568 |
-| Stack | 394 |
+| Stack | 394, 173 |
 | Array | 289, 54 |
 | Union Find | 305 |
 | Two Pointers | 259, 345 |
@@ -43,7 +43,7 @@ My solutions and summary for problems in LeetCode.
 |  | Longest Word in Dictionary | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c720.py) | 11/04/17 | |
 | 346 | Moving Average from Data Stream | Easy | Python | 95.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/346.py) | 11/07/17 | |
 | 686 | Repeated String Match | Easy | Python | 56.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/686.py) | 11/13/17 | |
-| 246 | Strobogrammatic Number | Easy | Python | 26.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/246.py) | 11/14/17 | |
+| 246 | Strobogrammatic Number | Easy | Python | 26.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/246.py) | 11/14/17 | 247, 248 |
 | 345 | Reverse Vowels of a String | Easy | Python | 24.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/345.py) | 11/15/17 | |
 | 58 | Length of Last Word | Easy | Python | 51.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/58.py) | 11/21/17 | |
 | 687 | Longest Univalue Path | Easy | Python | 89.83% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/687.py) | 12/06/17 | |
@@ -100,7 +100,11 @@ My solutions and summary for problems in LeetCode.
 | 616 | Add Bold Tag in String | Medium | Python | 29.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/616.py) | 12/04/17 |  |
 | 399 | Evaluate Division | Medium | Python | 96.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/399.py) | 12/09/17 |  |
 | 417 | Pacific Atlantic Water Flow | Medium | Python | 69.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/417.py) | 12/09/17 |  |
-| 284 | Peeking Iterator | Medium | Python | 25.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/284.py) | 12/10/17 |  |
+| 284 | Peeking Iterator | Medium | Python | 25.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/284.py) | 12/10/17 | 173 |
+| 173 | Binary Search Tree Iterator | Medium | Python | 62.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/173.py) | 12/10/17 | 284 |
+| 56 | Merge Intervals | Medium | Python | 39.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56.py) | 12/10/17 |  |
+| 247 | Strobogrammatic Number II | Medium | Python | 16.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/247.py) | 12/10/17 | 246, 248 |
+| 524 | Longest Word in Dictionary through Deleting | Medium | Python | 91.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/524.py) | 12/10/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -116,3 +120,4 @@ My solutions and summary for problems in LeetCode.
 | 159 | Longest Substring with At Most Two Distinct Characters | Hard | Python | 70.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/159.py) | 11/14/17 | 340 |
 | 317 | Shortest Distance from All Buildings | Hard | Python | 26.77% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/317.py) | 11/15/17 | 317 |
 | 329 | Longest Increasing Path in a Matrix | Hard | Python | 56.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/329.py) | 11/16/17 |  |
+| 248 | Strobogrammatic Number III | Hard | Python | 50.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/248.py) | 12/10/17 | 246, 247 |
