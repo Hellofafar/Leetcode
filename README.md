@@ -48,6 +48,7 @@ My solutions and summary for problems in LeetCode.
 | 58 | Length of Last Word | Easy | Python | 51.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/58.py) | 11/21/17 | |
 | 687 | Longest Univalue Path | Easy | Python | 89.83% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/687.py) | 12/06/17 | |
 | 276 | Paint Fence | Easy | Python | 50.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/276.py) | 12/11/17 | |
+| 422 | Valid Word Square | Easy | Python | 55.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/422.py) | 12/11/17 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -72,8 +73,8 @@ My solutions and summary for problems in LeetCode.
 | 34 | Search for a Range | Medium | Python | 63.92% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/34.py) | 10/24/17 |  |
 | 357 | Search for a Range | Medium | Python | 47.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/357.py) | 10/26/17 |  |
 | 36 | Valid Sudoku | Medium | Python | 66.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/36.py) | 11/01/17 |  |
-| 39 | Combination Sum | Medium | Python | 24.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/39.py) | 11/01/17 | 39 |
-| 40 | Combination Sum II | Medium | Python | 95.53% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/40.py) | 11/01/17 | 40 |
+| 39 | Combination Sum | Medium | Python | 24.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/39.py) | 11/01/17 | 40 |
+| 40 | Combination Sum II | Medium | Python | 95.53% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/40.py) | 11/01/17 | 39 |
 | 43 | Multiply Strings | Medium | Python | 32.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/43.py) | 11/03/17 |  |
 | 46 | Permutations | Medium | Python | 31.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/46.py) | 11/03/17 | 47 |
 | 47 | Permutations II | Medium | Python | 16.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/47.py) | 11/03/17 | 46 |
