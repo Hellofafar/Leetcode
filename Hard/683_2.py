@@ -14,9 +14,11 @@
 # Also given an integer k, you need to output in which day there exists two flowers in the status of blooming, 
 # and also the number of flowers between them is k and these flowers are not blooming.
 # 
-# Version: 1.0
-# 10/23/17 by Jianfa
+# Version: 2.0
+# 12/12/17 by Jianfa
 # ------------------------------
+
+from bisect import bisect
 
 class Solution(object):
     def kEmptySlots(self, flowers, k):
@@ -25,29 +27,29 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        slots = [-1 for i in range(len(flowers) + 1)]
-        candidates = []
-        
-        for i in range(len(flowers)):
-            pos_i = flowers[i]
-            slots[pos_i] = i + 1
-            left = pos_i - k - 1
-            right = pos_i + k + 1
-            if left > 0 and slots[left] != -1:
-                if sum(slots[left:pos_i + 1]) == slots[left] + slots[pos_i] - k:
-                    candidates.append(max(slots[left], slots[pos_i]))
-            
-            if right < len(flowers) + 1 and slots[right] != -1:
-                if sum(slots[pos_i:right + 1]) == slots[pos_i] + slots[right] - k:
-                    candidates.append(max(slots[pos_i], slots[right]))
-                    break
-        
-        if candidates:
-            return max(candidates)
-        
-        else:
+        if not flowers:
             return -1
         
+        slots = []
+        for idx, flower in enumerate(flowers):
+            pos = bisect(slots, flower)
+            if len(slots) > 0:
+                if pos == 0:
+                    if slots[0] - flower == k + 1:
+                        return idx + 1
+                
+                elif pos == len(slots):
+                    if flower - slots[pos-1] == k + 1:
+                        return idx + 1
+                
+                else:
+                    if flower - slots[pos-1] == k + 1 or slots[pos] - flower == k + 1:
+                        return idx + 1
+            
+            slots.insert(pos, flower)
+        
+        return -1
+                       
       
 # Used for test
 if __name__ == "__main__":
@@ -59,4 +61,8 @@ if __name__ == "__main__":
 
 # ------------------------------
 # Summary:
-# 
+# The idea is to use bisect.
+# Build a list called slots. Every time get the position number of flower, use bisect to find an index for the
+# number to insert, keeping slots a sorting list always.
+# Check the difference between new number and its neighbour number. If the difference is (k + 1), then we get
+# the day.

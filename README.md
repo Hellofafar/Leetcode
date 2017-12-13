@@ -115,7 +115,7 @@ My solutions and summary for problems in LeetCode.
 | 25 | Reverse Nodes in k-Group | Hard | Python | 52.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/25.py) | 09/21/17 | 24 |
 | 23 | Merge k Sorted Lists | Hard | Python | 4.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/23.py) | 10/20/17 | 21 |
 | 32 | Longest Valid Parentheses | Hard | Python | 55.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/32.py) | 10/23/17 | 20 |
-| 683 | K Empty Slots | Hard | Python | 15.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/32.py) | 11/04/17 |  |
+| 683 | K Empty Slots | Hard | Python | 15.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/683.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/683_2.py) | 11/04/17, 12/12/17 |  |
 | 340 | Longest Substring with At Most K Distinct Characters | Hard | Python | 94.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/340.py) | 11/07/17 | 159 |
 | 308 | Range Sum Query 2D - Mutable | Hard | Python | 45.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/308.py) | 11/07/17 |  |
 | 568 | Maximum Vacation Days | Hard | Python | 46.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/568.py) | 11/10/17 |  |
