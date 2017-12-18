@@ -10,7 +10,7 @@
 # Return "100".
 # 
 # Version: 1.0
-# 12/17/17 by Jianfa
+# 12/18/17 by Jianfa
 # ------------------------------
 
 class Solution(object):

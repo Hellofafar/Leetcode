@@ -17,38 +17,69 @@
 # 10/11/17 by Jianfa
 # ------------------------------
 
-import itertools
+# import itertools
+
+# class Solution(object):
+#     def threeSum(self, nums):
+#         """
+#         :type nums: List[int]
+#         :rtype: List[List[int]]
+#         """
+#         result = []
+#         count_0 = nums.count(0)
+#         if count_0 >= 3:
+#             result.append([0,0,0])
+#         nums.append(0)
+#         nums.sort()
+#         pos_0 = nums.index(0)
+
+#         left = set(itertools.combinations(nums[:pos_0], 2))
+#         for pair in left:
+#             if -sum(pair) in nums[pos_0:]:
+#                 triplet = list(pair)
+#                 triplet.append(-sum(pair))
+#                 result.append(triplet)
+        
+#         right = set(itertools.combinations(nums[pos_0+1:], 2))
+#         for pair in right:
+#             if -sum(pair) in nums[:pos_0]:
+#                 triplet = list(pair)
+#                 triplet.append(-sum(pair))
+#                 result.append(triplet)
+
+#         return result
 
 class Solution(object):
     def threeSum(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
-        result = []
-        count_0 = nums.count(0)
-        if count_0 >= 3:
-            result.append([0,0,0])
-        nums.append(0)
         nums.sort()
-        pos_0 = nums.index(0)
-
-        left = set(itertools.combinations(nums[:pos_0], 2))
-        for pair in left:
-            if -sum(pair) in nums[pos_0:]:
-                triplet = list(pair)
-                triplet.append(-sum(pair))
-                result.append(triplet)
+        res = []
+        if len(nums) < 3:
+            return res
         
-        right = set(itertools.combinations(nums[pos_0+1:], 2))
-        for pair in right:
-            if -sum(pair) in nums[:pos_0]:
-                triplet = list(pair)
-                triplet.append(-sum(pair))
-                result.append(triplet)
-
-        return result
-    
+        for i in range(len(nums) - 2):
+            if i > 0 and nums[i] == nums[i-1]:
+                continue
+            
+            sum_rest = 0 - nums[i]
+            low = i + 1
+            high = len(nums) - 1
+            while low < high:
+                if nums[low] + nums[high] == sum_rest:
+                    res.append([nums[i], nums[low], nums[high]])
+                    while low < high and nums[low] == nums[low+1]:
+                        low += 1
+                    while low < high and nums[high] == nums[high-1]:
+                        high -= 1
+                    low += 1
+                    high -= 1
+                
+                elif nums[low] + nums[high] < sum_rest:
+                    low += 1
+                
+                else:
+                    high -= 1
+        
+        return res
         
 # Used for test
 if __name__ == "__main__":
@@ -58,28 +89,10 @@ if __name__ == "__main__":
     print(test.threeSum(num))
 
 # Summary
-# My solution meets Time Limit Exceeded. To sort it at first is a good start, but I shouln't do combination, 
+# My first solution meets Time Limit Exceeded. To sort it at first is a good start, but I shouln't do combination, 
 # which is time-consuming.
-# The following is a good solution from Discuss tab:
 # 
-# def threeSum(self, nums):
-#     res = []
-#     nums.sort()
-#     for i in range(len(nums)-2):
-#         if i > 0 and nums[i] == nums[i-1]:  // Eliminate the continuous same number
-#             continue
-#         l, r = i+1, len(nums)-1
-#         while l < r:
-#             s = nums[i] + nums[l] + nums[r]
-#             if s < 0:
-#                 l +=1 
-#             elif s > 0:
-#                 r -= 1
-#             else:
-#                 res.append((nums[i], nums[l], nums[r]))
-#                 while l < r and nums[l] == nums[l+1]:  // Eliminate the continuous same number again
-#                     l += 1
-#                 while l < r and nums[r] == nums[r-1]:
-#                     r -= 1
-#                 l += 1; r -= 1
-#     return res
+# I follow an idea "Concise O(N^2) Java solution" from discuss section.
+# The key idea is to run through all indices of a possible first element of a triplet. For each 
+# possible first element we make a standard bi-directional 2Sum sweep of the remaining part of 
+# the array. Remember to skip equal items to avoid duplicates.
