@@ -49,7 +49,7 @@ My solutions and summary for problems in LeetCode.
 | 687 | Longest Univalue Path | Easy | Python | 89.83% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/687.py) | 12/06/17 | |
 | 276 | Paint Fence | Easy | Python | 50.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/276.py) | 12/11/17 | |
 | 422 | Valid Word Square | Easy | Python | 55.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/422.py) | 12/11/17 | |
-| 67 | Add Binary | Easy | Python | 92.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/67.py) | 12/11/17 | |
+| 67 | Add Binary | Easy | Python | 92.46%, 63.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/67.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/67_2.py) | 12/17/17, 12/18/17 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
