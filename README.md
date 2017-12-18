@@ -5,8 +5,8 @@ My solutions and summary for problems in LeetCode.
 ## Classification
 | Type | Problems |
 | ---- | -------- |
-| Backtrack | 39, 40, 46, 47 |
-| Hash Table | 159, 340 |
+| Backtrack | 37, 39, 40, 46, 47 |
+| Hash Table | 30, 159, 340 |
 | Design | 308, 346, 284, 173 |
 | Tree | 298 |
 | Dynamic Programming | 361, 418, 568 |
@@ -109,6 +109,7 @@ My solutions and summary for problems in LeetCode.
 | 247 | Strobogrammatic Number II | Medium | Python | 16.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/247.py) | 12/10/17 | 246, 248 |
 | 524 | Longest Word in Dictionary through Deleting | Medium | Python | 91.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/524.py) | 12/10/17 |  |
 | 228 | Summary Ranges | Medium | Python | 74.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/228.py) | 12/11/17 |  |
+| 29 | Divide Two Integers | Medium | Python | 6.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/29.py) | 12/18/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -125,3 +126,5 @@ My solutions and summary for problems in LeetCode.
 | 317 | Shortest Distance from All Buildings | Hard | Python | 26.77% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/317.py) | 11/15/17 | 317 |
 | 329 | Longest Increasing Path in a Matrix | Hard | Python | 56.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/329.py) | 11/16/17 |  |
 | 248 | Strobogrammatic Number III | Hard | Python | 50.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/248.py) | 12/10/17 | 246, 247 |
+| 30 | Substring with Concatenation of All Words | Hard | Python | 27.92% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/30.py) | 12/18/17 |  |
+| 37 | Sudoku Solver | Hard | Python | 7.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/37.py) | 12/18/17 |  |
