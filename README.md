@@ -110,6 +110,7 @@ My solutions and summary for problems in LeetCode.
 | 524 | Longest Word in Dictionary through Deleting | Medium | Python | 91.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/524.py) | 12/10/17 |  |
 | 228 | Summary Ranges | Medium | Python | 74.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/228.py) | 12/11/17 |  |
 | 29 | Divide Two Integers | Medium | Python | 6.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/29.py) | 12/18/17 |  |
+| 59 | Spiral Matrix II | Medium | Python | 0.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/59.py) | 12/29/17 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
