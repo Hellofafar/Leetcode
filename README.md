@@ -111,6 +111,7 @@ My solutions and summary for problems in LeetCode.
 | 228 | Summary Ranges | Medium | Python | 74.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/228.py) | 12/11/17 |  |
 | 29 | Divide Two Integers | Medium | Python | 6.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/29.py) | 12/18/17 |  |
 | 59 | Spiral Matrix II | Medium | Python | 0.87%, 40.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/59.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/59_2.py) | 12/29/17, 01/03/18 |  |
+| 60 | Permutation Sequence | Medium | Python | 16.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/60.py) | 01/13/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
