@@ -9,7 +9,7 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340 |
 | Design | 308, 346, 284, 173 |
 | Tree | 298 |
-| Dynamic Programming | 361, 418, 568 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64 |
 | Stack | 394, 173 |
 | Array | 289, 54 |
 | Union Find | 305 |
@@ -61,7 +61,7 @@ My solutions and summary for problems in LeetCode.
 | 12 | Integer to Roman | Medium | Python | 66.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/12.py) | 09/30/17 | 13 |
 | 445 | Add Two Numbers II | Medium | Python | 89.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/445.py) | 10/06/17 |  |
 | 50 | Pow(x, n) | Medium | Python | 73.08% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/50.py) | 10/07/17 |  |
-| 62 | Unique Paths | Medium | java | 4.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/62.java) | 10/09/17 |  |
+| 62 | Unique Paths | Medium | java | 4.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/62.java) | 10/09/17 | 63 |
 | 15 | 3Sum | Medium | Python | 37.03% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/15.java) | 12/18/17 | 16 |
 | 16 | 3Sum Closest | Medium | Python | 51.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/16.py) | 10/13/17 | 15 |
 | 75 | Sort Color | Medium | Python | 70.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/75.py) | 10/14/17 |  |
@@ -113,8 +113,8 @@ My solutions and summary for problems in LeetCode.
 | 59 | Spiral Matrix II | Medium | Python | 0.87%, 40.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/59.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/59_2.py) | 12/29/17, 01/03/18 |  |
 | 60 | Permutation Sequence | Medium | Python | 16.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/60.py) | 01/13/18 |  |
 | 61 | Rotate List | Medium | Python | 1.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/61.py) | 01/15/18 |  |
-| 63 | Unique Paths II | Medium | Python | 34.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/63.py) | 01/16/18 |  |
-
+| 63 | Unique Paths II | Medium | Python | 34.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/63.py) | 01/16/18 | 62, 64 |
+| 64 | Minimum Path Sum | Medium | Python | 35.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/64.py) | 01/17/18 | 63 |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
