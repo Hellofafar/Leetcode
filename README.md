@@ -18,6 +18,7 @@ My solutions and summary for problems in LeetCode.
 | Union Find | 305, 317 |
 | Greedy | 406 |
 | Graph | 399 |
+| Binary Search | 69 |
 
 ## Finished problems
 ### Easy
@@ -50,6 +51,7 @@ My solutions and summary for problems in LeetCode.
 | 276 | Paint Fence | Easy | Python | 50.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/276.py) | 12/11/17 | |
 | 422 | Valid Word Square | Easy | Python | 55.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/422.py) | 12/11/17 | |
 | 67 | Add Binary | Easy | Python | 92.46%, 63.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/67.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/67_2.py) | 12/17/17, 12/18/17 | |
+| 69 | Sqrt(x) | Easy | Python | 0.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/69.py) | 01/17/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -134,3 +136,4 @@ My solutions and summary for problems in LeetCode.
 | 30 | Substring with Concatenation of All Words | Hard | Python | 27.92% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/30.py) | 12/18/17 |  |
 | 37 | Sudoku Solver | Hard | Python | 7.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/37.py) | 12/18/17 |  |
 | 57 | Insert Interval | Hard | Python | 27.47% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/57.py) | 12/19/17 |  |
+| 65 | Valid Number | Hard | Python | 20.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/65.py) | 01/17/18 |  |
