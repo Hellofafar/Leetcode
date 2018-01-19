@@ -9,8 +9,8 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340 |
 | Design | 308, 346, 284, 173 |
 | Tree | 298 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64 |
-| Stack | 394, 173 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70 |
+| Stack | 394, 173, 71 |
 | Array | 289, 54 |
 | Union Find | 305 |
 | Two Pointers | 259, 345 |
@@ -52,6 +52,8 @@ My solutions and summary for problems in LeetCode.
 | 422 | Valid Word Square | Easy | Python | 55.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/422.py) | 12/11/17 | |
 | 67 | Add Binary | Easy | Python | 92.46%, 63.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/67.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/67_2.py) | 12/17/17, 12/18/17 | |
 | 69 | Sqrt(x) | Easy | Python | 0.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/69.py) | 01/17/18 | |
+| 69 | Climbing Stairs
+ | Easy | Python | 59.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/70.py) | 01/18/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -117,6 +119,7 @@ My solutions and summary for problems in LeetCode.
 | 61 | Rotate List | Medium | Python | 1.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/61.py) | 01/15/18 |  |
 | 63 | Unique Paths II | Medium | Python | 34.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/63.py) | 01/16/18 | 62, 64 |
 | 64 | Minimum Path Sum | Medium | Python | 35.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/64.py) | 01/17/18 | 63 |
+| 71 | Simplify Path | Medium | Python | 65.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/71.py) | 01/18/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
