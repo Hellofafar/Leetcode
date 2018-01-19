@@ -137,3 +137,4 @@ My solutions and summary for problems in LeetCode.
 | 37 | Sudoku Solver | Hard | Python | 7.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/37.py) | 12/18/17 |  |
 | 57 | Insert Interval | Hard | Python | 27.47% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/57.py) | 12/19/17 |  |
 | 65 | Valid Number | Hard | Python | 20.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/65.py) | 01/17/18 |  |
+| 68 | Text Justification | Hard | Python | 40.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/68.py) | 01/18/18 |  |
