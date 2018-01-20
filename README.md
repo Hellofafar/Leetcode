@@ -120,6 +120,7 @@ My solutions and summary for problems in LeetCode.
 | 63 | Unique Paths II | Medium | Python | 34.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/63.py) | 01/16/18 | 62, 64 |
 | 64 | Minimum Path Sum | Medium | Python | 35.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/64.py) | 01/17/18 | 63 |
 | 71 | Simplify Path | Medium | Python | 65.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/71.py) | 01/19/18 |  |
+| 73 | Set Matrix Zeroes | Medium | Python | 27.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/73.py) | 01/19/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
