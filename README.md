@@ -121,6 +121,7 @@ My solutions and summary for problems in LeetCode.
 | 64 | Minimum Path Sum | Medium | Python | 35.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/64.py) | 01/17/18 | 63 |
 | 71 | Simplify Path | Medium | Python | 65.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/71.py) | 01/19/18 |  |
 | 73 | Set Matrix Zeroes | Medium | Python | 27.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/73.py) | 01/19/18 |  |
+| 74 | Search a 2D Matrix | Medium | Python | 26.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/74.py) | 01/20/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
