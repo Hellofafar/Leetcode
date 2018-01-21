@@ -54,6 +54,8 @@ My solutions and summary for problems in LeetCode.
 | 69 | Sqrt(x) | Easy | Python | 0.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/69.py) | 01/17/18 | |
 | 70 | Climbing Stairs
  | Easy | Python | 59.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/70.py) | 01/19/18 | |
+| 83 | Remove Duplicates from Sorted List
+ | Easy | Python | 16.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/83.py) | 01/20/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
