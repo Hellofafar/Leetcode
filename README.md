@@ -5,7 +5,7 @@ My solutions and summary for problems in LeetCode.
 ## Classification
 | Type | Problems |
 | ---- | -------- |
-| Backtrack | 37, 39, 40, 46, 47 |
+| Backtrack | 37, 39, 40, 46, 47, 77 |
 | Hash Table | 30, 159, 340 |
 | Design | 308, 346, 284, 173 |
 | Tree | 298 |
@@ -122,6 +122,7 @@ My solutions and summary for problems in LeetCode.
 | 71 | Simplify Path | Medium | Python | 65.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/71.py) | 01/19/18 |  |
 | 73 | Set Matrix Zeroes | Medium | Python | 27.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/73.py) | 01/19/18 |  |
 | 74 | Search a 2D Matrix | Medium | Python | 26.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/74.py) | 01/20/18 |  |
+| 77 | Combinations | Medium | Python | 39.24% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/77.py) | 01/20/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
