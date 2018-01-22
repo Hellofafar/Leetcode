@@ -5,7 +5,7 @@ My solutions and summary for problems in LeetCode.
 ## Classification
 | Type | Problems |
 | ---- | -------- |
-| Backtrack | 37, 39, 40, 46, 47, 77 |
+| Backtrack | 37, 39, 40, 46, 47, 77, 79 |
 | Hash Table | 30, 159, 340 |
 | Design | 308, 346, 284, 173 |
 | Tree | 298 |
@@ -19,6 +19,7 @@ My solutions and summary for problems in LeetCode.
 | Greedy | 406 |
 | Graph | 399 |
 | Binary Search | 69 |
+| Two Pointers | 26, 80 |
 
 ## Finished problems
 ### Easy
@@ -28,7 +29,7 @@ My solutions and summary for problems in LeetCode.
 | 14 | Longest Common Prefix | Easy | Python | 29.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/14.py) | 09/16/17 | |
 | 20 | Valid Parentheses | Easy | Python | 61.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/20.py) | 09/17/17 | 32 |
 | 21 | Merge Two Sorted Lists | Easy | Python | 39.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/21.py) | 09/17/17 | 23 |
-| 26 | Remove Duplicates from Sorted Array | Easy | Python | 16.47% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/26.py) | 09/19/17 | 27 |
+| 26 | Remove Duplicates from Sorted Array | Easy | Python | 16.47% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/26.py) | 09/19/17 | 27, 80 |
 | 27 | Remove Element | Easy | Python | 58.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/27.py) | 09/22/17 | 26 |
 | 28 | Implement strStr() | Easy | Python | 13.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/28.py) | 09/23/17 | |
 | 35 | Search Insert Position | Easy | Python | 41.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/35.py) | 09/24/17 | |
@@ -126,6 +127,8 @@ My solutions and summary for problems in LeetCode.
 | 74 | Search a 2D Matrix | Medium | Python | 26.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/74.py) | 01/20/18 |  |
 | 77 | Combinations | Medium | Python | 39.24% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/77.py) | 01/20/18 | 78 |
 | 78 | Subsets | Medium | Python | 42.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/78.py) | 01/20/18 | 77 |
+| 79 | Word Search | Medium | Python | 7.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79.py) | 01/21/18 |  |
+| 80 | Remove Duplicates from Sorted Array II | Medium | Python | 41.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79.py) | 01/21/18 | 26 |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -148,3 +151,4 @@ My solutions and summary for problems in LeetCode.
 | 65 | Valid Number | Hard | Python | 20.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/65.py) | 01/17/18 |  |
 | 68 | Text Justification | Hard | Python | 40.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/68.py) | 01/18/18 |  |
 | 72 | Edit Distance | Hard | Python | 31.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/72.py) | 01/19/18 |  |
+| 76 | Minimum Window Substring | Hard | Python | 82.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/76.py) | 01/21/18 |  |
