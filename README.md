@@ -152,3 +152,4 @@ My solutions and summary for problems in LeetCode.
 | 68 | Text Justification | Hard | Python | 40.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/68.py) | 01/18/18 |  |
 | 72 | Edit Distance | Hard | Python | 31.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/72.py) | 01/19/18 |  |
 | 76 | Minimum Window Substring | Hard | Python | 82.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/76.py) | 01/21/18 |  |
+| 757 | Set Intersection Size At Least Two | Hard | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/757.py) | 01/22/18 |  |
