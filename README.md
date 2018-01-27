@@ -53,10 +53,10 @@ My solutions and summary for problems in LeetCode.
 | 422 | Valid Word Square | Easy | Python | 55.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/422.py) | 12/11/17 | |
 | 67 | Add Binary | Easy | Python | 92.46%, 63.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/67.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/67_2.py) | 12/17/17, 12/18/17 | |
 | 69 | Sqrt(x) | Easy | Python | 0.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/69.py) | 01/17/18 | |
-| 70 | Climbing Stairs
- | Easy | Python | 59.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/70.py) | 01/19/18 | |
-| 83 | Remove Duplicates from Sorted List
- | Easy | Python | 16.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/83.py) | 01/20/18 | |
+| 70 | Climbing Stairs | Easy | Python | 59.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/70.py) | 01/19/18 | |
+| 83 | Remove Duplicates from Sorted List | Easy | Python | 16.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/83.py) | 01/20/18 | |
+| 88 | Merge Sorted Array | Easy | Python | 27.82% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/88.py) | 01/26/18 | |
+
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
