@@ -18,7 +18,7 @@ My solutions and summary for problems in LeetCode.
 | Union Find | 305, 317 |
 | Greedy | 406 |
 | Graph | 399 |
-| Binary Search | 69 |
+| Binary Search | 33, 69, 88 |
 | Two Pointers | 26, 80 |
 
 ## Finished problems
@@ -77,7 +77,7 @@ My solutions and summary for problems in LeetCode.
 | 18 | 4Sum | Medium | Python | 33.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/18.py) | 10/17/17 |  |
 | 19 | Remove Nth Node From End of List | Medium | Python | 76.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/19.py) | 10/18/17 |  |
 | 31 | Next Permutation | Medium | Python | 54.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/31.py) | 10/19/17 |  |
-| 33 | Search in Rotated Sorted Array | Medium | Python | 80.22% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/33.py) | 10/22/17 |  |
+| 33 | Search in Rotated Sorted Array | Medium | Python | 80.22% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/33.py) | 10/22/17 | 88 |
 | 34 | Search for a Range | Medium | Python | 63.92% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/34.py) | 10/24/17 |  |
 | 357 | Search for a Range | Medium | Python | 47.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/357.py) | 10/26/17 |  |
 | 36 | Valid Sudoku | Medium | Python | 66.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/36.py) | 11/01/17 |  |
@@ -129,6 +129,8 @@ My solutions and summary for problems in LeetCode.
 | 78 | Subsets | Medium | Python | 42.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/78.py) | 01/20/18 | 77 |
 | 79 | Word Search | Medium | Python | 7.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79.py) | 01/21/18 |  |
 | 80 | Remove Duplicates from Sorted Array II | Medium | Python | 41.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79.py) | 01/21/18 | 26 |
+| 88 | Search in Rotated Sorted Array II | Medium | Python | 52.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/88.py) | 01/27/18 | 33 |
+
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
