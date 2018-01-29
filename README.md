@@ -129,8 +129,8 @@ My solutions and summary for problems in LeetCode.
 | 78 | Subsets | Medium | Python | 42.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/78.py) | 01/20/18 | 77 |
 | 79 | Word Search | Medium | Python | 7.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79.py) | 01/21/18 |  |
 | 80 | Remove Duplicates from Sorted Array II | Medium | Python | 41.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79.py) | 01/21/18 | 26 |
-| 88 | Search in Rotated Sorted Array II | Medium | Python | 52.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/88.py) | 01/27/18 | 33 |
-
+| 81 | Search in Rotated Sorted Array II | Medium | Python | 52.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/81.py) | 01/27/18 | 33 |
+| 86 | Search in Rotated Sorted Array II | Medium | Python | 0.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86.py) | 01/28/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -155,3 +155,4 @@ My solutions and summary for problems in LeetCode.
 | 72 | Edit Distance | Hard | Python | 31.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/72.py) | 01/19/18 |  |
 | 76 | Minimum Window Substring | Hard | Python | 82.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/76.py) | 01/21/18 |  |
 | 757 | Set Intersection Size At Least Two | Hard | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/757.py) | 01/22/18 |  |
+| 84 | Largest Rectangle in Histogram | Hard | Python | 79.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/84.py) | 01/27/18 |  |
