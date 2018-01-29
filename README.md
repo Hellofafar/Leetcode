@@ -157,3 +157,4 @@ My solutions and summary for problems in LeetCode.
 | 76 | Minimum Window Substring | Hard | Python | 82.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/76.py) | 01/21/18 |  |
 | 757 | Set Intersection Size At Least Two | Hard | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/757.py) | 01/22/18 |  |
 | 84 | Largest Rectangle in Histogram | Hard | Python | 79.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/84.py) | 01/27/18 |  |
+| 87 | Scramble String | Hard | Python | 48.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/87.py) | 01/28/18 |  |
