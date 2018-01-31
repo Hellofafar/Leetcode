@@ -9,7 +9,7 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340 |
 | Design | 308, 346, 284, 173 |
 | Tree | 298 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85 |
 | Stack | 394, 173, 71 |
 | Array | 289, 54 |
 | Union Find | 305 |
@@ -20,6 +20,7 @@ My solutions and summary for problems in LeetCode.
 | Graph | 399 |
 | Binary Search | 33, 69, 88 |
 | Two Pointers | 26, 80 |
+| Linked List | 82 |
 
 ## Finished problems
 ### Easy
@@ -132,6 +133,7 @@ My solutions and summary for problems in LeetCode.
 | 81 | Search in Rotated Sorted Array II | Medium | Python | 52.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/81.py) | 01/27/18 | 33 |
 | 86 | Search in Rotated Sorted Array II | Medium | Python | 0.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86.py) | 01/28/18 |  |
 | 86 | Search in Rotated Sorted Array II | Medium | Python | 52.99% | [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86_2.py) | 01/28/18 |  |
+| 82 | Remove Duplicates from Sorted List II | Medium | Python | 62.72% | [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86_2.py) | 01/30/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -158,3 +160,4 @@ My solutions and summary for problems in LeetCode.
 | 757 | Set Intersection Size At Least Two | Hard | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/757.py) | 01/22/18 |  |
 | 84 | Largest Rectangle in Histogram | Hard | Python | 79.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/84.py) | 01/27/18 |  |
 | 87 | Scramble String | Hard | Python | 48.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/87.py) | 01/28/18 |  |
+| 85 | Maximal Rectangle | Hard | Python | 33.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/85.py) | 01/30/18 |  |
