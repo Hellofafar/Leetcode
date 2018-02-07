@@ -5,7 +5,7 @@ My solutions and summary for problems in LeetCode.
 ## Classification
 | Type | Problems |
 | ---- | -------- |
-| Backtrack | 37, 39, 40, 46, 47, 77, 79 |
+| Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
 | Hash Table | 30, 159, 340 |
 | Design | 308, 346, 284, 173 |
 | Tree | 298 |
@@ -136,6 +136,7 @@ My solutions and summary for problems in LeetCode.
 | 86 | Search in Rotated Sorted Array II | Medium | Python | 52.99% | [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86_2.py) | 01/28/18 |  |
 | 82 | Remove Duplicates from Sorted List II | Medium | Python | 62.72% | [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/82.py) | 01/30/18 |  |
 | 89 | Grey Code | Medium | Python | 31.69% | [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/89.py) | 02/02/18 |  |
+| 90 | Subsets II | Medium | Python | 32.23% | [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/90.py) | 02/06/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
