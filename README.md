@@ -20,7 +20,7 @@ My solutions and summary for problems in LeetCode.
 | Graph | 399 |
 | Binary Search | 33, 69, 88 |
 | Two Pointers | 26, 80 |
-| Linked List | 82 |
+| Linked List | 82, 206 |
 | Bit Manipulation | 371 |
 
 ## Finished problems
@@ -59,6 +59,8 @@ My solutions and summary for problems in LeetCode.
 | 83 | Remove Duplicates from Sorted List | Easy | Python | 16.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/83.py) | 01/20/18 | |
 | 88 | Merge Sorted Array | Easy | Python | 27.82% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/88.py) | 01/26/18 | |
 | 371 | Sum of Two Integers | Easy | Python | 39.52% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/371.py) | 02/05/18 | |
+| 206 | Reverse Linked List | Easy | Python | 24.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/206.py) | 02/06/18 | |
+| 206 | Reverse Linked List | Easy | Python | 32.84% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/206_2.py) | 02/06/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
