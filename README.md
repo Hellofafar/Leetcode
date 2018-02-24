@@ -61,6 +61,7 @@ My solutions and summary for problems in LeetCode.
 | 371 | Sum of Two Integers | Easy | Python | 39.52% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/371.py) | 02/05/18 | |
 | 206 | Reverse Linked List | Easy | Python | 24.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/206.py) | 02/06/18 | |
 | 206 | Reverse Linked List | Easy | Python | 32.84% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/206_2.py) | 02/06/18 | |
+| 543 | Diameter of Binary Tree | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/543.py) | 02/22/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
