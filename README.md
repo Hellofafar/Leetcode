@@ -74,7 +74,7 @@ My solutions and summary for problems in LeetCode.
 | 445 | Add Two Numbers II | Medium | Python | 89.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/445.py) | 10/06/17 |  |
 | 50 | Pow(x, n) | Medium | Python | 73.08% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/50.py) | 10/07/17 |  |
 | 62 | Unique Paths | Medium | java | 4.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/62.java) | 10/09/17 | 63 |
-| 15 | 3Sum | Medium | Python | 37.03% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/15.java) | 12/18/17 | 16 |
+| 15 | 3Sum | Medium | Python | 37.03% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/15.py) | 12/18/17 | 16 |
 | 16 | 3Sum Closest | Medium | Python | 51.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/16.py) | 10/13/17 | 15 |
 | 75 | Sort Color | Medium | Python | 70.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/75.py) | 10/14/17 |  |
 | 17 | Letter Combinations of a Phone Number | Medium | Python | 86.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/17.py) | 10/16/17 |  |
