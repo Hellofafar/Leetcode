@@ -8,13 +8,13 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
 | Hash Table | 30, 159, 340 |
 | Design | 308, 346, 284, 173 |
-| Tree | 298, 543, 100, 101 |
+| Tree | 298, 543, 100, 101, 104 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85 |
 | Stack | 394, 173, 71 |
 | Array | 289, 54 |
 | Union Find | 305 |
 | Two Pointers | 259, 345 |
-| DFS/BFS | 317, 329, 417, 100, 101 |
+| DFS/BFS | 317, 329, 417, 100, 101, 104 |
 | Union Find | 305, 317 |
 | Greedy | 406 |
 | Graph | 399 |
@@ -64,6 +64,7 @@ My solutions and summary for problems in LeetCode.
 | 543 | Diameter of Binary Tree | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/543.py) | 02/22/18 | |
 | 100 | Same Tree | Easy | Python | 99.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/100.py) | 05/25/18 | |
 | 101 | Symmetric Tree | Easy | Python | 92.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/101.py) | 06/01/18 | |
+| 104 | Maximum Depth of Binary Tree | Easy | Python | 57.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/104.py) | 06/05/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
