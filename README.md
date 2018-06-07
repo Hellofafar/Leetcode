@@ -8,13 +8,13 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
 | Hash Table | 30, 159, 340 |
 | Design | 308, 346, 284, 173 |
-| Tree | 298, 543, 100, 101, 104, 107, 108 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85 |
 | Stack | 394, 173, 71 |
 | Array | 289, 54 |
 | Union Find | 305 |
 | Two Pointers | 259, 345 |
-| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108 |
+| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110 |
 | Union Find | 305, 317 |
 | Greedy | 406 |
 | Graph | 399 |
@@ -67,6 +67,7 @@ My solutions and summary for problems in LeetCode.
 | 104 | Maximum Depth of Binary Tree | Easy | Python | 57.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/104.py) | 06/05/18 | |
 | 107 | Binary Tree Level Order Traversal II | Easy | Python | 12.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/107.py) | 06/05/18 | |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | Python | 97.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/108.py) | 06/05/18 | |
+| 110 | Balanced Binary Tree | Easy | Python | 93.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/110.py) | 06/06/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
