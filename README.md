@@ -8,15 +8,15 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
 | Hash Table | 30, 159, 340 |
 | Design | 308, 346, 284, 173 |
-| Tree | 298, 543, 100, 101, 104, 107, 108, 110 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85 |
 | Stack | 394, 173, 71 |
-| Array | 289, 54 |
+| Array | 289, 54, 122 |
 | Union Find | 305 |
 | Two Pointers | 259, 345 |
-| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110 |
+| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111 |
 | Union Find | 305, 317 |
-| Greedy | 406 |
+| Greedy | 406, 122 |
 | Graph | 399 |
 | Binary Search | 33, 69, 88 |
 | Two Pointers | 26, 80 |
@@ -68,6 +68,11 @@ My solutions and summary for problems in LeetCode.
 | 107 | Binary Tree Level Order Traversal II | Easy | Python | 12.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/107.py) | 06/05/18 | |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | Python | 97.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/108.py) | 06/05/18 | |
 | 110 | Balanced Binary Tree | Easy | Python | 93.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/110.py) | 06/06/18 | |
+| 111 | Minimum Depth of Binary Tree | Easy | Python | 96.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/111.py) | 06/07/18 | |
+| 112 | Path Sum | Easy | Python | 94.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/112.py) | 06/07/18 | |
+| 118 | Pascal's Triangle | Easy | Python | 71.83% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/118.py) | 06/07/18 | |
+| 119 | Pascal's Triangle II | Easy | Python | 84.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/119.py) | 06/07/18 | |
+| 122 | Best Time to Buy and Sell Stock II | Easy | Python | 99.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/122.py) | 06/07/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
