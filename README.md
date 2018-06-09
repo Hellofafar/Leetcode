@@ -10,10 +10,10 @@ My solutions and summary for problems in LeetCode.
 | Design | 308, 346, 284, 173 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85 |
-| Stack | 394, 173, 71 |
+| Stack | 394, 173, 71, 155 |
 | Array | 289, 54, 119, 122 |
 | Union Find | 305 |
-| Two Pointers | 259, 345 |
+| Two Pointers | 259, 345, 141 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111 |
 | Union Find | 305, 317 |
 | Greedy | 406, 122 |
@@ -21,7 +21,7 @@ My solutions and summary for problems in LeetCode.
 | Binary Search | 33, 69, 88 |
 | Two Pointers | 26, 80, 125 |
 | Linked List | 82, 206 92 |
-| Bit Manipulation | 371 |
+| Bit Manipulation | 371, 136 |
 
 ## Finished problems
 ### Easy
@@ -74,6 +74,10 @@ My solutions and summary for problems in LeetCode.
 | 119 | Pascal's Triangle II | Easy | Python | 84.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/119.py) | 06/07/18 | |
 | 122 | Best Time to Buy and Sell Stock II | Easy | Python | 99.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/122.py) | 06/07/18 | |
 | 125 | Valid Palindrome | Easy | Python | 6.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/125.py) | 06/08/18 | |
+| 136 | Single Number | Easy | Python | 72.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/136.py) | 06/08/18 | |
+| 141 | Linked List Cycle | Easy | Python | 9.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/141.py) | 06/08/18 | |
+| 155 | Min Stack | Easy | Python | 11.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/155.py) | 06/08/18 | |
+| 160 | Intersection of Two Linked Lists | Easy | Python | 99.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/160.py) | 06/08/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
