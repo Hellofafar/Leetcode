@@ -11,7 +11,7 @@ My solutions and summary for problems in LeetCode.
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85 |
 | Stack | 394, 173, 71, 155 |
-| Array | 289, 54, 119, 122 |
+| Array | 289, 54, 119, 122, 169 |
 | Union Find | 305 |
 | Two Pointers | 259, 345, 141 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111 |
@@ -22,6 +22,7 @@ My solutions and summary for problems in LeetCode.
 | Two Pointers | 26, 80, 125 |
 | Linked List | 82, 206 92 |
 | Bit Manipulation | 371, 136 |
+| Math | 168, 171, 172 |
 
 ## Finished problems
 ### Easy
@@ -79,6 +80,10 @@ My solutions and summary for problems in LeetCode.
 | 155 | Min Stack | Easy | Python | 11.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/155.py) | 06/08/18 | |
 | 160 | Intersection of Two Linked Lists | Easy | Python | 99.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/160.py) | 06/08/18 | |
 | 167 | Two Sum II - Input array is sorted | Easy | Python | 48.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/167.py) | 06/09/18 | |
+| 168 | Excel Sheet Column Title | Easy | Python | 43.90% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/168.py) | 06/09/18 | |
+| 169 | Majority Element | Easy | Python | 96.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/169.py) | 06/09/18 | |
+| 171 | Excel Sheet Column Number | Easy | Python | 28.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/171.py) | 06/09/18 | |
+| 172 | Factorial Trailing Zeroes | Easy | Python | 26.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/172.py) | 06/09/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
