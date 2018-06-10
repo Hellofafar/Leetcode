@@ -78,6 +78,7 @@ My solutions and summary for problems in LeetCode.
 | 141 | Linked List Cycle | Easy | Python | 9.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/141.py) | 06/08/18 | |
 | 155 | Min Stack | Easy | Python | 11.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/155.py) | 06/08/18 | |
 | 160 | Intersection of Two Linked Lists | Easy | Python | 99.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/160.py) | 06/08/18 | |
+| 167 | Two Sum II - Input array is sorted | Easy | Python | 48.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/167.py) | 06/09/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
