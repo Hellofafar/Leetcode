@@ -9,9 +9,9 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340 |
 | Design | 308, 346, 284, 173 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198 |
 | Stack | 394, 173, 71, 155 |
-| Array | 289, 54, 119, 122, 169 |
+| Array | 289, 54, 119, 122, 169, 189, 190 |
 | Union Find | 305 |
 | Two Pointers | 259, 345, 141 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111 |
@@ -84,6 +84,11 @@ My solutions and summary for problems in LeetCode.
 | 169 | Majority Element | Easy | Python | 96.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/169.py) | 06/09/18 | |
 | 171 | Excel Sheet Column Number | Easy | Python | 28.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/171.py) | 06/09/18 | |
 | 172 | Factorial Trailing Zeroes | Easy | Python | 26.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/172.py) | 06/09/18 | |
+| 175 | Combine Two Tables | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/175.py) | 06/10/18 | |
+| 189 | Rotate Array | Easy | Python | 8.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/189.py) | 06/10/18 | |
+| 190 | Reverse Bits | Easy | Python | 42.77% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/190.py) | 06/10/18 | |
+| 191 | Number of 1 Bits | Easy | Python | 20.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/191.py) | 06/10/18 | |
+| 198 | House Robber | Easy | Python | 91.18% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/198.py) | 06/10/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
