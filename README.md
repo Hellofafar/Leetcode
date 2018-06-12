@@ -6,7 +6,7 @@ My solutions and summary for problems in LeetCode.
 | Type | Problems |
 | ---- | -------- |
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
-| Hash Table | 30, 159, 340 |
+| Hash Table | 30, 159, 340, 202, 204 |
 | Design | 308, 346, 284, 173 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198 |
@@ -22,7 +22,7 @@ My solutions and summary for problems in LeetCode.
 | Two Pointers | 26, 80, 125 |
 | Linked List | 82, 206 92 |
 | Bit Manipulation | 371, 136 |
-| Math | 168, 171, 172 |
+| Math | 168, 171, 172, 202 |
 
 ## Finished problems
 ### Easy
@@ -89,6 +89,9 @@ My solutions and summary for problems in LeetCode.
 | 190 | Reverse Bits | Easy | Python | 42.77% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/190.py) | 06/10/18 | |
 | 191 | Number of 1 Bits | Easy | Python | 20.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/191.py) | 06/10/18 | |
 | 198 | House Robber | Easy | Python | 91.18% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/198.py) | 06/10/18 | |
+| 202 | Happy Number | Easy | Python | 96.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/202.py) | 06/11/18 | |
+| 203 | Remove Linked List Elements | Easy | Python | 55.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/203.py) | 06/11/18 | |
+| 204 | Count Primes | Easy | Python | 63.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/204.py) | 06/11/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
