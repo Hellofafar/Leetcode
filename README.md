@@ -6,9 +6,9 @@ My solutions and summary for problems in LeetCode.
 | Type | Problems |
 | ---- | -------- |
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
-| Hash Table | 30, 159, 340, 202, 204 |
+| Hash Table | 30, 159, 340, 202, 204, 205， 219 |
 | Design | 308, 346, 284, 173 |
-| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198 |
 | Stack | 394, 173, 71, 155 |
 | Array | 289, 54, 119, 122, 169, 189, 190 |
@@ -92,6 +92,11 @@ My solutions and summary for problems in LeetCode.
 | 202 | Happy Number | Easy | Python | 96.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/202.py) | 06/11/18 | |
 | 203 | Remove Linked List Elements | Easy | Python | 55.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/203.py) | 06/11/18 | |
 | 204 | Count Primes | Easy | Python | 63.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/204.py) | 06/11/18 | |
+| 205 | Isomorphic Strings | Easy | Python | 98.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/205.py) | 06/12/18 | |
+| 217 | Contains Duplicate | Easy | Python | 88.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/217.py) | 06/12/18 | |
+| 219 | Contains Duplicate | Easy | Python | 21.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/219.py) | 06/12/18 | |
+| 225 | Implement Stack using Queues | Easy | Python | 93.49% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/225.py) | 06/12/18 | |
+| 226 | Invert Binary Tree | Easy | Python | 98.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/226.py) | 06/12/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
