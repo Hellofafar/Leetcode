@@ -21,7 +21,7 @@ My solutions and summary for problems in LeetCode.
 | Binary Search | 33, 69, 88 |
 | Two Pointers | 26, 80, 125 |
 | Linked List | 82, 206 92 |
-| Bit Manipulation | 371, 136 |
+| Bit Manipulation | 371, 136, 231 |
 | Math | 168, 171, 172, 202 |
 
 ## Finished problems
@@ -97,6 +97,7 @@ My solutions and summary for problems in LeetCode.
 | 219 | Contains Duplicate | Easy | Python | 21.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/219.py) | 06/12/18 | |
 | 225 | Implement Stack using Queues | Easy | Python | 93.49% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/225.py) | 06/12/18 | |
 | 226 | Invert Binary Tree | Easy | Python | 98.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/226.py) | 06/12/18 | |
+| 231 | Invert Binary Tree | Easy | Python | 72.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/231.py) | 06/13/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
