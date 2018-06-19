@@ -98,6 +98,8 @@ My solutions and summary for problems in LeetCode.
 | 225 | Implement Stack using Queues | Easy | Python | 93.49% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/225.py) | 06/12/18 | |
 | 226 | Invert Binary Tree | Easy | Python | 98.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/226.py) | 06/12/18 | |
 | 231 | Invert Binary Tree | Easy | Python | 72.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/231.py) | 06/13/18 | |
+| 232 | Implement Queue using Stacks | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/232.py) | 06/13/18 | |
+| 234 | Palindrome Linked List | Easy | Python | 16.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/234.py) | 06/18/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
