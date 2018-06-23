@@ -102,6 +102,7 @@ My solutions and summary for problems in LeetCode.
 | 234 | Palindrome Linked List | Easy | Python | 16.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/234.py) | 06/18/18 | |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | Python | 63.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/235.py) | 06/20/18 | |
 | 237 | Delete Node in a Linked List | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/237.py) | 06/20/18 | |
+| 242 | Valid Anagram | Easy | Python | 80.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/242.py) | 06/22/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
