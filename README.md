@@ -109,6 +109,7 @@ My solutions and summary for problems in LeetCode.
 | 268 | Missing Number | Easy | Python | 8.36% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/268.py) | 06/23/18 | |
 | 278 | First Bad Version | Easy | Python | 33.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/278.py) | 06/23/18 | |
 | 290 | Word Pattern | Easy | Python | 94.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/290.py) | 06/23/18 | |
+| 292 | Nim Game | Easy | Python | 96.96% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/292.py) | 06/23/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
