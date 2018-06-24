@@ -8,13 +8,13 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219 |
 | Design | 308, 346, 284, 173 |
-| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198 |
 | Stack | 394, 173, 71, 155 |
 | Array | 289, 54, 119, 122, 169, 189, 190 |
 | Union Find | 305 |
 | Two Pointers | 259, 345, 141 |
-| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111 |
+| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257 |
 | Union Find | 305, 317 |
 | Greedy | 406, 122 |
 | Graph | 399 |
@@ -103,6 +103,12 @@ My solutions and summary for problems in LeetCode.
 | 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | Python | 63.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/235.py) | 06/20/18 | |
 | 237 | Delete Node in a Linked List | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/237.py) | 06/20/18 | |
 | 242 | Valid Anagram | Easy | Python | 80.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/242.py) | 06/22/18 | |
+| 257 | Binary Tree Paths | Easy | Python | 43.32% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/257.py) | 06/23/18 | |
+| 258 | Add Digits | Easy | Python | 68.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/258.py) | 06/23/18 | |
+| 263 | Ugly Number | Easy | Python | 45.82% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/263.py) | 06/23/18 | |
+| 268 | Missing Number | Easy | Python | 8.36% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/268.py) | 06/23/18 | |
+| 278 | First Bad Version | Easy | Python | 33.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/278.py) | 06/23/18 | |
+| 290 | Word Pattern | Easy | Python | 94.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/290.py) | 06/23/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
