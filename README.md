@@ -21,7 +21,7 @@ My solutions and summary for problems in LeetCode.
 | Binary Search | 33, 69, 88 |
 | Two Pointers | 26, 80, 125 |
 | Linked List | 82, 206 92 |
-| Bit Manipulation | 371, 136, 231 |
+| Bit Manipulation | 371, 136, 231, 342 |
 | Math | 168, 171, 172, 202 |
 
 ## Finished problems
@@ -110,6 +110,11 @@ My solutions and summary for problems in LeetCode.
 | 278 | First Bad Version | Easy | Python | 33.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/278.py) | 06/23/18 | |
 | 290 | Word Pattern | Easy | Python | 94.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/290.py) | 06/23/18 | |
 | 292 | Nim Game | Easy | Python | 96.96% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/292.py) | 06/23/18 | |
+| 303 | Range Sum Query - Immutable | Easy | Python | 25.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/303.py) | 06/24/18 | |
+| 326 | Power of Three | Easy | Python | 24.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/326.py) | 06/24/18 | |
+| 342 | Power of Four | Easy | Python | 64.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/342.py) | 06/24/18 | |
+| 344 | Reverse String | Easy | Python | 85.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/344.py) | 06/24/18 | |
+| 349 | Intersection of Two Arrays | Easy | Python | 56.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/349.py) | 06/24/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
