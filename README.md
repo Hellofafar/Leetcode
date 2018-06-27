@@ -116,6 +116,8 @@ My solutions and summary for problems in LeetCode.
 | 344 | Reverse String | Easy | Python | 85.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/344.py) | 06/24/18 | |
 | 349 | Intersection of Two Arrays | Easy | Python | 56.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/349.py) | 06/24/18 | |
 | 350 | Intersection of Two Arrays II | Easy | Python | 39.74% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/350.py) | 06/25/18 | |
+| 367 | Valid Perfect Square | Easy | Python | 84.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/367.py) | 06/26/18 | |
+| 374 | Guess Number Higher or Lower | Easy | Python | 20.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/374.py) | 06/26/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
