@@ -118,6 +118,8 @@ My solutions and summary for problems in LeetCode.
 | 350 | Intersection of Two Arrays II | Easy | Python | 39.74% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/350.py) | 06/25/18 | |
 | 367 | Valid Perfect Square | Easy | Python | 84.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/367.py) | 06/26/18 | |
 | 374 | Guess Number Higher or Lower | Easy | Python | 20.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/374.py) | 06/26/18 | |
+| 383 | Ransom Note | Easy | Python | 88.03% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/383.py) | 06/27/18 | |
+| 389 | Find the Difference | Easy | Python | 97.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/389.py) | 06/27/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
