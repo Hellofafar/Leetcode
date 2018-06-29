@@ -120,6 +120,9 @@ My solutions and summary for problems in LeetCode.
 | 374 | Guess Number Higher or Lower | Easy | Python | 20.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/374.py) | 06/26/18 | |
 | 383 | Ransom Note | Easy | Python | 88.03% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/383.py) | 06/27/18 | |
 | 389 | Find the Difference | Easy | Python | 97.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/389.py) | 06/27/18 | |
+| 400 | Nth Digit | Easy | Python | 34.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/400.py) | 06/28/18 | |
+| 401 | Binary Watch | Easy | Python | 94.64% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/401.py) | 06/28/18 | |
+| 404 | Sum of Left Leaves | Easy | Python | 63.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/404.py) | 06/28/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
