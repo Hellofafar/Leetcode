@@ -8,7 +8,7 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219 |
 | Design | 308, 346, 284, 173 |
-| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198 |
 | Stack | 394, 173, 71, 155 |
 | Array | 289, 54, 119, 122, 169, 189, 190 |
@@ -123,6 +123,7 @@ My solutions and summary for problems in LeetCode.
 | 400 | Nth Digit | Easy | Python | 34.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/400.py) | 06/28/18 | |
 | 401 | Binary Watch | Easy | Python | 94.64% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/401.py) | 06/28/18 | |
 | 404 | Sum of Left Leaves | Easy | Python | 63.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/404.py) | 06/28/18 | |
+| 409 | Longest Palindrome | Easy | Python | 97.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/409.py) | 06/29/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
