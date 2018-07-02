@@ -21,7 +21,7 @@ My solutions and summary for problems in LeetCode.
 | Binary Search | 33, 69, 88 |
 | Two Pointers | 26, 80, 125 |
 | Linked List | 82, 206 92 |
-| Bit Manipulation | 371, 136, 231, 342 |
+| Bit Manipulation | 371, 136, 231, 342, 405 |
 | Math | 168, 171, 172, 202 |
 
 ## Finished problems
@@ -124,6 +124,7 @@ My solutions and summary for problems in LeetCode.
 | 401 | Binary Watch | Easy | Python | 94.64% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/401.py) | 06/28/18 | |
 | 404 | Sum of Left Leaves | Easy | Python | 63.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/404.py) | 06/28/18 | |
 | 409 | Longest Palindrome | Easy | Python | 97.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/409.py) | 06/29/18 | |
+| 405 | Convert a Number to Hexadecimal | Easy | Python | 28.84% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/409.py) | 07/01/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
