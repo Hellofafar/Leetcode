@@ -6,7 +6,7 @@ My solutions and summary for problems in LeetCode.
 | Type | Problems |
 | ---- | -------- |
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
-| Hash Table | 30, 159, 340, 202, 204, 205， 219, 438 |
+| Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198 |
@@ -131,6 +131,9 @@ My solutions and summary for problems in LeetCode.
 | 434 | Number of Segments in a String | Easy | Python | 34.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/434.py) | 07/02/18 | |
 | 437 | Path Sum III | Easy | Python | 49.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/437.py) | 07/03/18 | |
 | 438 | Find All Anagrams in a String | Easy | Python | 74.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/438.py) | 07/04/18 | |
+| 441 | Arranging Coins | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/441.py) | 07/05/18 | |
+| 443 | String Compression | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/443.py) | 07/05/18 | |
+| 447 | Number of Boomerangs | Easy | Python | 91.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/447.py) | 07/05/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
