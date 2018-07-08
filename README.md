@@ -21,7 +21,7 @@ My solutions and summary for problems in LeetCode.
 | Binary Search | 33, 69, 88 |
 | Two Pointers | 26, 80, 125 |
 | Linked List | 82, 206 92 |
-| Bit Manipulation | 371, 136, 231, 342, 405 |
+| Bit Manipulation | 371, 136, 231, 342, 405, 461 |
 | Math | 168, 171, 172, 202 |
 
 ## Finished problems
@@ -134,9 +134,13 @@ My solutions and summary for problems in LeetCode.
 | 441 | Arranging Coins | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/441.py) | 07/05/18 | |
 | 443 | String Compression | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/443.py) | 07/05/18 | |
 | 447 | Number of Boomerangs | Easy | Python | 91.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/447.py) | 07/05/18 | |
-| 448 | Find All Numbers Disappeared in an Array | Easy | Python | 99.96% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/447.py) | 07/06/18 | |
+| 448 | Find All Numbers Disappeared in an Array | Easy | Python | 99.96% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/448.py) | 07/06/18 | |
 | 453 | Minimum Moves to Equal Array Elements | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/453.py) | 07/06/18 | |
 | 455 | Assign Cookies | Easy | Python | 99.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/455.py) | 07/06/18 | |
+| 458 | Poor Pigs | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/458.py) | 07/07/18 | |
+| 459 | Repeated Substring Pattern | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/459.py) | 07/07/18 | |
+| 461 | Hamming Distance | Easy | Python | 98.96% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/461.py) | 07/07/18 | |
+| 463 | Island Perimeter | Easy | Python | 99.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/463.py) | 07/07/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
