@@ -141,6 +141,7 @@ My solutions and summary for problems in LeetCode.
 | 459 | Repeated Substring Pattern | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/459.py) | 07/07/18 | |
 | 461 | Hamming Distance | Easy | Python | 98.96% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/461.py) | 07/07/18 | |
 | 463 | Island Perimeter | Easy | Python | 99.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/463.py) | 07/07/18 | |
+| 475 | Heaters | Easy | Python | 26.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/475.py) | 07/08/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
