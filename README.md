@@ -142,6 +142,9 @@ My solutions and summary for problems in LeetCode.
 | 461 | Hamming Distance | Easy | Python | 98.96% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/461.py) | 07/07/18 | |
 | 463 | Island Perimeter | Easy | Python | 99.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/463.py) | 07/07/18 | |
 | 475 | Heaters | Easy | Python | 26.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/475.py) | 07/08/18 | |
+| 476 | Number Complement | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/476.py) | 07/09/18 | |
+| 479 | Largest Palindrome Product | Easy | Python | Time Limit Exceeded | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/479.py) | 07/09/18 | |
+| 485 | Max Consecutive Ones | Easy | Python | 1.36% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/485.py) | 07/09/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
