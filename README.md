@@ -145,6 +145,10 @@ My solutions and summary for problems in LeetCode.
 | 476 | Number Complement | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/476.py) | 07/09/18 | |
 | 479 | Largest Palindrome Product | Easy | Python | Time Limit Exceeded | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/479.py) | 07/09/18 | |
 | 485 | Max Consecutive Ones | Easy | Python | 1.36% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/485.py) | 07/09/18 | |
+| 492 | Construct the Rectangle | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/492.py) | 07/10/18 | |
+| 496 | Next Greater Element I | Easy | Python | 79.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/496.py) | 07/10/18 | |
+| 496 | Next Greater Element I | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/496_2.py) | 07/10/18 | |
+| 500 | Keyboard Row | Easy | Python | 99.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/500.py) | 07/10/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
