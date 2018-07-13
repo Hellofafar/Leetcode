@@ -149,6 +149,8 @@ My solutions and summary for problems in LeetCode.
 | 496 | Next Greater Element I | Easy | Python | 79.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/496.py) | 07/10/18 | |
 | 496 | Next Greater Element I | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/496_2.py) | 07/10/18 | |
 | 500 | Keyboard Row | Easy | Python | 99.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/500.py) | 07/10/18 | |
+| 501 | Find Mode in Binary Search Tree | Easy | Python | 98.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/501.py) | 07/11/18 | |
+| 504 | Base 7 | Easy | Python | 97.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/504.py) | 07/12/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
