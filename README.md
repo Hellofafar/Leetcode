@@ -19,6 +19,7 @@ My solutions and summary for problems in LeetCode.
 | Greedy | 406, 122 |
 | Graph | 399 |
 | Binary Search | 33, 69, 88 |
+| Binary Search Tree | 530 |
 | Two Pointers | 26, 80, 125 |
 | Linked List | 82, 206 92 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461 |
@@ -154,6 +155,11 @@ My solutions and summary for problems in LeetCode.
 | 506 | Relative Ranks | Easy | Python | 19.83% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/504.py) | 07/13/18 | |
 | 507 | Perfect Number | Easy | Python | 99.85% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/507.py) | 07/13/18 | |
 | 520 | Detect Capital | Easy | Python | 94.85% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/520.py) | 07/13/18 | |
+| 521 | Longest Uncommon Subsequence I | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/521.py) | 07/14/18 | |
+| 530 | Minimum Absolute Difference in BST | Easy | Python | 96.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/530.py) | 07/14/18 | 538 |
+| 532 | K-diff Pairs in an Array | Easy | Python | 0% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/532.py) | 07/14/18 | |
+| 538 | Convert BST to Greater Tree | Easy | Python | 98.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/538.py) | 07/14/18 | 530 |
+| 541 | Reverse String II | Easy | Python | 93.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/541.py) | 07/14/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
