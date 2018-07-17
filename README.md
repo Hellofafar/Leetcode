@@ -163,7 +163,8 @@ My solutions and summary for problems in LeetCode.
 | 429 | N-ary Tree Level Order Traversal | Easy | Python | 91.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/429.py) | 07/14/18 | |
 | 551 | Student Attendance Record I | Easy | Python | 95.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/551.py) | 07/15/18 | |
 | 557 | Reverse Words in a String III | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/557.py) | 07/15/18 | |
-| 557 | Maximum Depth of N-ary Tree | Easy | Python | 73.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/559.py) | 07/15/18 | |
+| 559 | Maximum Depth of N-ary Tree | Easy | Python | 73.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/559.py) | 07/15/18 | |
+| 561 | Array Partition I | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/561.py) | 07/16/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
