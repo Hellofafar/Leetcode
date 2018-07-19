@@ -8,7 +8,7 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173 |
-| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198 |
 | Stack | 394, 173, 71, 155 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448 |
@@ -166,6 +166,8 @@ My solutions and summary for problems in LeetCode.
 | 559 | Maximum Depth of N-ary Tree | Easy | Python | 73.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/559.py) | 07/15/18 | |
 | 561 | Array Partition I | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/561.py) | 07/16/18 | |
 | 563 | Binary Tree Tilt | Easy | Python | 98.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/563.py) | 07/17/18 | |
+| 566 | Reshape the Matrix | Easy | Python | 41.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/566.py) | 07/18/18 | |
+| 572 | Subtree of Another Tree | Easy | Python | 49.03% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/572.py) | 07/18/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
