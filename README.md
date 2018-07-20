@@ -11,7 +11,7 @@ My solutions and summary for problems in LeetCode.
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198 |
 | Stack | 394, 173, 71, 155 |
-| Array | 289, 54, 119, 122, 169, 189, 190, 448 |
+| Array | 289, 54, 119, 122, 169, 189, 190, 448, 581 |
 | Union Find | 305 |
 | Two Pointers | 259, 345, 141 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257 |
@@ -168,6 +168,8 @@ My solutions and summary for problems in LeetCode.
 | 563 | Binary Tree Tilt | Easy | Python | 98.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/563.py) | 07/17/18 | |
 | 566 | Reshape the Matrix | Easy | Python | 41.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/566.py) | 07/18/18 | |
 | 572 | Subtree of Another Tree | Easy | Python | 49.03% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/572.py) | 07/18/18 | |
+| 575 | Distribute Candies | Easy | Python | 41.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/575.py) | 07/19/18 | |
+| 581 | Shortest Unsorted Continuous Subarray | Easy | Python | 39.21% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/581.py) | 07/19/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
