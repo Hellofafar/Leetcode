@@ -170,7 +170,8 @@ My solutions and summary for problems in LeetCode.
 | 572 | Subtree of Another Tree | Easy | Python | 49.03% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/572.py) | 07/18/18 | |
 | 575 | Distribute Candies | Easy | Python | 41.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/575.py) | 07/19/18 | |
 | 581 | Shortest Unsorted Continuous Subarray | Easy | Python | 39.21% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/581.py) | 07/19/18 | |
-| 589 | N-ary Tree Preorder Traversal | Easy | Python | 26.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/581.py) | 07/20/18 | |
+| 589 | N-ary Tree Preorder Traversal | Easy | Python | 26.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/589.py) | 07/20/18 | 590 |
+| 590 | N-ary Tree Postorder Traversal | Easy | Python | 7.74% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/590.py) | 07/22/18 | 589 |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
