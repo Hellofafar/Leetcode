@@ -174,6 +174,7 @@ My solutions and summary for problems in LeetCode.
 | 590 | N-ary Tree Postorder Traversal | Easy | Python | 7.74% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/590.py) | 07/22/18 | 589 |
 | 594 | Longest Harmonious Subsequence | Easy | Python | 64.64% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/594.py) | 07/22/18 | |
 | 598 | Range Addition II | Easy | Python | 97.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/598.py) | 07/22/18 | |
+| 599 | Minimum Index Sum of Two Lists | Easy | Python | 28.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/599.py) | 07/23/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
