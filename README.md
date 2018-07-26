@@ -175,6 +175,8 @@ My solutions and summary for problems in LeetCode.
 | 594 | Longest Harmonious Subsequence | Easy | Python | 64.64% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/594.py) | 07/22/18 | |
 | 598 | Range Addition II | Easy | Python | 97.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/598.py) | 07/22/18 | |
 | 599 | Minimum Index Sum of Two Lists | Easy | Python | 28.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/599.py) | 07/23/18 | |
+| 605 | Can Place Flowers | Easy | Python | 50.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/605.py) | 07/25/18 | |
+| 606 | Construct String from Binary Tree | Easy | Python | 2.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/606.py) | 07/25/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
