@@ -177,6 +177,8 @@ My solutions and summary for problems in LeetCode.
 | 599 | Minimum Index Sum of Two Lists | Easy | Python | 28.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/599.py) | 07/23/18 | |
 | 605 | Can Place Flowers | Easy | Python | 50.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/605.py) | 07/25/18 | |
 | 606 | Construct String from Binary Tree | Easy | Python | 2.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/606.py) | 07/25/18 | |
+| 617 | Merge Two Binary Trees | Easy | Python | 3.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/617.py) | 07/26/18 | |
+| 628 | Maximum Product of Three Numbers | Easy | Python | 26.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/628.py) | 07/26/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
