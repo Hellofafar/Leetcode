@@ -182,6 +182,9 @@ My solutions and summary for problems in LeetCode.
 | 633 | Sum of Square Numbers | Easy | Python | 68.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/633.py) | 07/28/18 | |
 | 637 | Average of Levels in Binary Tree | Easy | Python | 76.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/633.py) | 07/28/18 | |
 | 643 | Maximum Average Subarray I | Easy | Python | 1.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/643.py) | 07/28/18 | |
+| 645 | Set Mismatch | Easy | Python | 96.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/645.py) | 07/29/18 | |
+| 653 | Two Sum IV - Input is a BST | Easy | Python | 12.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/653.py) | 07/29/18 | |
+| 657 | Judge Route Circle | Easy | Python | 24.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/657.py) | 07/29/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
