@@ -11,7 +11,7 @@ My solutions and summary for problems in LeetCode.
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198 |
 | Stack | 394, 173, 71, 155 |
-| Array | 289, 54, 119, 122, 169, 189, 190, 448, 581 |
+| Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
 | Union Find | 305 |
 | Two Pointers | 259, 345, 141 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257 |
@@ -185,6 +185,8 @@ My solutions and summary for problems in LeetCode.
 | 645 | Set Mismatch | Easy | Python | 96.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/645.py) | 07/29/18 | |
 | 653 | Two Sum IV - Input is a BST | Easy | Python | 12.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/653.py) | 07/29/18 | |
 | 657 | Judge Route Circle | Easy | Python | 24.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/657.py) | 07/29/18 | |
+| 661 | Image Smoother | Easy | Python | 31.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/661.py) | 07/30/18 | |
+| 665 | Non-decreasing Array | Easy | Python | 37.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/665.py) | 07/30/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
