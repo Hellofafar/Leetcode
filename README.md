@@ -8,7 +8,7 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173 |
-| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198 |
 | Stack | 394, 173, 71, 155 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
@@ -187,6 +187,7 @@ My solutions and summary for problems in LeetCode.
 | 657 | Judge Route Circle | Easy | Python | 24.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/657.py) | 07/29/18 | |
 | 661 | Image Smoother | Easy | Python | 31.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/661.py) | 07/30/18 | |
 | 665 | Non-decreasing Array | Easy | Python | 37.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/665.py) | 07/30/18 | |
+| 669 | Trim a Binary Search Tree | Easy | Python | 0% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/669.py) | 07/31/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
