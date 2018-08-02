@@ -188,6 +188,7 @@ My solutions and summary for problems in LeetCode.
 | 661 | Image Smoother | Easy | Python | 31.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/661.py) | 07/30/18 | |
 | 665 | Non-decreasing Array | Easy | Python | 37.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/665.py) | 07/30/18 | |
 | 669 | Trim a Binary Search Tree | Easy | Python | 0% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/669.py) | 07/31/18 | |
+| 671 | Second Minimum Node In a Binary Tree | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/669.py) | 08/01/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
