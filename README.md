@@ -24,6 +24,7 @@ My solutions and summary for problems in LeetCode.
 | Linked List | 82, 206 92 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461 |
 | Math | 168, 171, 172, 202 |
+| String | 680 |
 
 ## Finished problems
 ### Easy
@@ -189,6 +190,7 @@ My solutions and summary for problems in LeetCode.
 | 665 | Non-decreasing Array | Easy | Python | 37.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/665.py) | 07/30/18 | |
 | 669 | Trim a Binary Search Tree | Easy | Python | 0% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/669.py) | 07/31/18 | |
 | 671 | Second Minimum Node In a Binary Tree | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/669.py) | 08/01/18 | |
+| 680 | Valid Palindrome II | Easy | Python | 66.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/680.py) | 08/03/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
