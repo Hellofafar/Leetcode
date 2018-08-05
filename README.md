@@ -49,7 +49,7 @@ My solutions and summary for problems in LeetCode.
 | 66 | Plus One | Easy | Python | 84.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/66.py) | 11/04/17 | |
 |  | Longest Word in Dictionary | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c720.py) | 11/04/17 | |
 | 346 | Moving Average from Data Stream | Easy | Python | 95.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/346.py) | 11/07/17 | |
-| 686 | Repeated String Match | Easy | Python | 56.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/686.py) | 11/13/17 | |
+| 686 | Repeated String Match | Easy | Python | 56.40%, 36.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/686.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/686_2.py) | 11/13/17, 08/04/18 | |
 | 246 | Strobogrammatic Number | Easy | Python | 26.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/246.py) | 11/14/17 | 247, 248 |
 | 345 | Reverse Vowels of a String | Easy | Python | 24.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/345.py) | 11/15/17 | |
 | 58 | Length of Last Word | Easy | Python | 51.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/58.py) | 11/21/17 | |
@@ -189,8 +189,10 @@ My solutions and summary for problems in LeetCode.
 | 661 | Image Smoother | Easy | Python | 31.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/661.py) | 07/30/18 | |
 | 665 | Non-decreasing Array | Easy | Python | 37.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/665.py) | 07/30/18 | |
 | 669 | Trim a Binary Search Tree | Easy | Python | 0% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/669.py) | 07/31/18 | |
-| 671 | Second Minimum Node In a Binary Tree | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/669.py) | 08/01/18 | |
+| 671 | Second Minimum Node In a Binary Tree | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/671.py) | 08/01/18 | |
+| 674 | Longest Continuous Increasing Subsequence | Easy | Python | 6.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/674.py) | 08/03/18 | |
 | 680 | Valid Palindrome II | Easy | Python | 66.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/680.py) | 08/03/18 | |
+| 682 | Baseball Game | Easy | Python | 57.29% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/682.py) | 08/04/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
