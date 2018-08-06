@@ -8,7 +8,7 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173 |
-| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198 |
 | Stack | 394, 173, 71, 155 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
@@ -23,7 +23,7 @@ My solutions and summary for problems in LeetCode.
 | Two Pointers | 26, 80, 125 |
 | Linked List | 82, 206 92 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461 |
-| Math | 168, 171, 172, 202 |
+| Math | 168, 171, 172, 202, 693 |
 | String | 680 |
 
 ## Finished problems
@@ -193,6 +193,8 @@ My solutions and summary for problems in LeetCode.
 | 674 | Longest Continuous Increasing Subsequence | Easy | Python | 6.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/674.py) | 08/03/18 | |
 | 680 | Valid Palindrome II | Easy | Python | 66.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/680.py) | 08/03/18 | |
 | 682 | Baseball Game | Easy | Python | 57.29% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/682.py) | 08/04/18 | |
+| 690 | Employee Importance | Easy | Python | 13.08% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/690.py) | 08/05/18 | |
+| 693 | Binary Number with Alternating Bits | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/690.py) | 08/05/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |

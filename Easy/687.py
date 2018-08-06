@@ -70,3 +70,6 @@ if __name__ == "__main__":
 # ------------------------------
 # Summary:
 # Recursive solution.
+# Key point is the returning result is different from length of path with current node as root.
+# Returning result is the max length of left path and right path;
+# Length of path with current node as root is the sum of left and right path.
