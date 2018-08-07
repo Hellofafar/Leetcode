@@ -14,7 +14,7 @@ My solutions and summary for problems in LeetCode.
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
 | Union Find | 305 |
 | Two Pointers | 259, 345, 141 |
-| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257 |
+| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695 |
 | Union Find | 305, 317 |
 | Greedy | 406, 122 |
 | Graph | 399 |
@@ -195,6 +195,8 @@ My solutions and summary for problems in LeetCode.
 | 682 | Baseball Game | Easy | Python | 57.29% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/682.py) | 08/04/18 | |
 | 690 | Employee Importance | Easy | Python | 13.08% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/690.py) | 08/05/18 | |
 | 693 | Binary Number with Alternating Bits | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/690.py) | 08/05/18 | |
+| 695 | Max Area of Island | Easy | Python | 0.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/695.py) | 08/06/18 | |
+| 700 | Search in a Binary Search Tree | Easy | Python | 55.41% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/700.py) | 08/06/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -250,7 +252,7 @@ My solutions and summary for problems in LeetCode.
 | 417 | Pacific Atlantic Water Flow | Medium | Python | 69.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/417.py) | 12/09/17 |  |
 | 284 | Peeking Iterator | Medium | Python | 25.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/284.py) | 12/10/17 | 173 |
 | 173 | Binary Search Tree Iterator | Medium | Python | 62.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/173.py) | 12/10/17 | 284 |
-| 56 | Merge Intervals | Medium | Python | 39.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56.py) | 12/10/17 |  |
+| 56 | Merge Intervals | Medium | Python | 39.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56_2.py) | 08/06/18 |  |
 | 247 | Strobogrammatic Number II | Medium | Python | 16.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/247.py) | 12/10/17 | 246, 248 |
 | 524 | Longest Word in Dictionary through Deleting | Medium | Python | 91.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/524.py) | 12/10/17 |  |
 | 228 | Summary Ranges | Medium | Python | 74.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/228.py) | 12/11/17 |  |
