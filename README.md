@@ -252,7 +252,7 @@ My solutions and summary for problems in LeetCode.
 | 417 | Pacific Atlantic Water Flow | Medium | Python | 69.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/417.py) | 12/09/17 |  |
 | 284 | Peeking Iterator | Medium | Python | 25.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/284.py) | 12/10/17 | 173 |
 | 173 | Binary Search Tree Iterator | Medium | Python | 62.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/173.py) | 12/10/17 | 284 |
-| 56 | Merge Intervals | Medium | Python | 39.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56_2.py) | 12/10/17, 08/06/18 |  |
+| 56 | Merge Intervals | Medium | Python | 39.56%, 95.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56_2.py) | 12/10/17, 08/06/18 |  |
 | 247 | Strobogrammatic Number II | Medium | Python | 16.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/247.py) | 12/10/17 | 246, 248 |
 | 524 | Longest Word in Dictionary through Deleting | Medium | Python | 91.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/524.py) | 12/10/17 |  |
 | 228 | Summary Ranges | Medium | Python | 74.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/228.py) | 12/11/17 |  |
@@ -270,13 +270,12 @@ My solutions and summary for problems in LeetCode.
 | 79 | Word Search | Medium | Python | 7.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79.py) | 01/21/18 |  |
 | 80 | Remove Duplicates from Sorted Array II | Medium | Python | 41.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/80.py) | 01/21/18 | 26 |
 | 81 | Search in Rotated Sorted Array II | Medium | Python | 52.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/81.py) | 01/27/18 | 33 |
-| 86 | Search in Rotated Sorted Array II | Medium | Python | 0.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86.py) | 01/28/18 |  |
-| 86 | Search in Rotated Sorted Array II | Medium | Python | 52.99% | [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86_2.py) | 01/28/18 |  |
-| 82 | Remove Duplicates from Sorted List II | Medium | Python | 62.72% | [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/82.py) | 01/30/18 |  |
-| 89 | Grey Code | Medium | Python | 31.69% | [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/89.py) | 02/02/18 |  |
-| 90 | Subsets II | Medium | Python | 32.23% | [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/90.py) | 02/06/18 |  |
-| 91 | Decode Ways | Medium | Python | 29.80% | [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/91.py) | 02/19/18 |  |
-| 92 | Subsets II | Medium | Python | 58.95% | [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/92.py) | 02/24/18 |  |
+| 86 | Search in Rotated Sorted Array II | Medium | Python | 0.19%, 52.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86_2.py) | 01/28/18, 01/28/18 |  |
+| 82 | Remove Duplicates from Sorted List II | Medium | Python | 62.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/82.py) | 01/30/18 |  |
+| 89 | Grey Code | Medium | Python | 31.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/89.py) | 02/02/18 |  |
+| 90 | Subsets II | Medium | Python | 32.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/90.py) | 02/06/18 |  |
+| 91 | Decode Ways | Medium | Python | 29.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/91.py) | 02/19/18 |  |
+| 92 | Subsets II | Medium | Python | 58.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/92.py) | 02/24/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
