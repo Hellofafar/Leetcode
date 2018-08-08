@@ -10,7 +10,7 @@ My solutions and summary for problems in LeetCode.
 | Design | 308, 346, 284, 173 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198 |
-| Stack | 394, 173, 71, 155 |
+| Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
 | Union Find | 305 |
 | Two Pointers | 259, 345, 141 |
@@ -25,6 +25,7 @@ My solutions and summary for problems in LeetCode.
 | Bit Manipulation | 371, 136, 231, 342, 405, 461 |
 | Math | 168, 171, 172, 202, 693 |
 | String | 680 |
+| Preorder/Inorder/Postorder | 589, 590, 94 |
 
 ## Finished problems
 ### Easy
@@ -276,6 +277,8 @@ My solutions and summary for problems in LeetCode.
 | 90 | Subsets II | Medium | Python | 32.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/90.py) | 02/06/18 |  |
 | 91 | Decode Ways | Medium | Python | 29.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/91.py) | 02/19/18 |  |
 | 92 | Subsets II | Medium | Python | 58.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/92.py) | 02/24/18 |  |
+| 93 | Restore IP Addresses | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/93.py) | 08/07/18 |  |
+| 94 | Binary Tree Inorder Traversal | Medium | Python | 99.96% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/94.py) | 08/07/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
