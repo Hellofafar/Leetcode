@@ -9,7 +9,7 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
 | Union Find | 305 |
@@ -278,8 +278,10 @@ My solutions and summary for problems in LeetCode.
 | 91 | Decode Ways | Medium | Python | 29.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/91.py) | 02/19/18 | |
 | 92 | Subsets II | Medium | Python | 58.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/92.py) | 02/24/18 | |
 | 93 | Restore IP Addresses | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/93.py) | 08/07/18 | |
-| 94 | Binary Tree Inorder Traversal | Medium | Python | 99.96% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/94.py) | 08/07/18 | |
-| 95 | Unique Binary Search Trees II | Medium | Python | 79.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/95.py) | 08/08/18 | |
+| 94 | Binary Tree Inorder Traversal | Medium | Python | 99.96% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/94.py) | 08/07/18 | 98 |
+| 95 | Unique Binary Search Trees II | Medium | Python | 79.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/95.py) | 08/08/18 | 96 |
+| 96 | Unique Binary Search Trees | Medium | Python | 21.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/96.py) | 08/09/18 | 95 |
+| 98 | Validate Binary Search Tree | Medium | Python | 76.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/98.py) | 08/09/18 | 94 |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
