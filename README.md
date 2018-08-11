@@ -282,6 +282,8 @@ My solutions and summary for problems in LeetCode.
 | 95 | Unique Binary Search Trees II | Medium | Python | 79.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/95.py) | 08/08/18 | 96 |
 | 96 | Unique Binary Search Trees | Medium | Python | 21.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/96.py) | 08/09/18 | 95 |
 | 98 | Validate Binary Search Tree | Medium | Python | 76.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/98.py) | 08/09/18 | 94 |
+| 102 | Binary Tree Level Order Traversal | Medium | Python | 6.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/102.py) | 08/10/18 | 103 |
+| 103 | Binary Tree Zigzag Level Order Traversal | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/103.py) | 08/10/18 | 102 |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
