@@ -2,8 +2,8 @@
 
 My solutions and summary for problems in LeetCode.
 
-## Classification
-| Type | Problems |
+## Problems by topics
+| Topics | Problems |
 | ---- | -------- |
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
@@ -14,18 +14,18 @@ My solutions and summary for problems in LeetCode.
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
 | Union Find | 305 |
 | Two Pointers | 259, 345, 141 |
-| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695 |
+| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105 |
 | Union Find | 305, 317 |
 | Greedy | 406, 122 |
 | Graph | 399 |
 | Binary Search | 33, 69, 88 |
 | Binary Search Tree | 530, 538 |
 | Two Pointers | 26, 80, 125 |
-| Linked List | 82, 206 92 |
+| Linked List | 82, 206, 92, 109 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461 |
 | Math | 168, 171, 172, 202, 693 |
 | String | 680 |
-| Preorder/Inorder/Postorder | 589, 590, 94 |
+| Preorder/Inorder/Postorder | 589, 590, 94, 105 |
 
 ## Finished problems
 ### Easy
@@ -284,6 +284,9 @@ My solutions and summary for problems in LeetCode.
 | 98 | Validate Binary Search Tree | Medium | Python | 76.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/98.py) | 08/09/18 | 94 |
 | 102 | Binary Tree Level Order Traversal | Medium | Python | 6.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/102.py) | 08/10/18 | 103 |
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/103.py) | 08/10/18 | 102 |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | Python | 53.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/105.py) | 08/11/18 | 106 |
+| 106 | Construct Binary Tree from Inorder and Postorder Traversal | Medium | Python | 23.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/106.py) | 08/11/18 | 105 |
+| 109 | Convert Sorted List to Binary Search Tree | Medium | Python | 52.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/109.py) | 08/11/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
