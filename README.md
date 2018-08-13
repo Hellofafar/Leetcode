@@ -14,7 +14,7 @@ My solutions and summary for problems in LeetCode.
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
 | Union Find | 305 |
 | Two Pointers | 259, 345, 141 |
-| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105 |
+| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113 |
 | Union Find | 305, 317 |
 | Greedy | 406, 122 |
 | Graph | 399 |
@@ -287,7 +287,7 @@ My solutions and summary for problems in LeetCode.
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | Python | 53.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/105.py) | 08/11/18 | 106 |
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Medium | Python | 23.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/106.py) | 08/11/18 | 105 |
 | 109 | Convert Sorted List to Binary Search Tree | Medium | Python | 52.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/109.py) | 08/11/18 | |
-
+| 113 | Path Sum II | Medium | Python | 71.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/113.py) | 08/12/18 | |
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
 | - | ----- | ---------- | -------- | ----- | ------- | -------- | ------- |
