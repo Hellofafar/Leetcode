@@ -25,7 +25,7 @@ My solutions and summary for problems in LeetCode.
 | Bit Manipulation | 371, 136, 231, 342, 405, 461 |
 | Math | 168, 171, 172, 202, 693 |
 | String | 680 |
-| Preorder/Inorder/Postorder | 589, 590, 94, 105 |
+| Preorder/Inorder/Postorder | 589, 590, 94, 105, 114 |
 
 ## Finished problems
 ### Easy
@@ -288,6 +288,8 @@ My solutions and summary for problems in LeetCode.
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Medium | Python | 23.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/106.py) | 08/11/18 | 105 |
 | 109 | Convert Sorted List to Binary Search Tree | Medium | Python | 52.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/109.py) | 08/11/18 | |
 | 113 | Path Sum II | Medium | Python | 71.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/113.py) | 08/12/18 | |
+| 114 | Flatten Binary Tree to Linked List | Medium | Python | 98.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/114.py) | 08/13/18 | |
+
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
 | - | ----- | ---------- | -------- | ----- | ------- | -------- | ------- |
