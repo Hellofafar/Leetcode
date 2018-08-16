@@ -14,7 +14,7 @@ My solutions and summary for problems in LeetCode.
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
 | Union Find | 305 |
 | Two Pointers | 259, 345, 141 |
-| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113 |
+| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127 |
 | Union Find | 305, 317 |
 | Greedy | 406, 122 |
 | Graph | 399 |
@@ -292,6 +292,7 @@ My solutions and summary for problems in LeetCode.
 | 116 | Populating Next Right Pointers in Each Node | Medium | Python | 87.80%, 87.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/116.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/116_2.py) | 08/14/18 | 117 |
 | 117 | Populating Next Right Pointers in Each Node II | Medium | Python | 10.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/117.py) | 08/14/18 | 116 |
 | 120 | Triangle | Medium | Python | 68.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/120.py) | 08/14/18 | |
+| 127 | Word Ladder | Medium | Python | 30.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/127.py) | 08/15/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
