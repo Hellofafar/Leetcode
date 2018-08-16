@@ -72,5 +72,5 @@ if __name__ == "__main__":
 # ------------------------------
 # Summary:
 # Key point is BFS solution.
-# Not sure why make wordList a set is important, maybe because remove() is time costly for list.
 # Follow idea from https://leetcode.com/problems/word-ladder/discuss/40729/Compact-Python-solution
+# An important finding is: to use remove() function, set is 100x faster than list
