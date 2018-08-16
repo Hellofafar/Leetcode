@@ -8,7 +8,7 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173 |
-| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
@@ -289,6 +289,9 @@ My solutions and summary for problems in LeetCode.
 | 109 | Convert Sorted List to Binary Search Tree | Medium | Python | 52.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/109.py) | 08/11/18 | |
 | 113 | Path Sum II | Medium | Python | 71.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/113.py) | 08/12/18 | |
 | 114 | Flatten Binary Tree to Linked List | Medium | Python | 98.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/114.py) | 08/13/18 | |
+| 116 | Populating Next Right Pointers in Each Node | Medium | Python | 87.80%, 87.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/116.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/116_2.py) | 08/14/18 | 117 |
+| 117 | Populating Next Right Pointers in Each Node II | Medium | Python | 10.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/117.py) | 08/14/18 | 116 |
+| 120 | Triangle | Medium | Python | 68.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/120.py) | 08/14/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
