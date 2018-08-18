@@ -5,7 +5,7 @@ My solutions and summary for problems in LeetCode.
 ## Problems by topics
 | Topics | Problems |
 | ---- | -------- |
-| Backtrack | 37, 39, 40, 46, 47, 77, 79, 90 |
+| Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117 |
@@ -295,6 +295,7 @@ My solutions and summary for problems in LeetCode.
 | 127 | Word Ladder | Medium | Python | 30.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/127.py) | 08/15/18 | |
 | 129 | Sum Root to Leaf Numbers | Medium | Python | 77.67%, 5.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/129.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/129_2.py) | 08/16/18 | |
 | 130 | Surrounded Regions | Medium | Python | 31.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/130.py) | 08/16/18 | |
+| 131 | Palindrome Partitioning | Medium | Python | 10.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/131.py) | 08/17/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
