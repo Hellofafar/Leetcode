@@ -296,6 +296,8 @@ My solutions and summary for problems in LeetCode.
 | 129 | Sum Root to Leaf Numbers | Medium | Python | 77.67%, 5.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/129.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/129_2.py) | 08/16/18 | |
 | 130 | Surrounded Regions | Medium | Python | 31.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/130.py) | 08/16/18 | |
 | 131 | Palindrome Partitioning | Medium | Python | 10.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/131.py) | 08/17/18 | |
+| 133 | Clone Graph | Medium | Python | 60.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/133.py) | 08/18/18 | |
+
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
