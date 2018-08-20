@@ -16,7 +16,7 @@ My solutions and summary for problems in LeetCode.
 | Two Pointers | 259, 345, 141 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200 |
 | Union Find | 305, 317 |
-| Greedy | 406, 122 |
+| Greedy | 406, 122, 134 |
 | Graph | 399 |
 | Binary Search | 33, 69, 88 |
 | Binary Search Tree | 530, 538 |
@@ -297,7 +297,7 @@ My solutions and summary for problems in LeetCode.
 | 130 | Surrounded Regions | Medium | Python | 31.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/130.py) | 08/16/18 | |
 | 131 | Palindrome Partitioning | Medium | Python | 10.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/131.py) | 08/17/18 | |
 | 133 | Clone Graph | Medium | Python | 60.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/133.py) | 08/18/18 | |
-
+| 134 | Gas Station | Medium | Python | 31.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/134.py) | 08/19/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
