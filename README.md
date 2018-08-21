@@ -22,7 +22,7 @@ My solutions and summary for problems in LeetCode.
 | Binary Search Tree | 530, 538 |
 | Two Pointers | 26, 80, 125 |
 | Linked List | 82, 206, 92, 109 |
-| Bit Manipulation | 371, 136, 231, 342, 405, 461 |
+| Bit Manipulation | 371, 136, 231, 342, 405, 461, 137 |
 | Math | 168, 171, 172, 202, 693 |
 | String | 680 |
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114 |
@@ -298,6 +298,7 @@ My solutions and summary for problems in LeetCode.
 | 131 | Palindrome Partitioning | Medium | Python | 10.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/131.py) | 08/17/18 | |
 | 133 | Clone Graph | Medium | Python | 60.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/133.py) | 08/18/18 | |
 | 134 | Gas Station | Medium | Python | 31.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/134.py) | 08/19/18 | |
+| 137 | Single Number II | Medium | Python | 5.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/137.py) | 08/20/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
