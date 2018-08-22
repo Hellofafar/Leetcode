@@ -299,6 +299,7 @@ My solutions and summary for problems in LeetCode.
 | 133 | Clone Graph | Medium | Python | 60.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/133.py) | 08/18/18 | |
 | 134 | Gas Station | Medium | Python | 31.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/134.py) | 08/19/18 | |
 | 137 | Single Number II | Medium | Python | 5.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/137.py) | 08/20/18 | |
+| 138 | Copy List with Random Pointer | Medium | Python | 58.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/138.py) | 08/21/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
