@@ -9,18 +9,16 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
-| Union Find | 305 |
-| Two Pointers | 259, 345, 141 |
+| Two Pointers | 26, 80, 125, 259, 345, 141 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200 |
 | Union Find | 305, 317 |
 | Greedy | 406, 122, 134 |
 | Graph | 399 |
 | Binary Search | 33, 69, 88 |
 | Binary Search Tree | 530, 538 |
-| Two Pointers | 26, 80, 125 |
 | Linked List | 82, 206, 92, 109 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137 |
 | Math | 168, 171, 172, 202, 693 |
@@ -300,6 +298,7 @@ My solutions and summary for problems in LeetCode.
 | 134 | Gas Station | Medium | Python | 31.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/134.py) | 08/19/18 | |
 | 137 | Single Number II | Medium | Python | 5.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/137.py) | 08/20/18 | |
 | 138 | Copy List with Random Pointer | Medium | Python | 58.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/138.py) | 08/21/18 | |
+| 139 | Word Break | Medium | Python | 10.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/139.py) | 08/22/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
