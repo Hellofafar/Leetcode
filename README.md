@@ -19,11 +19,12 @@ My solutions and summary for problems in LeetCode.
 | Graph | 399 |
 | Binary Search | 33, 69, 88 |
 | Binary Search Tree | 530, 538 |
-| Linked List | 82, 206, 92, 109, 143 |
+| Linked List | 82, 206, 92, 109, 143, 148 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137 |
 | Math | 168, 171, 172, 202, 693 |
 | String | 680 |
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114 |
+| Sort | 148 |
 
 ## Finished problems
 ### Easy
@@ -302,6 +303,7 @@ My solutions and summary for problems in LeetCode.
 | 142 | Linked List Cycle II | Medium | Python | 99.90% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/142.py) | 08/23/18 | |
 | 143 | Reorder List | Medium | Python | 46.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/143.py) | 08/23/18 | |
 | 144 | Binary Tree Preorder Traversal | Medium | Python | 35.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/144.py) | 08/23/18 | |
+| 148 | Sort List | Medium | Python | 7.24% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/148.py) | 08/23/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
