@@ -17,7 +17,7 @@ My solutions and summary for problems in LeetCode.
 | Union Find | 305, 317 |
 | Greedy | 406, 122, 134 |
 | Graph | 399 |
-| Binary Search | 33, 69, 88 |
+| Binary Search | 33, 69, 88, 153, 162 |
 | Binary Search Tree | 530, 538 |
 | Linked List | 82, 206, 92, 109, 143, 148 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137 |
@@ -303,7 +303,12 @@ My solutions and summary for problems in LeetCode.
 | 142 | Linked List Cycle II | Medium | Python | 99.90% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/142.py) | 08/23/18 | |
 | 143 | Reorder List | Medium | Python | 46.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/143.py) | 08/23/18 | |
 | 144 | Binary Tree Preorder Traversal | Medium | Python | 35.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/144.py) | 08/23/18 | |
-| 148 | Sort List | Medium | Python | 7.24% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/148.py) | 08/23/18 | |
+| 148 | Sort List | Medium | Python | 7.24% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/148.py) | 08/24/18 | |
+| 150 | Evaluate Reverse Polish Notation | Medium | Python | 82.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/150.py) | 08/25/18 | |
+| 151 | Reverse Words in a String | Medium | Python | 24.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/151.py) | 08/25/18 | |
+| 152 | Maximum Product Subarray | Medium | Python | 87.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/152.py) | 08/25/18 | |
+| 153 | Find Minimum in Rotated Sorted Array | Medium | Python |  | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/153.py) | 08/25/18 | |
+| 162 | Find Peak Element | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/162.py) | 08/25/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
