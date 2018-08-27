@@ -24,7 +24,7 @@ My solutions and summary for problems in LeetCode.
 | Math | 168, 171, 172, 202, 693 |
 | String | 680 |
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114 |
-| Sort | 148 |
+| Sort | 148, 179 |
 
 ## Finished problems
 ### Easy
@@ -309,6 +309,10 @@ My solutions and summary for problems in LeetCode.
 | 152 | Maximum Product Subarray | Medium | Python | 87.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/152.py) | 08/25/18 | |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Python |  | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/153.py) | 08/25/18 | |
 | 162 | Find Peak Element | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/162.py) | 08/25/18 | |
+| 165 | Compare Version Numbers | Medium | Python | 13.92% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/165.py) | 08/26/18 | |
+| 166 | Fraction to Recurring Decimal | Medium | Python | 99.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/166.py) | 08/26/18 | |
+| 173 | Binary Search Tree Iterator | Medium | Python | 96.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/173.py) | 08/26/18 | |
+| 199 | Binary Tree Right Side View | Medium | Python | 12.81% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/199.py) | 08/26/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
