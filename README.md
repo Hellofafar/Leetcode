@@ -14,17 +14,18 @@ My solutions and summary for problems in LeetCode.
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200 |
-| Union Find | 305, 317 |
+| Union Find | 305, 317, 130 |
 | Greedy | 406, 122, 134 |
-| Graph | 399 |
+| Graph | 399, 207 |
 | Binary Search | 33, 69, 88, 153, 162 |
 | Binary Search Tree | 530, 538 |
 | Linked List | 82, 206, 92, 109, 143, 148 |
-| Bit Manipulation | 371, 136, 231, 342, 405, 461, 137 |
+| Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201 |
 | Math | 168, 171, 172, 202, 693 |
 | String | 680 |
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114 |
 | Sort | 148, 179 |
+| Topological Sort | 207 |
 
 ## Finished problems
 ### Easy
@@ -241,7 +242,7 @@ My solutions and summary for problems in LeetCode.
 | 351 | Android Unlock Patterns | Medium | Python | 19.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/351.py) | 11/11/17 | |
 | 288 | Unique Word Abbreviation | Medium | Python | 29.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/288.py) | 11/11/17 | |
 | 289 | Game of Life | Medium | Python | 86.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/289.py) | 11/12/17 | |
-| 200 | Number of Islands | Medium | Python | 15.98% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200.py) | 11/13/17 | 305 |
+| 200 | Number of Islands | Medium | Python | 15.98%, 27.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200_2.py) | 11/13/17, 08/27/18 | 305 |
 | 280 | Wiggle Sort | Medium | Python | 80.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/280.py) | 11/14/17 | |
 | 259 | 3Sum Smaller | Medium | Python | 90.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/259.py) | 11/14/17 | 15 |
 | 54 | Spiral Matrix | Medium | Python | 46.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/54.py) | 11/18/17 | |
@@ -313,6 +314,8 @@ My solutions and summary for problems in LeetCode.
 | 166 | Fraction to Recurring Decimal | Medium | Python | 99.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/166.py) | 08/26/18 | |
 | 173 | Binary Search Tree Iterator | Medium | Python | 96.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/173.py) | 08/26/18 | |
 | 199 | Binary Tree Right Side View | Medium | Python | 12.81% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/199.py) | 08/26/18 | |
+| 201 | Bitwise AND of Numbers Range | Medium | Python | 1.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/201.py) | 08/27/18 | |
+| 207 | Course Schedule | Medium | Python |  | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/207.py) | 08/27/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
