@@ -7,7 +7,7 @@ My solutions and summary for problems in LeetCode.
 | ---- | -------- |
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
-| Design | 308, 346, 284, 173 |
+| Design | 308, 346, 284, 173, 208 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139 |
 | Stack | 394, 173, 71, 155, 94 |
@@ -26,6 +26,7 @@ My solutions and summary for problems in LeetCode.
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114 |
 | Sort | 148, 179 |
 | Topological Sort | 207 |
+| Trie | 208 |
 
 ## Finished problems
 ### Easy
@@ -316,6 +317,7 @@ My solutions and summary for problems in LeetCode.
 | 199 | Binary Tree Right Side View | Medium | Python | 12.81% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/199.py) | 08/26/18 | |
 | 201 | Bitwise AND of Numbers Range | Medium | Python | 1.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/201.py) | 08/27/18 | |
 | 207 | Course Schedule | Medium | Python |  | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/207.py) | 08/27/18 | |
+| 208 | Implement Trie (Prefix Tree) | Medium | Java | 8.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/208.java) | 08/28/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
