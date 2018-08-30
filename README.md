@@ -12,7 +12,7 @@ My solutions and summary for problems in LeetCode.
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
-| Two Pointers | 26, 80, 125, 259, 345, 141, 142 |
+| Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200 |
 | Union Find | 305, 317, 130 |
 | Greedy | 406, 122, 134 |
@@ -318,6 +318,7 @@ My solutions and summary for problems in LeetCode.
 | 201 | Bitwise AND of Numbers Range | Medium | Python | 1.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/201.py) | 08/27/18 | |
 | 207 | Course Schedule | Medium | Python |  | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/207.py) | 08/27/18 | |
 | 208 | Implement Trie (Prefix Tree) | Medium | Java | 8.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/208.java) | 08/28/18 | |
+| 209 | Minimum Size Subarray Sum | Medium | Java | 40.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/209.java) | 08/29/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
