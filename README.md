@@ -25,7 +25,7 @@ My solutions and summary for problems in LeetCode.
 | String | 680 |
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114 |
 | Sort | 148, 179 |
-| Topological Sort | 207 |
+| Topological Sort | 207, 210 |
 | Trie | 208 |
 
 ## Finished problems
@@ -316,9 +316,10 @@ My solutions and summary for problems in LeetCode.
 | 173 | Binary Search Tree Iterator | Medium | Python | 96.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/173.py) | 08/26/18 | |
 | 199 | Binary Tree Right Side View | Medium | Python | 12.81% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/199.py) | 08/26/18 | |
 | 201 | Bitwise AND of Numbers Range | Medium | Python | 1.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/201.py) | 08/27/18 | |
-| 207 | Course Schedule | Medium | Python |  | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/207.py) | 08/27/18 | |
+| 207 | Course Schedule | Medium | Python |  | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/207.py) | 08/27/18 | 210 |
 | 208 | Implement Trie (Prefix Tree) | Medium | Java | 8.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/208.java) | 08/28/18 | |
 | 209 | Minimum Size Subarray Sum | Medium | Java | 40.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/209.java) | 08/29/18 | |
+| 210 | Course Schedule II | Medium | Java | 15.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/210.java) | 08/30/18 | 207 |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
