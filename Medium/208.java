@@ -71,7 +71,7 @@ class Trie {
 class TrieNode {
     private int R = 26;
     private TrieNode[] links;
-    private boolean isEnd;
+    private boolean isEnd = false;  // whether this is necessary to prevent "Variable might not have been initialized error"
     
     public TrieNode() {
         links = new TrieNode[R];
