@@ -9,7 +9,7 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209 |
@@ -92,7 +92,7 @@ My solutions and summary for problems in LeetCode.
 | 189 | Rotate Array | Easy | Python | 8.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/189.py) | 06/10/18 | |
 | 190 | Reverse Bits | Easy | Python | 42.77% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/190.py) | 06/10/18 | |
 | 191 | Number of 1 Bits | Easy | Python | 20.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/191.py) | 06/10/18 | |
-| 198 | House Robber | Easy | Python | 91.18% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/198.py) | 06/10/18 | |
+| 198 | House Robber | Easy | Python | 91.18% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/198.py) | 06/10/18 | 213 |
 | 202 | Happy Number | Easy | Python | 96.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/202.py) | 06/11/18 | |
 | 203 | Remove Linked List Elements | Easy | Python | 55.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/203.py) | 06/11/18 | |
 | 204 | Count Primes | Easy | Python | 63.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/204.py) | 06/11/18 | |
@@ -321,6 +321,7 @@ My solutions and summary for problems in LeetCode.
 | 209 | Minimum Size Subarray Sum | Medium | Java | 40.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/209.java) | 08/29/18 | |
 | 210 | Course Schedule II | Medium | Java | 15.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/210.java) | 08/30/18 | 207 |
 | 211 | Add and Search Word - Data structure design | Medium | Java | 3.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/211.java) | 08/31/18 | 208 |
+| 213 | House Robber II | Medium | Java | 73.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/213.java) | 09/02/18 | 198 |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
