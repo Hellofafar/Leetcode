@@ -30,14 +30,14 @@ class Solution {
         return Math.max(rob(nums, 0, nums.length - 2), rob(nums, 1, nums.length - 1));
     }
     
-    private int rob(int[] num, int lo, int hi) {
-        int include = 0, exclude = 0;
-        for (int j = lo; j <= hi; j++) {
-            int i = include, e = exclude;
-            include = e + num[j];
-            exclude = Math.max(e, i);
+    rivate int rob(int[] num, int lo, int hi) {
+        int last = 0, now = 0;
+        for (int i = lo; i <= hi; i++) {
+            int lt = last;
+            last = now;
+            now = Math.max(lt + num[i], now);
         }
-        return Math.max(include, exclude);
+        return now;
     }
 }
 
