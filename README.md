@@ -5,7 +5,7 @@ My solutions and summary for problems in LeetCode.
 ## Problems by topics
 | Topics | Problems |
 | ---- | -------- |
-| Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131 |
+| Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117 |
@@ -323,6 +323,7 @@ My solutions and summary for problems in LeetCode.
 | 211 | Add and Search Word - Data structure design | Medium | Java | 3.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/211.java) | 08/31/18 | 208 |
 | 213 | House Robber II | Medium | Java | 74.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/213.java) | 09/02/18 | 198 |
 | 215 | Kth Largest Element in an Array | Medium | Python | 96.39% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/215.py) | 09/04/18 |  |
+| 216 | Combination Sum III | Medium | Python | 96.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/216.py) | 09/06/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
