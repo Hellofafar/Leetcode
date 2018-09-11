@@ -17,8 +17,8 @@ My solutions and summary for problems in LeetCode.
 | Union Find | 305, 317, 130 |
 | Greedy | 406, 122, 134 |
 | Graph | 399, 207 |
-| Binary Search | 33, 69, 88, 153, 162, 220 |
-| Binary Search Tree | 530, 538 |
+| Binary Search | 33, 69, 88, 153, 162 |
+| Binary Search Tree | 530, 538, 220 |
 | Linked List | 82, 206, 92, 109, 143, 148 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201 |
 | Math | 168, 171, 172, 202, 693 |
