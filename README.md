@@ -17,7 +17,7 @@ My solutions and summary for problems in LeetCode.
 | Union Find | 305, 317, 130 |
 | Greedy | 406, 122, 134 |
 | Graph | 399, 207 |
-| Binary Search | 33, 69, 88, 153, 162 |
+| Binary Search | 33, 69, 88, 153, 162, 220 |
 | Binary Search Tree | 530, 538 |
 | Linked List | 82, 206, 92, 109, 143, 148 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201 |
@@ -324,6 +324,7 @@ My solutions and summary for problems in LeetCode.
 | 213 | House Robber II | Medium | Java | 74.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/213.java) | 09/02/18 | 198 |
 | 215 | Kth Largest Element in an Array | Medium | Python | 96.39% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/215.py) | 09/04/18 |  |
 | 216 | Combination Sum III | Medium | Python | 96.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/216.py) | 09/06/18 |  |
+| 220 | Contains Duplicate III | Medium | Python | 89.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/220.py) | 09/10/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
