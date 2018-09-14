@@ -9,7 +9,7 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209 |
@@ -325,6 +325,7 @@ My solutions and summary for problems in LeetCode.
 | 215 | Kth Largest Element in an Array | Medium | Python | 96.39% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/215.py) | 09/04/18 |  |
 | 216 | Combination Sum III | Medium | Python | 96.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/216.py) | 09/06/18 |  |
 | 220 | Contains Duplicate III | Medium | Python | 89.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/220.py) | 09/10/18 |  |
+| 221 | Maximal Square | Medium | Python | 80.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/221.py) | 09/12/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
