@@ -327,6 +327,7 @@ My solutions and summary for problems in LeetCode.
 | 220 | Contains Duplicate III | Medium | Python | 89.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/220.py) | 09/10/18 |  |
 | 221 | Maximal Square | Medium | Python | 80.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/221.py) | 09/12/18 |  |
 | 722 | Remove Comments | Medium | Python | 56.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/722.py) | 09/14/18 |  |
+| 222 | Count Complete Tree Nodes | Medium | Python | 42.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/222.py) | 09/18/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
