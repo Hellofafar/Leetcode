@@ -22,7 +22,7 @@ My solutions and summary for problems in LeetCode.
 | Linked List | 82, 206, 92, 109, 143, 148 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201 |
 | Math | 168, 171, 172, 202, 693 |
-| String | 680 |
+| String | 680, 227 |
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114 |
 | Sort | 148, 179 |
 | Topological Sort | 207, 210 |
@@ -328,6 +328,8 @@ My solutions and summary for problems in LeetCode.
 | 221 | Maximal Square | Medium | Python | 80.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/221.py) | 09/12/18 |  |
 | 722 | Remove Comments | Medium | Python | 56.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/722.py) | 09/14/18 |  |
 | 222 | Count Complete Tree Nodes | Medium | Python | 42.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/222.py) | 09/18/18 |  |
+| 223 | Rectangle Area | Medium | Python | 22.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/223.py) | 09/19/18 |  |
+| 227 |  Basic Calculator II | Medium | Python | 62.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/227.py) | 09/20/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
