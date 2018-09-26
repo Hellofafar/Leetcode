@@ -8,7 +8,7 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208 |
-| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665 |
@@ -17,13 +17,13 @@ My solutions and summary for problems in LeetCode.
 | Union Find | 305, 317, 130 |
 | Greedy | 406, 122, 134 |
 | Graph | 399, 207 |
-| Binary Search | 33, 69, 88, 153, 162 |
+| Binary Search | 33, 69, 88, 153, 162, 230 |
 | Binary Search Tree | 530, 538, 220 |
 | Linked List | 82, 206, 92, 109, 143, 148 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201 |
 | Math | 168, 171, 172, 202, 693 |
 | String | 680, 227 |
-| Preorder/Inorder/Postorder | 589, 590, 94, 105, 114 |
+| Preorder/Inorder/Postorder | 589, 590, 94, 105, 114, 230 |
 | Sort | 148, 179 |
 | Topological Sort | 207, 210 |
 | Trie | 208 |
@@ -257,7 +257,7 @@ My solutions and summary for problems in LeetCode.
 | 56 | Merge Intervals | Medium | Python | 39.56%, 95.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56_2.py) | 12/10/17, 08/06/18 | |
 | 247 | Strobogrammatic Number II | Medium | Python | 16.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/247.py) | 12/10/17 | 246, 248 |
 | 524 | Longest Word in Dictionary through Deleting | Medium | Python | 91.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/524.py) | 12/10/17 | |
-| 228 | Summary Ranges | Medium | Python | 74.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/228.py) | 12/11/17 | |
+| 228 | Summary Ranges | Medium | Python | 74.59%, 99.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/228.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/228_2.py) | 12/11/17, 09/26/18 | |
 | 29 | Divide Two Integers | Medium | Python | 6.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/29.py) | 12/18/17 | |
 | 59 | Spiral Matrix II | Medium | Python | 0.87%, 40.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/59.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/59_2.py) | 12/29/17, 01/03/18 | |
 | 60 | Permutation Sequence | Medium | Python | 16.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/60.py) | 01/13/18 | |
@@ -329,7 +329,10 @@ My solutions and summary for problems in LeetCode.
 | 722 | Remove Comments | Medium | Python | 56.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/722.py) | 09/14/18 |  |
 | 222 | Count Complete Tree Nodes | Medium | Python | 42.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/222.py) | 09/18/18 |  |
 | 223 | Rectangle Area | Medium | Python | 22.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/223.py) | 09/19/18 |  |
-| 227 |  Basic Calculator II | Medium | Python | 62.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/227.py) | 09/20/18 |  |
+| 227 | Basic Calculator II | Medium | Python | 62.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/227.py) | 09/20/18 |  |
+| 229 | Majority Element II | Medium | Python | 62.24% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/229.py) | 09/26/18 |  |
+| 230 | Kth Smallest Element in a BST | Medium | Python | 78.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/230.py) | 09/26/18 |  |
+| 236 | Lowest Common Ancestor of a Binary Tree | Medium | Python | 54.71% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/236.py) | 09/26/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
