@@ -9,7 +9,7 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209 |
@@ -20,7 +20,7 @@ My solutions and summary for problems in LeetCode.
 | Binary Search | 33, 69, 88, 153, 162, 230 |
 | Binary Search Tree | 530, 538, 220 |
 | Linked List | 82, 206, 92, 109, 143, 148 |
-| Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201 |
+| Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201, 260 |
 | Math | 168, 171, 172, 202, 693 |
 | String | 680, 227 |
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114, 230 |
@@ -337,6 +337,10 @@ My solutions and summary for problems in LeetCode.
 | 238 | Product of Array Except Self | Medium | Python | 48.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/238.py) | 09/26/18 |  |
 | 240 | Search a 2D Matrix II | Medium | Python | 2.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/240.py) | 09/26/18 |  |
 | 241 | Different Ways to Add Parentheses | Medium | Python | 61.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/241.py) | 09/26/18 |  |
+| 260 | Single Number III | Medium | Python | 69.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/260.py) | 09/27/18 |  |
+| 264 | Ugly Number II | Medium | Python | 49.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/264.py) | 09/27/18 |  |
+| 274 | H-Index | Medium | Python | 11.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/274.py) | 09/27/18 |  |
+| 275 | H-Index II | Medium | Python | 99.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/275.py) | 09/27/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
