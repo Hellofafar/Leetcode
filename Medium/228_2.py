@@ -3,8 +3,8 @@
 # 
 # Description:
 # 
-# Version: 1.0
-# 09/14/18 by Jianfa
+# Version: 2.0
+# 09/25/18 by Jianfa
 # ------------------------------
 
 class Solution(object):

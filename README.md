@@ -9,7 +9,7 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209 |
@@ -341,6 +341,7 @@ My solutions and summary for problems in LeetCode.
 | 264 | Ugly Number II | Medium | Python | 49.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/264.py) | 09/27/18 |  |
 | 274 | H-Index | Medium | Python | 11.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/274.py) | 09/27/18 |  |
 | 275 | H-Index II | Medium | Python | 99.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/275.py) | 09/27/18 |  |
+| 279 | Perfect Squares | Medium | Python | 25.81%, 15.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/279.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/279_2.py) | 09/27/18 |  |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
