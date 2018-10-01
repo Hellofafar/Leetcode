@@ -253,7 +253,7 @@ My solutions and summary for problems in LeetCode.
 | 616 | Add Bold Tag in String | Medium | Python | 29.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/616.py) | 12/04/17 | |
 | 399 | Evaluate Division | Medium | Python | 96.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/399.py) | 12/09/17 | |
 | 417 | Pacific Atlantic Water Flow | Medium | Python | 69.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/417.py) | 12/09/17 | |
-| 284 | Peeking Iterator | Medium | Python | 25.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/284.py) | 12/10/17 | 173 |
+| 284 | Peeking Iterator | Medium | Python | 25.30%, 99.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/284.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/284_2.py) | 12/10/17, 09/30/18 | 173 |
 | 173 | Binary Search Tree Iterator | Medium | Python | 62.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/173.py) | 12/10/17 | 284 |
 | 56 | Merge Intervals | Medium | Python | 39.56%, 95.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56_2.py) | 12/10/17, 08/06/18 | |
 | 247 | Strobogrammatic Number II | Medium | Python | 16.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/247.py) | 12/10/17 | 246, 248 |
@@ -341,7 +341,8 @@ My solutions and summary for problems in LeetCode.
 | 264 | Ugly Number II | Medium | Python | 49.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/264.py) | 09/27/18 |  |
 | 274 | H-Index | Medium | Python | 11.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/274.py) | 09/27/18 |  |
 | 275 | H-Index II | Medium | Python | 99.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/275.py) | 09/27/18 |  |
-| 279 | Perfect Squares | Medium | Python | 25.81%, 15.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/279.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/279_2.py) | 09/27/18 |  |
+| 279 | Perfect Squares | Medium | Python | 25.81%, 15.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/279.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/279_2.py) | 12/09/17, 09/28/18 |  |
+| 287 | Find the Duplicate Number | Medium | Python | 14.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/287.py) | 09/30/18 | 142 |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
