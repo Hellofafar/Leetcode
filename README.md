@@ -9,7 +9,7 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209 |
@@ -323,26 +323,27 @@ My solutions and summary for problems in LeetCode.
 | 210 | Course Schedule II | Medium | Java | 15.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/210.java) | 08/30/18 | 207 |
 | 211 | Add and Search Word - Data structure design | Medium | Java | 3.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/211.java) | 08/31/18 | 208 |
 | 213 | House Robber II | Medium | Java | 74.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/213.java) | 09/02/18 | 198 |
-| 215 | Kth Largest Element in an Array | Medium | Python | 96.39% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/215.py) | 09/04/18 |  |
-| 216 | Combination Sum III | Medium | Python | 96.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/216.py) | 09/06/18 |  |
-| 220 | Contains Duplicate III | Medium | Python | 89.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/220.py) | 09/10/18 |  |
-| 221 | Maximal Square | Medium | Python | 80.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/221.py) | 09/12/18 |  |
-| 722 | Remove Comments | Medium | Python | 56.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/722.py) | 09/14/18 |  |
-| 222 | Count Complete Tree Nodes | Medium | Python | 42.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/222.py) | 09/18/18 |  |
-| 223 | Rectangle Area | Medium | Python | 22.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/223.py) | 09/19/18 |  |
-| 227 | Basic Calculator II | Medium | Python | 62.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/227.py) | 09/20/18 |  |
-| 229 | Majority Element II | Medium | Python | 62.24% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/229.py) | 09/25/18 |  |
-| 230 | Kth Smallest Element in a BST | Medium | Python | 78.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/230.py) | 09/25/18 |  |
-| 236 | Lowest Common Ancestor of a Binary Tree | Medium | Python | 54.71% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/236.py) | 09/25/18 |  |
-| 238 | Product of Array Except Self | Medium | Python | 48.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/238.py) | 09/26/18 |  |
-| 240 | Search a 2D Matrix II | Medium | Python | 2.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/240.py) | 09/26/18 |  |
-| 241 | Different Ways to Add Parentheses | Medium | Python | 61.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/241.py) | 09/26/18 |  |
-| 260 | Single Number III | Medium | Python | 69.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/260.py) | 09/27/18 |  |
-| 264 | Ugly Number II | Medium | Python | 49.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/264.py) | 09/27/18 |  |
-| 274 | H-Index | Medium | Python | 11.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/274.py) | 09/27/18 |  |
-| 275 | H-Index II | Medium | Python | 99.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/275.py) | 09/27/18 |  |
-| 279 | Perfect Squares | Medium | Python | 25.81%, 15.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/279.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/279_2.py) | 12/09/17, 09/28/18 |  |
+| 215 | Kth Largest Element in an Array | Medium | Python | 96.39% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/215.py) | 09/04/18 | |
+| 216 | Combination Sum III | Medium | Python | 96.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/216.py) | 09/06/18 | |
+| 220 | Contains Duplicate III | Medium | Python | 89.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/220.py) | 09/10/18 | |
+| 221 | Maximal Square | Medium | Python | 80.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/221.py) | 09/12/18 | |
+| 722 | Remove Comments | Medium | Python | 56.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/722.py) | 09/14/18 | |
+| 222 | Count Complete Tree Nodes | Medium | Python | 42.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/222.py) | 09/18/18 | |
+| 223 | Rectangle Area | Medium | Python | 22.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/223.py) | 09/19/18 | |
+| 227 | Basic Calculator II | Medium | Python | 62.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/227.py) | 09/20/18 | |
+| 229 | Majority Element II | Medium | Python | 62.24% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/229.py) | 09/25/18 | |
+| 230 | Kth Smallest Element in a BST | Medium | Python | 78.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/230.py) | 09/25/18 | |
+| 236 | Lowest Common Ancestor of a Binary Tree | Medium | Python | 54.71% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/236.py) | 09/25/18 | |
+| 238 | Product of Array Except Self | Medium | Python | 48.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/238.py) | 09/26/18 | |
+| 240 | Search a 2D Matrix II | Medium | Python | 2.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/240.py) | 09/26/18 | |
+| 241 | Different Ways to Add Parentheses | Medium | Python | 61.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/241.py) | 09/26/18 | |
+| 260 | Single Number III | Medium | Python | 69.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/260.py) | 09/27/18 | |
+| 264 | Ugly Number II | Medium | Python | 49.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/264.py) | 09/27/18 | |
+| 274 | H-Index | Medium | Python | 11.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/274.py) | 09/27/18 | |
+| 275 | H-Index II | Medium | Python | 99.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/275.py) | 09/27/18 | |
+| 279 | Perfect Squares | Medium | Python | 25.81%, 15.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/279.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/279_2.py) | 12/09/17, 09/28/18 | |
 | 287 | Find the Duplicate Number | Medium | Python | 14.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/287.py) | 09/30/18 | 142 |
+| 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Python | 44.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/309.py) | 10/05/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
