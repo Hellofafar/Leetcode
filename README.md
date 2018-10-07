@@ -231,7 +231,7 @@ My solutions and summary for problems in LeetCode.
 | 47 | Permutations II | Medium | Python | 16.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/47.py) | 11/03/17 | 46 |
 | 48 | Rotate Image | Medium | Python | 24.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/48.py) | 11/03/17 | |
 | 388 | Longest Absolute File Path | Medium | Python | 36.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/388.py) | 11/04/17 | |
-| 681 | Next Closest Time | Medium | Python | 65.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/681.py) | 11/04/17 | |
+| 681 | Next Closest Time | Medium | Python | 65.44%, 91.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/681.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/681_2.py) | 11/04/17, 10/06/18 | |
 | 482 | License Key Formatting | Medium | Python | 54.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/482.py) | 11/04/17 | |
 | 49 | Group Anagrams | Medium | Python | 24.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49.py) | 11/07/17 | |
 | 298 | Binary Tree Longest Consecutive Sequence | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/298.py) | 11/07/17 | |
