@@ -45,7 +45,7 @@ class Solution(object):
             graph[i][j] = v
             graph[j][i] = 1/v
             
-        for i, j, k in permutations(graph, 3):
+        for k, i, j in permutations(graph, 3):  # Can only be in order k, i, j because of permutations order. k is the component to connect i and j so k should be ordered to check.
             if k in graph[i] and j in graph[k]:
                 graph[i][j] = graph[i][k] * graph[k][j]
         

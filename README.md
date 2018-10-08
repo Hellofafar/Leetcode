@@ -28,6 +28,7 @@ My solutions and summary for problems in LeetCode.
 | Topological Sort | 207, 210 |
 | Trie | 208 |
 | Divide and Conquer | 240 |
+| Heap | 857 |
 
 ## Finished problems
 ### Easy
@@ -200,6 +201,7 @@ My solutions and summary for problems in LeetCode.
 | 693 | Binary Number with Alternating Bits | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/690.py) | 08/05/18 | |
 | 695 | Max Area of Island | Easy | Python | 0.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/695.py) | 08/06/18 | |
 | 700 | Search in a Binary Search Tree | Easy | Python | 55.41% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/700.py) | 08/06/18 | |
+| 844 | Search in a Binary Search Tree | Easy | Python | 99.76%, 99.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/844.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/844_2.py) | 10/07/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -232,7 +234,7 @@ My solutions and summary for problems in LeetCode.
 | 48 | Rotate Image | Medium | Python | 24.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/48.py) | 11/03/17 | |
 | 388 | Longest Absolute File Path | Medium | Python | 36.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/388.py) | 11/04/17 | |
 | 681 | Next Closest Time | Medium | Python | 65.44%, 91.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/681.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/681_2.py) | 11/04/17, 10/06/18 | |
-| 482 | License Key Formatting | Medium | Python | 54.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/482.py) | 11/04/17 | |
+| 482 | License Key Formatting | Medium | Python | 54.11%, 76.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/482.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/482.py) | 11/04/17, 10/07/18 | |
 | 49 | Group Anagrams | Medium | Python | 24.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49.py) | 11/07/17 | |
 | 298 | Binary Tree Longest Consecutive Sequence | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/298.py) | 11/07/17 | |
 | 418 | Sentence Screen Fitting | Medium | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/418.py) | 11/08/17 | |
@@ -372,3 +374,5 @@ My solutions and summary for problems in LeetCode.
 | 87 | Scramble String | Hard | Python | 48.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/87.py) | 01/28/18 |  |
 | 85 | Maximal Rectangle | Hard | Python | 33.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/85.py) | 01/30/18 |  |
 | 239 | Sliding Window Maximum | Hard | Python | 37.03% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/239.py) | 09/23/18 |  |
+| 224 | Basic Calculator | Hard | Python | 97.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/224.py) | 10/07/18 |  |
+| 857 | Minimum Cost to Hire K Workers | Hard | Python | 8.26% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/857.py) | 10/07/18 |  |
