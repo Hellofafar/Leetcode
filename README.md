@@ -12,7 +12,7 @@ My solutions and summary for problems in LeetCode.
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228 |
-| Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209 |
+| Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200 |
 | Union Find | 305, 317, 130 |
 | Greedy | 406, 122, 134 |
@@ -201,7 +201,7 @@ My solutions and summary for problems in LeetCode.
 | 693 | Binary Number with Alternating Bits | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/690.py) | 08/05/18 | |
 | 695 | Max Area of Island | Easy | Python | 0.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/695.py) | 08/06/18 | |
 | 700 | Search in a Binary Search Tree | Easy | Python | 55.41% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/700.py) | 08/06/18 | |
-| 844 | Search in a Binary Search Tree | Easy | Python | 99.76%, 99.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/844.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/844_2.py) | 10/07/18 | |
+| 844 | Backspace String Compare | Easy | Python | 99.76%, 99.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/844.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/844_2.py) | 10/07/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -346,6 +346,8 @@ My solutions and summary for problems in LeetCode.
 | 279 | Perfect Squares | Medium | Python | 25.81%, 15.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/279.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/279_2.py) | 12/09/17, 09/28/18 | |
 | 287 | Find the Duplicate Number | Medium | Python | 14.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/287.py) | 09/30/18 | 142 |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Python | 44.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/309.py) | 10/05/18 | |
+| 904 | Fruit Into Baskets | Medium | Python | 96.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/904.py) | 10/08/18 | |
+| 299 | Bulls and Cows | Medium | Python | 67.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/299.py) | 10/08/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -376,3 +378,4 @@ My solutions and summary for problems in LeetCode.
 | 239 | Sliding Window Maximum | Hard | Python | 37.03% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/239.py) | 09/23/18 |  |
 | 224 | Basic Calculator | Hard | Python | 97.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/224.py) | 10/07/18 |  |
 | 857 | Minimum Cost to Hire K Workers | Hard | Python | 8.26% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/857.py) | 10/07/18 |  |
+| 128 | Longest Consecutive Sequence | Hard | Python | 55.52% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/128.py) | 10/08/18 |  |

@@ -41,7 +41,6 @@ class Solution:
                     break
             
             if i >= 0 and j >= 0 and S[i] != T[j]:
-                print('hera')
                 return False
             
             if (i >= 0) != (j >= 0):
