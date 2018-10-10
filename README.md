@@ -15,7 +15,7 @@ My solutions and summary for problems in LeetCode.
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200 |
 | Union Find | 305, 317, 130 |
-| Greedy | 406, 122, 134 |
+| Greedy | 406, 122, 134, 135 |
 | Graph | 399, 207 |
 | Binary Search | 33, 69, 88, 153, 162, 230 |
 | Binary Search Tree | 530, 538, 220 |
@@ -379,3 +379,4 @@ My solutions and summary for problems in LeetCode.
 | 224 | Basic Calculator | Hard | Python | 97.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/224.py) | 10/07/18 |  |
 | 857 | Minimum Cost to Hire K Workers | Hard | Python | 8.26% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/857.py) | 10/07/18 |  |
 | 128 | Longest Consecutive Sequence | Hard | Python | 55.52% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/128.py) | 10/08/18 |  |
+| 135 | Candy | Hard | Python | 54.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/125.py) | 10/09/18 |  |
