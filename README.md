@@ -380,3 +380,4 @@ My solutions and summary for problems in LeetCode.
 | 857 | Minimum Cost to Hire K Workers | Hard | Python | 8.26% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/857.py) | 10/07/18 |  |
 | 128 | Longest Consecutive Sequence | Hard | Python | 55.52% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/128.py) | 10/08/18 |  |
 | 135 | Candy | Hard | Python | 54.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/125.py) | 10/09/18 |  |
+| 489 | Robot Room Cleaner | Hard | Python | 26.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/489.py) | 10/10/18 |  |
