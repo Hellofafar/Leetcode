@@ -22,13 +22,14 @@ My solutions and summary for problems in LeetCode.
 | Linked List | 82, 206, 92, 109, 143, 148 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201, 260 |
 | Math | 168, 171, 172, 202, 693 |
-| String | 680, 227 |
+| String | 680, 227, 44 |
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114, 230 |
 | Sort | 148, 179 |
 | Topological Sort | 207, 210 |
 | Trie | 208 |
 | Divide and Conquer | 240 |
 | Heap | 857 |
+| Minimax | 464, 486 |
 
 ## Finished problems
 ### Easy
@@ -348,6 +349,7 @@ My solutions and summary for problems in LeetCode.
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Python | 44.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/309.py) | 10/05/18 | |
 | 904 | Fruit Into Baskets | Medium | Python | 96.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/904.py) | 10/08/18 | |
 | 299 | Bulls and Cows | Medium | Python | 67.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/299.py) | 10/08/18 | |
+| 486 | Predict the Winner | Medium | Python | 82.64% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/486.py) | 10/17/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -381,3 +383,4 @@ My solutions and summary for problems in LeetCode.
 | 128 | Longest Consecutive Sequence | Hard | Python | 55.52% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/128.py) | 10/08/18 |  |
 | 135 | Candy | Hard | Python | 54.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/125.py) | 10/09/18 |  |
 | 489 | Robot Room Cleaner | Hard | Python | 26.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/489.py) | 10/10/18 |  |
+| 44 | Wildcard Matching | Hard | Python | 98.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/44.py) | 10/17/18 |  |
