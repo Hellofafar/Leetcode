@@ -350,6 +350,8 @@ My solutions and summary for problems in LeetCode.
 | 904 | Fruit Into Baskets | Medium | Python | 96.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/904.py) | 10/08/18 | |
 | 299 | Bulls and Cows | Medium | Python | 67.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/299.py) | 10/08/18 | |
 | 486 | Predict the Winner | Medium | Python | 82.64% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/486.py) | 10/17/18 | |
+| 253 | Meeting Rooms II | Medium | Python | 95.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/253.py) | 10/20/18 | |
+| 324 | Wiggle Sort II | Medium | Python | 82.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/324.py) | 10/20/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
