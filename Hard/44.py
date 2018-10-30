@@ -27,16 +27,16 @@ class Solution:
         starIdx = -1  # Record the index of last '*' appeared in pattern
         match = 0     # Match control the index of characters in string that matched to '*'
         while sp < len(s):
-            if pp < len(p) and (s[sp] == p[pp] or p[pp] == '?'):
+            if pp < len(p) and (s[sp] == p[pp] or p[pp] == '?'):  # If equal or a '?' is found, update both sp and pp
                 sp += 1
                 pp += 1
                 
-            elif pp < len(p) and p[pp] == '*':
+            elif pp < len(p) and p[pp] == '*':  # If a '*' is found, only update p pointer
                 starIdx = pp
                 pp += 1
                 match = sp
                 
-            elif starIdx >= 0:
+            elif starIdx >= 0:  # A '*' has appeared at pattern string
                 pp = starIdx + 1
                 match += 1
                 sp = match

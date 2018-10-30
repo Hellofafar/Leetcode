@@ -352,6 +352,7 @@ My solutions and summary for problems in LeetCode.
 | 486 | Predict the Winner | Medium | Python | 82.64% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/486.py) | 10/17/18 | |
 | 253 | Meeting Rooms II | Medium | Python | 95.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/253.py) | 10/20/18 | |
 | 324 | Wiggle Sort II | Medium | Python | 82.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/324.py) | 10/20/18 | |
+| 468 | Validate IP Address | Medium | Python | 92.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/468.py) | 10/25/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -386,3 +387,4 @@ My solutions and summary for problems in LeetCode.
 | 135 | Candy | Hard | Python | 54.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/125.py) | 10/09/18 |  |
 | 489 | Robot Room Cleaner | Hard | Python | 26.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/489.py) | 10/10/18 |  |
 | 44 | Wildcard Matching | Hard | Python | 98.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/44.py) | 10/17/18 |  |
+| 146 | LRU Cache | Hard | Python | 10.56%, 57.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/146.py, [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/146_2.py) | 10/28/18 |  |
