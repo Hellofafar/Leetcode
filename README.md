@@ -11,7 +11,7 @@ My solutions and summary for problems in LeetCode.
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309 |
 | Stack | 394, 173, 71, 155, 94 |
-| Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228 |
+| Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200 |
 | Union Find | 305, 317, 130 |
@@ -203,6 +203,7 @@ My solutions and summary for problems in LeetCode.
 | 695 | Max Area of Island | Easy | Python | 0.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/695.py) | 08/06/18 | |
 | 700 | Search in a Binary Search Tree | Easy | Python | 55.41% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/700.py) | 08/06/18 | |
 | 844 | Backspace String Compare | Easy | Python | 99.76%, 99.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/844.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/844_2.py) | 10/07/18 | |
+| 849 | Maximize Distance to Closest Person | Easy | Python | 41.71%, 35.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/849.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/849_2.py) | 10/29/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -349,7 +350,7 @@ My solutions and summary for problems in LeetCode.
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Python | 44.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/309.py) | 10/05/18 | |
 | 904 | Fruit Into Baskets | Medium | Python | 96.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/904.py) | 10/08/18 | |
 | 299 | Bulls and Cows | Medium | Python | 67.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/299.py) | 10/08/18 | |
-| 486 | Predict the Winner | Medium | Python | 82.64% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/486.py) | 10/17/18 | |
+| 486 | Predict the Winner | Medium | Python | 82.64%, 99.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/486.py, [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/486_2.py) | 10/17/18, 10/28/18 | |
 | 253 | Meeting Rooms II | Medium | Python | 95.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/253.py) | 10/20/18 | |
 | 324 | Wiggle Sort II | Medium | Python | 82.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/324.py) | 10/20/18 | |
 | 468 | Validate IP Address | Medium | Python | 92.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/468.py) | 10/25/18 | |
