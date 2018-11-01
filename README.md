@@ -304,7 +304,7 @@ My solutions and summary for problems in LeetCode.
 | 131 | Palindrome Partitioning | Medium | Python | 10.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/131.py) | 08/17/18 | |
 | 133 | Clone Graph | Medium | Python | 60.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/133.py) | 08/18/18 | |
 | 134 | Gas Station | Medium | Python | 31.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/134.py) | 08/19/18 | |
-| 137 | Single Number II | Medium | Python | 5.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/137.py) | 08/20/18 | |
+| 137 | Single Number II | Medium | Python, Java | 5.62%, 16.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/137.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/137_2.java) | 08/20/18, 10/30/18 | |
 | 138 | Copy List with Random Pointer | Medium | Python | 58.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/138.py) | 08/21/18 | |
 | 139 | Word Break | Medium | Python | 10.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/139.py) | 08/22/18 | |
 | 142 | Linked List Cycle II | Medium | Python | 99.90% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/142.py) | 08/23/18 | |
