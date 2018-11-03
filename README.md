@@ -7,7 +7,7 @@ My solutions and summary for problems in LeetCode.
 | ---- | -------- |
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
-| Design | 308, 346, 284, 173, 208 |
+| Design | 308, 346, 284, 173, 208, 146, 460 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309 |
 | Stack | 394, 173, 71, 155, 94 |
@@ -389,3 +389,4 @@ My solutions and summary for problems in LeetCode.
 | 489 | Robot Room Cleaner | Hard | Python | 26.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/489.py) | 10/10/18 |  |
 | 44 | Wildcard Matching | Hard | Python | 98.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/44.py) | 10/17/18 |  |
 | 146 | LRU Cache | Hard | Python | 10.56%, 57.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/146.py, [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/146_2.py) | 10/28/18 |  |
+| 460 | LFU Cache | Hard | Python | 96.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/460.py) | 11/02/18 |  |
