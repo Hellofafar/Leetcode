@@ -8,7 +8,7 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208, 146, 460 |
-| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849 |
@@ -243,7 +243,7 @@ My solutions and summary for problems in LeetCode.
 | 361 | Bomb Enemy | Medium | Python | 60.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/361.py) | 11/08/17 | |
 | 394 | Decode String | Medium | Python | 97.49% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/394.py) | 11/09/17 | |
 | 393 | UTF-8 Validation | Medium | Python | 33.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/393.py) | 11/09/17 | |
-| 163 | Missing Ranges | Medium | Python | 15.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/163.py) | 11/10/17 | |
+| 163 | Missing Ranges | Medium | Python | 15.35%, 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/163.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/163_2.py) | 11/10/17, 11/03/18 | |
 | 271 | Encode and Decode Strings | Medium | Python | 34.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/271.py) | 11/10/17 | |
 | 351 | Android Unlock Patterns | Medium | Python | 19.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/351.py) | 11/11/17 | |
 | 288 | Unique Word Abbreviation | Medium | Python | 29.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/288.py) | 11/11/17 | |
@@ -354,6 +354,10 @@ My solutions and summary for problems in LeetCode.
 | 253 | Meeting Rooms II | Medium | Python | 95.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/253.py) | 10/20/18 | |
 | 324 | Wiggle Sort II | Medium | Python | 82.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/324.py) | 10/20/18 | |
 | 468 | Validate IP Address | Medium | Python | 92.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/468.py) | 10/25/18 | |
+| 156 | Binary Tree Upside Down | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/156.py) | 11/03/18 | |
+| 161 | One Edit Distance | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/161.py) | 11/03/18 | |
+| 186 | Reverse Words in a String II | Medium | Python | 90.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/186.py) | 11/03/18 | |
+| 244 | Shortest Word Distance II | Medium | Python | 99.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/244.py) | 11/03/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
