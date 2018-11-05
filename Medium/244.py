@@ -20,7 +20,7 @@
 # ------------------------------
 
 import sys
-from bisect import bisect
+
 class WordDistance:
 
     def __init__(self, words):
@@ -43,15 +43,19 @@ class WordDistance:
         """
         index1 = self.wordDict[word1]
         index2 = self.wordDict[word2]
+        
+        i = j = 0
         minDist = sys.maxsize
-        for i in index1:
-            p = bisect(index2, i)
-            if p == 0:
-                minDist = min(minDist, index2[0] - i)
-            elif p == len(index2):
-                minDist = min(minDist, i - index2[-1])
+        while i < len(index1) and j < len(index2):
+            idx1 = index1[i]
+            idx2 = index2[j]
+            if idx1 < idx2:
+                minDist = min(minDist, idx2 - idx1)
+                i += 1
+            
             else:
-                minDist = min(minDist, i - index2[p-1], index2[p] - i)
+                minDist = min(minDist, idx1 - idx2)
+                j += 1
         
         return minDist
 
@@ -67,4 +71,4 @@ if __name__ == "__main__":
 # ------------------------------
 # Summary:
 # Use hash map to store indexs of every word in the list
-# Check every index of word1, find the closest index in the word2 of it and compare the distance of them.
+# Use two pointer to check every index of word1, find the closest index in the word2 of it and compare the distance of them.

@@ -11,7 +11,7 @@ My solutions and summary for problems in LeetCode.
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309 |
 | Stack | 394, 173, 71, 155, 94 |
-| Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849 |
+| Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200 |
 | Union Find | 305, 317, 130 |
@@ -260,7 +260,7 @@ My solutions and summary for problems in LeetCode.
 | 284 | Peeking Iterator | Medium | Python | 25.30%, 99.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/284.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/284_2.py) | 12/10/17, 09/30/18 | 173 |
 | 173 | Binary Search Tree Iterator | Medium | Python | 62.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/173.py) | 12/10/17 | 284 |
 | 56 | Merge Intervals | Medium | Python | 39.56%, 95.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56_2.py) | 12/10/17, 08/06/18 | |
-| 247 | Strobogrammatic Number II | Medium | Python | 16.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/247.py) | 12/10/17 | 246, 248 |
+| 247 | Strobogrammatic Number II | Medium | Python | 16.31%, 98.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/247.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/247_2.py) | 12/10/17, 11/04/18 | 246, 248 |
 | 524 | Longest Word in Dictionary through Deleting | Medium | Python | 91.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/524.py) | 12/10/17 | |
 | 228 | Summary Ranges | Medium | Python | 74.59%, 99.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/228.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/228_2.py) | 12/11/17, 09/25/18 | |
 | 29 | Divide Two Integers | Medium | Python | 6.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/29.py) | 12/18/17 | |
@@ -357,7 +357,8 @@ My solutions and summary for problems in LeetCode.
 | 156 | Binary Tree Upside Down | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/156.py) | 11/03/18 | |
 | 161 | One Edit Distance | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/161.py) | 11/03/18 | |
 | 186 | Reverse Words in a String II | Medium | Python | 90.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/186.py) | 11/03/18 | |
-| 244 | Shortest Word Distance II | Medium | Python | 99.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/244.py) | 11/03/18 | |
+| 244 | Shortest Word Distance II | Medium | Python | 2.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/244.py) | 11/03/18 | |
+| 245 | Shortest Word Distance III | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/245.py) | 11/03/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
