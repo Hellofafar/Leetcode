@@ -8,7 +8,7 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208, 146, 460 |
-| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245 |
@@ -359,6 +359,8 @@ My solutions and summary for problems in LeetCode.
 | 186 | Reverse Words in a String II | Medium | Python | 90.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/186.py) | 11/03/18 | |
 | 244 | Shortest Word Distance II | Medium | Python | 2.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/244.py) | 11/03/18 | |
 | 245 | Shortest Word Distance III | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/245.py) | 11/03/18 | |
+| 249 | Group Shifted Strings | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/249.py) | 11/05/18 | |
+| 250 | Count Univalue Subtrees | Medium | Python | 98.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/250.py) | 11/05/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
