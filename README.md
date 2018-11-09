@@ -204,6 +204,7 @@ My solutions and summary for problems in LeetCode.
 | 700 | Search in a Binary Search Tree | Easy | Python | 55.41% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/700.py) | 08/06/18 | |
 | 844 | Backspace String Compare | Easy | Python | 99.76%, 99.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/844.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/844_2.py) | 10/07/18 | |
 | 849 | Maximize Distance to Closest Person | Easy | Python | 41.71%, 35.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/849.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/849_2.py) | 10/29/18 | |
+| 929 | Unique Email Addresses | Easy | Python | 74.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/929.py) | 11/07/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
