@@ -363,6 +363,7 @@ My solutions and summary for problems in LeetCode.
 | 249 | Group Shifted Strings | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/249.py) | 11/05/18 | |
 | 250 | Count Univalue Subtrees | Medium | Python | 98.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/250.py) | 11/05/18 | |
 | 833 | Find And Replace in String | Medium | Python | 51.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/833.py) | 11/09/18 | |
+| 305 | Number of Islands II | Medium | Python | 82.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/305.py) | 11/10/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -399,4 +400,4 @@ My solutions and summary for problems in LeetCode.
 | 44 | Wildcard Matching | Hard | Python | 98.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/44.py) | 10/17/18 |  |
 | 146 | LRU Cache | Hard | Python | 10.56%, 57.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/146.py, [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/146_2.py) | 10/28/18 |  |
 | 460 | LFU Cache | Hard | Python | 96.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/460.py) | 11/02/18 |  |
-| 803 | Bricks Falling When Hit | Hard | Python | 34.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/803.py) | 11/09/18 |  |
+| 803 | Bricks Falling When Hit | Hard | Python | 83.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/803.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/803_2.py) | 11/09/18, 11/10/18 |  |
