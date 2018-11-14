@@ -39,3 +39,6 @@ if __name__ == "__main__":
 # ------------------------------
 # Summary:
 # Two pointer solution from solution section.
+# Keep track of prev, the filled seat at or to the left of i, and future, the filled seat at or to the right of i. 
+# Then at seat i, the closest person is min(i - prev, future - i), with one exception. i - prev should be considered infinite 
+# if there is no person to the left of seat i, and similarly future - i is infinite if there is no one to the right of seat i.

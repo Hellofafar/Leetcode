@@ -30,6 +30,7 @@ My solutions and summary for problems in LeetCode.
 | Divide and Conquer | 240 |
 | Heap | 857 |
 | Minimax | 464, 486 |
+| Brainteaser | 777 |
 
 ## Finished problems
 ### Easy
@@ -364,6 +365,7 @@ My solutions and summary for problems in LeetCode.
 | 250 | Count Univalue Subtrees | Medium | Python | 98.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/250.py) | 11/05/18 | |
 | 833 | Find And Replace in String | Medium | Python | 51.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/833.py) | 11/09/18 | |
 | 305 | Number of Islands II | Medium | Python | 82.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/305.py) | 11/10/18 | |
+| 777 | Swap Adjacent in LR String | Medium | Python | 83.05%, 98.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/777.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/777_2.py) | 11/13/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
