@@ -403,3 +403,4 @@ My solutions and summary for problems in LeetCode.
 | 146 | LRU Cache | Hard | Python | 10.56%, 57.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/146.py, [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/146_2.py) | 10/28/18 |  |
 | 460 | LFU Cache | Hard | Python | 96.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/460.py) | 11/02/18 |  |
 | 803 | Bricks Falling When Hit | Hard | Python | 83.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/803.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/803_2.py) | 11/09/18, 11/10/18 |  |
+| 212 | Word Search II | Hard | Python | 74.16% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/212.py) | 11/14/18 |  |
