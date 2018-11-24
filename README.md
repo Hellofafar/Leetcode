@@ -26,7 +26,7 @@ My solutions and summary for problems in LeetCode.
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114, 230 |
 | Sort | 148, 179 |
 | Topological Sort | 207, 210 |
-| Trie | 208 |
+| Trie | 208, 212 |
 | Divide and Conquer | 240 |
 | Heap | 857 |
 | Minimax | 464, 486 |
@@ -276,7 +276,7 @@ My solutions and summary for problems in LeetCode.
 | 74 | Search a 2D Matrix | Medium | Python | 26.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/74.py) | 01/20/18 | |
 | 77 | Combinations | Medium | Python | 39.24% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/77.py) | 01/20/18 | 78 |
 | 78 | Subsets | Medium | Python | 42.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/78.py) | 01/20/18 | 77 |
-| 79 | Word Search | Medium | Python | 7.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79.py) | 01/21/18 | |
+| 79 | Word Search | Medium | Python | 7.46%, 64.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79.py), [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79_2.py) | 01/21/18, 11/19/18 | |
 | 80 | Remove Duplicates from Sorted Array II | Medium | Python | 41.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/80.py) | 01/21/18 | 26 |
 | 81 | Search in Rotated Sorted Array II | Medium | Python | 52.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/81.py) | 01/27/18 | 33 |
 | 86 | Search in Rotated Sorted Array II | Medium | Python | 0.19%, 52.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86_2.py) | 01/28/18, 01/28/18 | |
