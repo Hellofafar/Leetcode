@@ -9,9 +9,9 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208, 146, 460 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562 |
 | Stack | 394, 173, 71, 155, 94 |
-| Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245 |
+| Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200 |
 | Union Find | 305, 317, 130, 200, 803 |
@@ -352,6 +352,7 @@ My solutions and summary for problems in LeetCode.
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Python | 44.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/309.py) | 10/05/18 | |
 | 904 | Fruit Into Baskets | Medium | Python | 96.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/904.py) | 10/08/18 | |
 | 299 | Bulls and Cows | Medium | Python | 67.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/299.py) | 10/08/18 | |
+| 684 | Redundant Connection | Medium | Python | 5.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/684.py) | 10/09/18 | |
 | 486 | Predict the Winner | Medium | Python | 82.64%, 99.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/486.py, [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/486_2.py) | 10/17/18, 10/28/18 | |
 | 253 | Meeting Rooms II | Medium | Python | 95.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/253.py) | 10/20/18 | |
 | 324 | Wiggle Sort II | Medium | Python | 82.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/324.py) | 10/20/18 | |
@@ -366,6 +367,9 @@ My solutions and summary for problems in LeetCode.
 | 833 | Find And Replace in String | Medium | Python | 51.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/833.py) | 11/09/18 | |
 | 305 | Number of Islands II | Medium | Python | 82.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/305.py) | 11/10/18 | |
 | 777 | Swap Adjacent in LR String | Medium | Python | 83.05%, 98.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/777.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/777_2.py) | 11/13/18 | |
+| 562 | Longest Line of Consecutive One in Matrix | Medium | Python | 66.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/562.py) | 11/24/18 | |
+| 731 | My Calendar II | Medium | Python | 76.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/731.py) | 11/25/18 | |
+| 900 | RLE Iterator | Medium | Python | 9.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/900.py) | 11/25/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -398,6 +402,7 @@ My solutions and summary for problems in LeetCode.
 | 857 | Minimum Cost to Hire K Workers | Hard | Python | 8.26% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/857.py) | 10/07/18 |  |
 | 128 | Longest Consecutive Sequence | Hard | Python | 55.52% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/128.py) | 10/08/18 |  |
 | 135 | Candy | Hard | Python | 54.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/125.py) | 10/09/18 |  |
+| 685 | Redundant Connection II | Hard | Python | 78.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/685.py) | 10/09/18 |  |
 | 489 | Robot Room Cleaner | Hard | Python | 26.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/489.py) | 10/10/18 |  |
 | 44 | Wildcard Matching | Hard | Python | 98.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/44.py) | 10/17/18 |  |
 | 146 | LRU Cache | Hard | Python | 10.56%, 57.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/146.py, [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/146_2.py) | 10/28/18 |  |
