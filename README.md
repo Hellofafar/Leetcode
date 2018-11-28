@@ -206,6 +206,7 @@ My solutions and summary for problems in LeetCode.
 | 844 | Backspace String Compare | Easy | Python | 99.76%, 99.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/844.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/844_2.py) | 10/07/18 | |
 | 849 | Maximize Distance to Closest Person | Easy | Python | 41.71%, 35.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/849.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/849_2.py) | 10/29/18 | |
 | 929 | Unique Email Addresses | Easy | Python | 74.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/929.py) | 11/07/18 | |
+| 359 | Logger Rate Limiter | Easy | Python | 68.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/359.py) | 11/27/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -385,7 +386,7 @@ My solutions and summary for problems in LeetCode.
 | 159 | Longest Substring with At Most Two Distinct Characters | Hard | Python | 70.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/159.py) | 11/14/17 | 340 |
 | 317 | Shortest Distance from All Buildings | Hard | Python | 26.77% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/317.py) | 11/15/17 | 317 |
 | 329 | Longest Increasing Path in a Matrix | Hard | Python | 56.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/329.py) | 11/16/17 |  |
-| 248 | Strobogrammatic Number III | Hard | Python | 50.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/248.py) | 12/10/17 | 246, 247 |
+| 248 | Strobogrammatic Number III | Hard | Python | 50.91%, 38.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/248.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/248_2.py) | 12/10/17, 11/27/18 | 246, 247 |
 | 30 | Substring with Concatenation of All Words | Hard | Python | 27.92% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/30.py) | 12/18/17 |  |
 | 37 | Sudoku Solver | Hard | Python | 7.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/37.py) | 12/18/17 |  |
 | 57 | Insert Interval | Hard | Python | 27.47% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/57.py) | 12/19/17 |  |

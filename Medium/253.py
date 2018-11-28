@@ -64,4 +64,4 @@ if __name__ == "__main__":
 # For 1, just keep using the room
 # For 2, allocate a new room
 # Use a heap to store the end time of every rooms, and compare the earliest end time with
-# next end time to decide the allocation of room.
+# next start time to decide the allocation of room.
