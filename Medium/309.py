@@ -29,12 +29,12 @@ class Solution:
         if len(prices) < 2:
             return 0
         
-        state0 = [0 for _ in range(len(prices))]
-        state1 = [0 for _ in range(len(prices))]
-        state2 = [0 for _ in range(len(prices))]
+        state0 = [0 for _ in range(len(prices))]  # state0: can buy or remain status
+        state1 = [0 for _ in range(len(prices))]  # state1: can sell or remain status
+        state2 = [0 for _ in range(len(prices))]  # state2: (after sell from state1) can only wait for one day to operate
         
-        state1[0] = -prices[0]
-        state2[0] = -sys.maxsize
+        state1[0] = -prices[0]   # At the start, you don't have any stock if you just rest
+        state2[0] = -sys.maxsize # Lower base case
         
         for i in range(1, len(prices)):
             state0[i] = max(state0[i-1], state2[i-1])
