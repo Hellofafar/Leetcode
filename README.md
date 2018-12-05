@@ -59,7 +59,7 @@ My solutions and summary for problems in LeetCode.
 | 246 | Strobogrammatic Number | Easy | Python | 26.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/246.py) | 11/14/17 | 247, 248 |
 | 345 | Reverse Vowels of a String | Easy | Python | 24.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/345.py) | 11/15/17 | |
 | 58 | Length of Last Word | Easy | Python | 51.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/58.py) | 11/21/17 | |
-| 687 | Longest Univalue Path | Easy | Python | 89.83% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/687.py) | 12/06/17 | |
+| 687 | Longest Univalue Path | Easy | Python | 89.83% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/687.py) | 12/06/17 | 250 |
 | 276 | Paint Fence | Easy | Python | 50.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/276.py) | 12/11/17 | |
 | 422 | Valid Word Square | Easy | Python | 55.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/422.py) | 12/11/17 | |
 | 67 | Add Binary | Easy | Python | 92.46%, 63.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/67.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/67_2.py) | 12/17/17, 12/18/17 | |
@@ -364,7 +364,7 @@ My solutions and summary for problems in LeetCode.
 | 244 | Shortest Word Distance II | Medium | Python | 2.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/244.py) | 11/03/18 | |
 | 245 | Shortest Word Distance III | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/245.py) | 11/03/18 | |
 | 249 | Group Shifted Strings | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/249.py) | 11/05/18 | |
-| 250 | Count Univalue Subtrees | Medium | Python | 98.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/250.py) | 11/05/18 | |
+| 250 | Count Univalue Subtrees | Medium | Python | 98.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/250.py) | 11/05/18 | 687 |
 | 833 | Find And Replace in String | Medium | Python | 51.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/833.py) | 11/09/18 | |
 | 305 | Number of Islands II | Medium | Python | 82.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/305.py) | 11/10/18 | |
 | 777 | Swap Adjacent in LR String | Medium | Python | 83.05%, 98.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/777.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/777_2.py) | 11/13/18 | |
@@ -410,3 +410,4 @@ My solutions and summary for problems in LeetCode.
 | 460 | LFU Cache | Hard | Python | 96.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/460.py) | 11/02/18 |  |
 | 803 | Bricks Falling When Hit | Hard | Python | 83.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/803.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/803_2.py) | 11/09/18, 11/10/18 |  |
 | 212 | Word Search II | Hard | Python | 74.16% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/212.py) | 11/14/18 |  |
+| 786 | K-th Smallest Prime Fraction | Hard | Python | 40.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/786.py) | 12/05/18 |  |
