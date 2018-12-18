@@ -8,7 +8,7 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208, 146, 460 |
-| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731 |
@@ -23,7 +23,7 @@ My solutions and summary for problems in LeetCode.
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201, 260 |
 | Math | 168, 171, 172, 202, 693 |
 | String | 680, 227, 44 |
-| Preorder/Inorder/Postorder | 589, 590, 94, 105, 114, 230 |
+| Preorder/Inorder/Postorder | 589, 590, 94, 105, 114, 230, 99 |
 | Sort | 148, 179 |
 | Topological Sort | 207, 210 |
 | Trie | 208, 212 |
@@ -371,6 +371,7 @@ My solutions and summary for problems in LeetCode.
 | 562 | Longest Line of Consecutive One in Matrix | Medium | Python | 66.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/562.py) | 11/24/18 | |
 | 731 | My Calendar II | Medium | Python | 76.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/731.py) | 11/25/18 | |
 | 900 | RLE Iterator | Medium | Python | 9.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/900.py) | 11/25/18 | |
+| 300 | Longest Increasing Subsequence | Medium | Python | 2.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/300.py) | 12/15/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -411,3 +412,4 @@ My solutions and summary for problems in LeetCode.
 | 803 | Bricks Falling When Hit | Hard | Python | 83.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/803.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/803_2.py) | 11/09/18, 11/10/18 |  |
 | 212 | Word Search II | Hard | Python | 74.16% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/212.py) | 11/14/18 |  |
 | 786 | K-th Smallest Prime Fraction | Hard | Python | 40.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/786.py) | 12/05/18 |  |
+| 99 | Recover Binary Search Tree | Hard | Python | 32.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/99.py) | 12/17/18 |  |
