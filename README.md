@@ -8,7 +8,7 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208, 146, 460 |
-| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731 |
@@ -70,7 +70,7 @@ My solutions and summary for problems in LeetCode.
 | 371 | Sum of Two Integers | Easy | Python | 39.52% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/371.py) | 02/05/18 | |
 | 206 | Reverse Linked List | Easy | Python | 24.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/206.py) | 02/06/18 | |
 | 206 | Reverse Linked List | Easy | Python | 32.84% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/206_2.py) | 02/06/18 | |
-| 543 | Diameter of Binary Tree | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/543.py) | 02/22/18 | |
+| 543 | Diameter of Binary Tree | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/543.py) | 02/22/18 | 124 |
 | 100 | Same Tree | Easy | Python | 99.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/100.py) | 05/25/18 | |
 | 101 | Symmetric Tree | Easy | Python | 92.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/101.py) | 06/01/18 | |
 | 104 | Maximum Depth of Binary Tree | Easy | Python | 57.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/104.py) | 06/05/18 | |
@@ -207,6 +207,7 @@ My solutions and summary for problems in LeetCode.
 | 849 | Maximize Distance to Closest Person | Easy | Python | 41.71%, 35.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/849.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/849_2.py) | 10/29/18 | |
 | 929 | Unique Email Addresses | Easy | Python | 74.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/929.py) | 11/07/18 | |
 | 359 | Logger Rate Limiter | Easy | Python | 68.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/359.py) | 11/27/18 | |
+| 872 | Leaf-Similar Trees | Easy | Python | 99.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/872.py) | 12/18/18 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -372,6 +373,7 @@ My solutions and summary for problems in LeetCode.
 | 731 | My Calendar II | Medium | Python | 76.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/731.py) | 11/25/18 | |
 | 900 | RLE Iterator | Medium | Python | 9.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/900.py) | 11/25/18 | |
 | 300 | Longest Increasing Subsequence | Medium | Python | 2.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/300.py) | 12/15/18 | |
+| 337 | House Robber III | Medium | Python | 85.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/337.py) | 12/18/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -413,3 +415,5 @@ My solutions and summary for problems in LeetCode.
 | 212 | Word Search II | Hard | Python | 74.16% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/212.py) | 11/14/18 |  |
 | 786 | K-th Smallest Prime Fraction | Hard | Python | 40.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/786.py) | 12/05/18 |  |
 | 99 | Recover Binary Search Tree | Hard | Python | 32.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/99.py) | 12/17/18 |  |
+| 124 | Binary Tree Maximum Path Sum | Hard | Python | 57.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/124.py) | 12/18/18 | 543 |
+| 145 | Binary Tree Postorder Traversal | Hard | Python | 20.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/145.py) | 12/18/18 | 590 |
