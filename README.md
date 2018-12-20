@@ -417,3 +417,4 @@ My solutions and summary for problems in LeetCode.
 | 99 | Recover Binary Search Tree | Hard | Python | 32.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/99.py) | 12/17/18 |  |
 | 124 | Binary Tree Maximum Path Sum | Hard | Python | 57.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/124.py) | 12/18/18 | 543 |
 | 145 | Binary Tree Postorder Traversal | Hard | Python | 20.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/145.py) | 12/18/18 | 590 |
+| 297 | Serialize and Deserialize Binary Tree | Hard | Python | 3.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/297.py) | 12/19/18 |  |
