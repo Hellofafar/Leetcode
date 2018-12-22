@@ -375,6 +375,9 @@ My solutions and summary for problems in LeetCode.
 | 300 | Longest Increasing Subsequence | Medium | Python | 2.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/300.py) | 12/15/18 | |
 | 337 | House Robber III | Medium | Python | 85.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/337.py) | 12/18/18 | |
 | 449 | Serialize and Deserialize BST | Medium | Python | 22.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/449.py) | 12/20/18 | |
+| 450 | Delete Node in a BST | Medium | Python | 15.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/450.py) | 12/21/18 | |
+| 508 | Most Frequent Subtree Sum | Medium | Python | 54.24% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/508.py) | 12/21/18 | |
+| 513 | Find Bottom Left Tree Value | Medium | Python | 26.51%, 26.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/513.py), [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/513_2.py) | 12/21/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
