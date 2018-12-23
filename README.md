@@ -377,7 +377,12 @@ My solutions and summary for problems in LeetCode.
 | 449 | Serialize and Deserialize BST | Medium | Python | 22.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/449.py) | 12/20/18 | |
 | 450 | Delete Node in a BST | Medium | Python | 15.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/450.py) | 12/21/18 | |
 | 508 | Most Frequent Subtree Sum | Medium | Python | 54.24% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/508.py) | 12/21/18 | |
-| 513 | Find Bottom Left Tree Value | Medium | Python | 26.51%, 26.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/513.py), [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/513_2.py) | 12/21/18 | |
+| 513 | Find Bottom Left Tree Value | Medium | Python | 26.51%, 26.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/513.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/513_2.py) | 12/21/18 | |
+| 515 | Find Largest Value in Each Tree Row | Medium | Python | 25.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/515.py) | 12/22/18 | |
+| 623 | Add One Row to Tree | Medium | Python | 51.13% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/623.py) | 12/22/18 | |
+| 652 | Find Duplicate Subtrees | Medium | Python | 23.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/652.py) | 12/22/18 | |
+| 654 | Maximum Binary Tree | Medium | Python | 29.13% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/654.py) | 12/22/18 | |
+
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
