@@ -8,7 +8,7 @@ My solutions and summary for problems in LeetCode.
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208, 146, 460 |
-| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124 |
+| Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124, 654, 655 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731 |
@@ -382,7 +382,8 @@ My solutions and summary for problems in LeetCode.
 | 623 | Add One Row to Tree | Medium | Python | 51.13% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/623.py) | 12/22/18 | |
 | 652 | Find Duplicate Subtrees | Medium | Python | 23.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/652.py) | 12/22/18 | |
 | 654 | Maximum Binary Tree | Medium | Python | 29.13% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/654.py) | 12/22/18 | |
-
+| 655 | Print Binary Tree | Medium | Python | 21.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/655.py) | 12/23/18 | |
+| 662 | Maximum Width of Binary Tree | Medium | Python | 21.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/662.py) | 12/23/18 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
