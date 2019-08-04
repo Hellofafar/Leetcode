@@ -357,7 +357,7 @@ My solutions and summary for problems in LeetCode.
 | 904 | Fruit Into Baskets | Medium | Python | 96.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/904.py) | 10/08/18 | |
 | 299 | Bulls and Cows | Medium | Python | 67.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/299.py) | 10/08/18 | |
 | 684 | Redundant Connection | Medium | Python | 5.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/684.py) | 10/09/18 | |
-| 486 | Predict the Winner | Medium | Python | 82.64%, 99.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/486.py, [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/486_2.py) | 10/17/18, 10/28/18 | |
+| 486 | Predict the Winner | Medium | Python | 82.64%, 99.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/486.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/486_2.py) | 10/17/18, 10/28/18 | |
 | 253 | Meeting Rooms II | Medium | Python | 95.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/253.py) | 10/20/18 | |
 | 324 | Wiggle Sort II | Medium | Python | 82.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/324.py) | 10/20/18 | |
 | 468 | Validate IP Address | Medium | Python | 92.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/468.py) | 10/25/18 | |
