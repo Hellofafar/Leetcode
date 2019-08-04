@@ -208,6 +208,8 @@ My solutions and summary for problems in LeetCode.
 | 929 | Unique Email Addresses | Easy | Python | 74.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/929.py) | 11/07/18 | |
 | 359 | Logger Rate Limiter | Easy | Python | 68.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/359.py) | 11/27/18 | |
 | 872 | Leaf-Similar Trees | Easy | Python | 99.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/872.py) | 12/18/18 | |
+| 509 | Fibonacci Number | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/509.java) | 08/03/19 | |
+| 558 | Quad Tree Intersection | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/558.java) | 08/03/19 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
