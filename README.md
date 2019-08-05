@@ -28,7 +28,7 @@ My solutions and summary for problems in LeetCode.
 | Topological Sort | 207, 210 |
 | Trie | 208, 212 |
 | Divide and Conquer | 240 |
-| Heap | 857 |
+| Heap | 857, 703 |
 | Minimax | 464, 486 |
 | Brainteaser | 777 |
 
@@ -210,6 +210,8 @@ My solutions and summary for problems in LeetCode.
 | 872 | Leaf-Similar Trees | Easy | Python | 99.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/872.py) | 12/18/18 | |
 | 509 | Fibonacci Number | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/509.java) | 08/03/19 | |
 | 558 | Quad Tree Intersection | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/558.java) | 08/03/19 | |
+| 703 | Kth Largest Element in a Stream | Easy | Java | 80.49% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/703.java) | 08/04/19 | |
+| 704 | Binary Search | Easy | Java | 100.00%% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/704.java) | 08/04/19 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
