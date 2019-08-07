@@ -212,6 +212,7 @@ My solutions and summary for problems in LeetCode.
 | 558 | Quad Tree Intersection | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/558.java) | 08/03/19 | |
 | 703 | Kth Largest Element in a Stream | Easy | Java | 80.49% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/703.java) | 08/04/19 | |
 | 704 | Binary Search | Easy | Java | 100.00%% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/704.java) | 08/04/19 | |
+| 709 | To Lower Case | Easy | Java | 100.00%% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/709.java) | 08/06/19 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
