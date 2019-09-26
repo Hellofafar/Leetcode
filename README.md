@@ -5,7 +5,7 @@ My solutions and summary for problems in LeetCode.
 ## Problems by topics
 | Topics | Problems |
 | ---- | -------- |
-| Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216 |
+| Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216, 306 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208, 146, 460 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124, 654, 655 |
@@ -13,7 +13,7 @@ My solutions and summary for problems in LeetCode.
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
-| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200 |
+| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310 |
 | Union Find | 305, 317, 130, 200, 803 |
 | Greedy | 406, 122, 134, 135 |
 | Graph | 399, 207 |
@@ -31,6 +31,7 @@ My solutions and summary for problems in LeetCode.
 | Heap | 857, 703 |
 | Minimax | 464, 486 |
 | Brainteaser | 777 |
+| Segment Tree | 307 |
 
 ## Finished problems
 ### Easy
@@ -391,6 +392,9 @@ My solutions and summary for problems in LeetCode.
 | 662 | Maximum Width of Binary Tree | Medium | Python | 21.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/662.py) | 12/23/18 | |
 | 8 | String to Integer (atoi) | Medium | Python | 75.24% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/8.py) | 9/21/19 | |
 | 304 | Range Sum Query 2D - Immutable | Medium | Python | 34.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/304.py) | 9/22/19 | |
+| 306 | Additive Number | Medium | Python | 76.77% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/306.py) | 9/24/19 | |
+| 307 | Range Sum Query - Mutable | Medium | Python | 64.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/307.py) | 9/25/19 | |
+| 310 | Minimum Height Trees | Medium | Python | 91.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/310.py) | 9/25/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
