@@ -9,7 +9,7 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
 | Design | 308, 346, 284, 173, 208, 146, 460 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124, 654, 655 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304|
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
@@ -20,7 +20,7 @@ My solutions and summary for problems in LeetCode.
 | Binary Search | 33, 69, 88, 153, 162, 230 |
 | Binary Search Tree | 530, 538, 220 |
 | Linked List | 82, 206, 92, 109, 143, 148 |
-| Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201, 260 |
+| Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201, 260, 318 |
 | Math | 168, 171, 172, 202, 693 |
 | String | 680, 227, 44 |
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114, 230, 99 |
@@ -395,6 +395,10 @@ My solutions and summary for problems in LeetCode.
 | 306 | Additive Number | Medium | Python | 76.77% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/306.py) | 9/24/19 | |
 | 307 | Range Sum Query - Mutable | Medium | Python | 64.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/307.py) | 9/25/19 | |
 | 310 | Minimum Height Trees | Medium | Python | 91.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/310.py) | 9/25/19 | |
+| 313 | Super Ugly Number | Medium | Python | 52.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/313.py) | 9/26/19 | |
+| 318 | Maximum Product of Word Lengths | Medium | Python | 96.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/318.py) | 9/26/19 | |
+| 319 | Bulb Switcher | Medium | Python | 32.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/319.py) | 9/26/19 | |
+| 322 | Coin Change | Medium | Python | 17.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/322.py) | 9/26/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
