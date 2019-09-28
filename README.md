@@ -16,14 +16,14 @@ My solutions and summary for problems in LeetCode.
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310 |
 | Union Find | 305, 317, 130, 200, 803 |
 | Greedy | 406, 122, 134, 135 |
-| Graph | 399, 207 |
+| Graph | 399, 207, 332 |
 | Binary Search | 33, 69, 88, 153, 162, 230 |
 | Binary Search Tree | 530, 538, 220 |
 | Linked List | 82, 206, 92, 109, 143, 148 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201, 260, 318 |
 | Math | 168, 171, 172, 202, 693 |
 | String | 680, 227, 44 |
-| Preorder/Inorder/Postorder | 589, 590, 94, 105, 114, 230, 99 |
+| Preorder/Inorder/Postorder | 589, 590, 94, 105, 114, 230, 99, 331 |
 | Sort | 148, 179 |
 | Topological Sort | 207, 210 |
 | Trie | 208, 212 |
@@ -399,6 +399,11 @@ My solutions and summary for problems in LeetCode.
 | 318 | Maximum Product of Word Lengths | Medium | Python | 96.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/318.py) | 9/26/19 | |
 | 319 | Bulb Switcher | Medium | Python | 32.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/319.py) | 9/26/19 | |
 | 322 | Coin Change | Medium | Python | 17.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/322.py) | 9/26/19 | |
+| 328 | Odd Even Linked List | Medium | Python | 7.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/328.py) | 9/27/19 | |
+| 331 | Verify Preorder Serialization of a Binary Tree | Medium | Python | 92.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/331.py) | 9/27/19 | |
+| 332 | Reconstruct Itinerary | Medium | Python | 70.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/332.py) | 9/27/19 | |
+| 334 | Increasing Triplet Subsequence | Medium | Python | 74.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/334.py) | 9/27/19 | |
+| 341 | Flatten Nested List Iterator | Medium | Python | 70.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/341.py) | 9/27/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
