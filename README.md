@@ -7,7 +7,7 @@ My solutions and summary for problems in LeetCode.
 | ---- | -------- |
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216, 306 |
 | Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
-| Design | 308, 346, 284, 173, 208, 146, 460 |
+| Design | 308, 346, 284, 173, 208, 146, 460, 355 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124, 654, 655 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322 |
 | Stack | 394, 173, 71, 155, 94 |
@@ -21,14 +21,14 @@ My solutions and summary for problems in LeetCode.
 | Binary Search Tree | 530, 538, 220 |
 | Linked List | 82, 206, 92, 109, 143, 148 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201, 260, 318 |
-| Math | 168, 171, 172, 202, 693 |
+| Math | 168, 171, 172, 202, 693, 365, 368 |
 | String | 680, 227, 44 |
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114, 230, 99, 331 |
 | Sort | 148, 179 |
 | Topological Sort | 207, 210 |
 | Trie | 208, 212 |
 | Divide and Conquer | 240 |
-| Heap | 857, 703 |
+| Heap | 857, 703, 347 |
 | Minimax | 464, 486 |
 | Brainteaser | 777 |
 | Segment Tree | 307 |
@@ -404,6 +404,11 @@ My solutions and summary for problems in LeetCode.
 | 332 | Reconstruct Itinerary | Medium | Python | 70.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/332.py) | 9/27/19 | |
 | 334 | Increasing Triplet Subsequence | Medium | Python | 74.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/334.py) | 9/27/19 | |
 | 341 | Flatten Nested List Iterator | Medium | Python | 70.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/341.py) | 9/27/19 | |
+| 343 | Integer Break | Medium | Python | 93.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/343.py) | 9/28/19 | |
+| 347 | Top K Frequent Elements | Medium | Python | 95.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/347.py) | 9/28/19 | |
+| 355 | Design Twitter | Medium | Python | 82.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/355.py) | 9/28/19 | |
+| 365 | Water and Jug Problem | Medium | Python | 90.16% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/365.py) | 9/28/19 | |
+| 368 | Largest Divisible Subset | Medium | Python | 57.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/368.py) | 9/28/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
