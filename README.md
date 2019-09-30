@@ -21,14 +21,14 @@ My solutions and summary for problems in LeetCode.
 | Binary Search Tree | 530, 538, 220 |
 | Linked List | 82, 206, 92, 109, 143, 148 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201, 260, 318 |
-| Math | 168, 171, 172, 202, 693, 365, 368 |
+| Math | 168, 171, 172, 202, 693, 365, 368, 372 |
 | String | 680, 227, 44 |
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114, 230, 99, 331 |
 | Sort | 148, 179 |
 | Topological Sort | 207, 210 |
 | Trie | 208, 212 |
 | Divide and Conquer | 240 |
-| Heap | 857, 703, 347 |
+| Heap | 857, 703, 347, 373 |
 | Minimax | 464, 486 |
 | Brainteaser | 777 |
 | Segment Tree | 307 |
@@ -409,6 +409,11 @@ My solutions and summary for problems in LeetCode.
 | 355 | Design Twitter | Medium | Python | 82.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/355.py) | 9/28/19 | |
 | 365 | Water and Jug Problem | Medium | Python | 90.16% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/365.py) | 9/28/19 | |
 | 368 | Largest Divisible Subset | Medium | Python | 57.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/368.py) | 9/28/19 | |
+| 372 | Super Pow | Medium | Python | 34.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/372.py) | 9/29/19 | |
+| 373 | Find K Pairs with Smallest Sums | Medium | Python | 73.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/373.py) | 9/29/19 | 23 |
+| 375 | Guess Number Higher or Lower II | Medium | Python | 5.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/373.py) | 9/29/19 | |
+| 376 | Wiggle Subsequence | Medium | Python | 90.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/376.py) | 9/29/19 | |
+| 377 | Combination Sum IV | Medium | Python | 17.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/377.py) | 9/29/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
