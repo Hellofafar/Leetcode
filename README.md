@@ -32,6 +32,7 @@ My solutions and summary for problems in LeetCode.
 | Minimax | 464, 486 |
 | Brainteaser | 777 |
 | Segment Tree | 307 |
+| Reservoir Sampling | 382 |
 
 ## Finished problems
 ### Easy
@@ -414,6 +415,11 @@ My solutions and summary for problems in LeetCode.
 | 375 | Guess Number Higher or Lower II | Medium | Python | 5.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/373.py) | 9/29/19 | |
 | 376 | Wiggle Subsequence | Medium | Python | 90.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/376.py) | 9/29/19 | |
 | 377 | Combination Sum IV | Medium | Python | 17.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/377.py) | 9/29/19 | |
+| 378 | Kth Smallest Element in a Sorted Matrix | Medium | Python | 23.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/378.py) | 9/30/19 | |
+| 380 | Insert Delete GetRandom O(1) | Medium | Python | 46.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/380.py) | 9/30/19 | |
+| 382 | Linked List Random Node | Medium | Python | 19.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/382.py) | 9/30/19 | |
+| 384 | Shuffle an Array | Medium | Python | 25.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/384.py) | 9/30/19 | |
+| 385 | Mini Parser | Medium | Python | 84.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/385.py) | 9/30/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
