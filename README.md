@@ -253,7 +253,7 @@ My solutions and summary for problems in LeetCode.
 | 418 | Sentence Screen Fitting | Medium | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/418.py) | 11/08/17 | |
 | 361 | Bomb Enemy | Medium | Python | 60.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/361.py) | 11/08/17 | |
 | 394 | Decode String | Medium | Python | 97.49% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/394.py) | 11/09/17 | |
-| 393 | UTF-8 Validation | Medium | Python | 33.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/393.py) | 11/09/17 | |
+| 393 | UTF-8 Validation | Medium | Python | 33.05%, 49.47% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/393.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/393_2.py) | 11/09/17, 10/01/19 | |
 | 163 | Missing Ranges | Medium | Python | 15.35%, 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/163.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/163_2.py) | 11/10/17, 11/03/18 | |
 | 271 | Encode and Decode Strings | Medium | Python | 34.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/271.py) | 11/10/17 | |
 | 351 | Android Unlock Patterns | Medium | Python | 19.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/351.py) | 11/11/17 | |
@@ -420,6 +420,9 @@ My solutions and summary for problems in LeetCode.
 | 382 | Linked List Random Node | Medium | Python | 19.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/382.py) | 9/30/19 | |
 | 384 | Shuffle an Array | Medium | Python | 25.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/384.py) | 9/30/19 | |
 | 385 | Mini Parser | Medium | Python | 84.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/385.py) | 9/30/19 | |
+| 386 | Lexicographical Numbers | Medium | Python | 34.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/386.py) | 10/01/19 | |
+| 390 | Elimination Game | Medium | Python | 82.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/390.py) | 10/01/19 | |
+| 395 | Longest Substring with At Least K Repeating Characters | Medium | Python |76.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/395.py) | 10/01/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
