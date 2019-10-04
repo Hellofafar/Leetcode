@@ -34,7 +34,7 @@
 # The next byte is a continuation byte which starts with 10 and that's correct.
 # But the second continuation byte does not start with 10, so it is invalid.
 # 
-# Version: 1.0
+# Version: 2.0
 # 10/01/19 by Jianfa
 # ------------------------------
 

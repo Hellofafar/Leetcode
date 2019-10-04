@@ -242,7 +242,7 @@ My solutions and summary for problems in LeetCode.
 | 39 | Combination Sum | Medium | Python | 24.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/39.py) | 11/01/17 | 40 |
 | 40 | Combination Sum II | Medium | Python | 95.53% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/40.py) | 11/01/17 | 39 |
 | 43 | Multiply Strings | Medium | Python | 32.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/43.py) | 11/03/17 | |
-| 46 | Permutations | Medium | Python | 31.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/46.py) | 11/03/17 | 47 |
+| 46 | Permutations | Medium | Python | 31.56%, 37.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/46.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/46_2.py) | 11/03/17, 10/03/19 | 47 |
 | 47 | Permutations II | Medium | Python | 16.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/47.py) | 11/03/17 | 46 |
 | 48 | Rotate Image | Medium | Python | 24.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/48.py) | 11/03/17 | |
 | 388 | Longest Absolute File Path | Medium | Python | 36.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/388.py) | 11/04/17 | |
@@ -283,15 +283,15 @@ My solutions and summary for problems in LeetCode.
 | 71 | Simplify Path | Medium | Python | 65.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/71.py) | 01/19/18 | |
 | 73 | Set Matrix Zeroes | Medium | Python | 27.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/73.py) | 01/19/18 | |
 | 74 | Search a 2D Matrix | Medium | Python | 26.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/74.py) | 01/20/18 | |
-| 77 | Combinations | Medium | Python | 39.24% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/77.py) | 01/20/18 | 78 |
-| 78 | Subsets | Medium | Python | 42.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/78.py) | 01/20/18 | 77 |
-| 79 | Word Search | Medium | Python | 7.46%, 64.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79.py), [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79_2.py) | 01/21/18, 11/19/18 | |
+| 77 | Combinations | Medium | Python | 39.24%, 55.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/77.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/77_2.py) | 01/20/18, 10/03/19 | 78 |
+| 78 | Subsets | Medium | Python | 42.54%, 92.81% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/78.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/78_2.py) | 01/20/18, 10/03/19 | 77 |
+| 79 | Word Search | Medium | Python | 7.46%, 64.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79_2.py) | 01/21/18, 11/19/18 | |
 | 80 | Remove Duplicates from Sorted Array II | Medium | Python | 41.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/80.py) | 01/21/18 | 26 |
 | 81 | Search in Rotated Sorted Array II | Medium | Python | 52.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/81.py) | 01/27/18 | 33 |
 | 86 | Search in Rotated Sorted Array II | Medium | Python | 0.19%, 52.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86_2.py) | 01/28/18, 01/28/18 | |
 | 82 | Remove Duplicates from Sorted List II | Medium | Python | 62.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/82.py) | 01/30/18 | |
 | 89 | Grey Code | Medium | Python | 31.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/89.py) | 02/02/18 | |
-| 90 | Subsets II | Medium | Python | 32.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/90.py) | 02/06/18 | |
+| 90 | Subsets II | Medium | Python | 32.23%, 15.53% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/90.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/90_2.py) | 02/06/18, 10/03/19 | |
 | 91 | Decode Ways | Medium | Python | 29.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/91.py) | 02/19/18 | |
 | 92 | Subsets II | Medium | Python | 58.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/92.py) | 02/24/18 | |
 | 93 | Restore IP Addresses | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/93.py) | 08/07/18 | |
