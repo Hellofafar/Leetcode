@@ -5,8 +5,8 @@ My solutions and summary for problems in LeetCode.
 ## Problems by topics
 | Topics | Problems |
 | ---- | -------- |
-| Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216, 306 |
-| Hash Table | 30, 159, 340, 202, 204, 205， 219, 438, 447 |
+| Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216, 306, 10 |
+| Hash Table | 30, 159, 340, 202, 204, 205，219, 438, 447 |
 | Design | 308, 346, 284, 173, 208, 146, 460, 355 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124, 654, 655 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322 |
@@ -439,7 +439,7 @@ My solutions and summary for problems in LeetCode.
 | 317 | Shortest Distance from All Buildings | Hard | Python | 26.77% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/317.py) | 11/15/17 | 317 |
 | 329 | Longest Increasing Path in a Matrix | Hard | Python | 56.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/329.py) | 11/16/17 |  |
 | 248 | Strobogrammatic Number III | Hard | Python | 50.91%, 38.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/248.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/248_2.py) | 12/10/17, 11/27/18 | 246, 247 |
-| 30 | Substring with Concatenation of All Words | Hard | Python | 27.92% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/30.py) | 12/18/17 |  |
+| 30 | Substring with Concatenation of All Words | Hard | Python | 27.92%， 85.53% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/30.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/30_2.py) | 12/18/17, 10/04/19 |  |
 | 37 | Sudoku Solver | Hard | Python | 7.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/37.py) | 12/18/17 |  |
 | 57 | Insert Interval | Hard | Python | 27.47% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/57.py) | 12/19/17 |  |
 | 65 | Valid Number | Hard | Python | 20.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/65.py) | 01/17/18 |  |
@@ -467,3 +467,5 @@ My solutions and summary for problems in LeetCode.
 | 124 | Binary Tree Maximum Path Sum | Hard | Python | 57.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/124.py) | 12/18/18 | 543 |
 | 145 | Binary Tree Postorder Traversal | Hard | Python | 20.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/145.py) | 12/18/18 | 590 |
 | 297 | Serialize and Deserialize Binary Tree | Hard | Python | 3.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/297.py) | 12/19/18 |  |
+| 149 | Max Points on a Line | Hard | Python | 56.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/149.py) | 10/04/19 |  |
+| 10 | Regular Expression Matching | Hard | Python | 16.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/10.py) | 10/05/19 |  |
