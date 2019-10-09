@@ -7,7 +7,7 @@ My solutions and summary for problems in LeetCode.
 | ---- | -------- |
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216, 306, 10 |
 | Hash Table | 30, 159, 340, 202, 204, 205，219, 438, 447 |
-| Design | 308, 346, 284, 173, 208, 146, 460, 355 |
+| Design | 308, 346, 284, 173, 208, 146, 460, 355, 622 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124, 654, 655 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322 |
 | Stack | 394, 173, 71, 155, 94 |
@@ -422,7 +422,8 @@ My solutions and summary for problems in LeetCode.
 | 385 | Mini Parser | Medium | Python | 84.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/385.py) | 9/30/19 | |
 | 386 | Lexicographical Numbers | Medium | Python | 34.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/386.py) | 10/01/19 | |
 | 390 | Elimination Game | Medium | Python | 82.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/390.py) | 10/01/19 | |
-| 395 | Longest Substring with At Least K Repeating Characters | Medium | Python |76.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/395.py) | 10/01/19 | |
+| 395 | Longest Substring with At Least K Repeating Characters | Medium | Python | 76.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/395.py) | 10/01/19 | |
+| 622 | Design Circular Queue | Medium | Python | 87.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/622.py) | 10/08/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
