@@ -9,13 +9,13 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340, 202, 204, 205，219, 438, 447 |
 | Design | 308, 346, 284, 173, 208, 146, 460, 355, 622 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124, 654, 655 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322, 416 |
 | Stack | 394, 173, 71, 155, 94 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310 |
 | Union Find | 305, 317, 130, 200, 803 |
-| Greedy | 406, 122, 134, 135 |
+| Greedy | 406, 122, 134, 135, 402 |
 | Graph | 399, 207, 332 |
 | Binary Search | 33, 69, 88, 153, 162, 230 |
 | Binary Search Tree | 530, 538, 220 |
@@ -424,6 +424,11 @@ My solutions and summary for problems in LeetCode.
 | 390 | Elimination Game | Medium | Python | 82.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/390.py) | 10/01/19 | |
 | 395 | Longest Substring with At Least K Repeating Characters | Medium | Python | 76.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/395.py) | 10/01/19 | |
 | 622 | Design Circular Queue | Medium | Python | 87.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/622.py) | 10/08/19 | |
+| 396 | Rotate Function | Medium | Python | 86.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/396.py) | 10/09/19 | |
+| 397 | Integer Replacement | Medium | Python | 49.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/397.py) | 10/09/19 | |
+| 398 | Random Pick Index | Medium | Python | 47.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/398.py) | 10/09/19 | |
+| 402 | Remove K Digits | Medium | Python | 67.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/402.py) | 10/09/19 | |
+| 416 | Partition Equal Subset Sum | Medium | Python | 5.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/416.py) | 10/09/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
