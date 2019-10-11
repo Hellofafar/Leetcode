@@ -33,6 +33,7 @@ My solutions and summary for problems in LeetCode.
 | Brainteaser | 777 |
 | Segment Tree | 307 |
 | Reservoir Sampling | 382 |
+| Sliding Windows | 239, 424 |
 
 ## Finished problems
 ### Easy
@@ -267,7 +268,7 @@ My solutions and summary for problems in LeetCode.
 | 406 | Queue Reconstruction by Height | Medium | Python | 67.74% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/406.py) | 11/25/17 | |
 | 616 | Add Bold Tag in String | Medium | Python | 29.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/616.py) | 12/04/17 | |
 | 399 | Evaluate Division | Medium | Python | 96.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/399.py) | 12/09/17 | |
-| 417 | Pacific Atlantic Water Flow | Medium | Python | 69.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/417.py) | 12/09/17 | |
+| 417 | Pacific Atlantic Water Flow | Medium | Python | 69.75%, 30.08% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/417.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/417_2.py) | 10/10/19 | |
 | 284 | Peeking Iterator | Medium | Python | 25.30%, 99.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/284.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/284_2.py) | 12/10/17, 09/30/18 | 173 |
 | 173 | Binary Search Tree Iterator | Medium | Python | 62.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/173.py) | 12/10/17 | 284 |
 | 56 | Merge Intervals | Medium | Python | 39.56%, 95.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56_2.py) | 12/10/17, 08/06/18 | |
@@ -429,6 +430,10 @@ My solutions and summary for problems in LeetCode.
 | 398 | Random Pick Index | Medium | Python | 47.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/398.py) | 10/09/19 | |
 | 402 | Remove K Digits | Medium | Python | 67.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/402.py) | 10/09/19 | |
 | 416 | Partition Equal Subset Sum | Medium | Python | 5.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/416.py) | 10/09/19 | |
+| 419 | Battleships in a Board | Medium | Python | 33.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/419.py) | 10/10/19 | |
+| 421 | Maximum XOR of Two Numbers in an Array | Medium | Python | 69.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/421.py) | 10/10/19 | |
+| 423 | Reconstruct Original Digits from English | Medium | Python | 18.85% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/423.py) | 10/10/19 | |
+| 424 | Longest Repeating Character Replacement | Medium | Python | 84.28% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/424.py) | 10/10/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
