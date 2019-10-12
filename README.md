@@ -434,6 +434,11 @@ My solutions and summary for problems in LeetCode.
 | 421 | Maximum XOR of Two Numbers in an Array | Medium | Python | 69.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/421.py) | 10/10/19 | |
 | 423 | Reconstruct Original Digits from English | Medium | Python | 18.85% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/423.py) | 10/10/19 | |
 | 424 | Longest Repeating Character Replacement | Medium | Python | 84.28% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/424.py) | 10/10/19 | |
+| 427 | Construct Quad Tree | Medium | Python | 40.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/427.py) | 10/11/19 | |
+| 430 | Flatten a Multilevel Doubly Linked List | Medium | Python | 9.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/430.py) | 10/11/19 | |
+| 433 | Minimum Genetic Mutation | Medium | Python | 10.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/433.py) | 10/11/19 | |
+| 435 | Non-overlapping Intervals | Medium | Python | 96.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/435.py) | 10/11/19 | |
+| 436 | Find Right Interval | Medium | Python | 51.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/436.py) | 10/11/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
