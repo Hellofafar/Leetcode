@@ -49,7 +49,7 @@ class Solution(object):
             if k in graph[i] and j in graph[k]:
                 graph[i][j] = graph[i][k] * graph[k][j]
         
-        return [graph[a].get(b, -1) for a, b in queries]
+        return [graph[a].get(b, -1.0) for a, b in queries]
 
 # Used for testing
 if __name__ == "__main__":

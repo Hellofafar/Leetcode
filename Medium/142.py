@@ -59,13 +59,13 @@ if __name__ == "__main__":
 # Summary:
 # Get idea from https://leetcode.com/problems/linked-list-cycle-ii/discuss/44793/O(n)-solution-by-using-two-pointers-without-change-anything
 # Have two pointers p1 and p2, p1 moves one step while p2 moves two steps each time.
-# Assume two pointer meet at step k
+# Assume two pointer first meet at step k
 # cycle length is r
 # 2k - k = nr  => k = nr
-# Distance between start node of the list and start node of the cycle
+# Distance between start node of the list and start node of the cycle: s
 # Distance between start node of the list and first meet node: k
 # Distance between start node of the cycle and first meet node: m
 # s = k - m
-# s = nr - m = (n-1)r - m
+# s = nr - m = (n-1)r + (r - m)
 # Let n = 1, using one pointer start from the start node of list, another pointer start from the first meeting node, 
 # all of them wake one step at a time, the first time they meeting each other is the start of the cycle.

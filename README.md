@@ -10,7 +10,7 @@ My solutions and summary for problems in LeetCode.
 | Design | 308, 346, 284, 173, 208, 146, 460, 355, 622 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124, 654, 655 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322, 416 |
-| Stack | 394, 173, 71, 155, 94 |
+| Stack | 394, 173, 71, 155, 94, 456 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310 |
@@ -439,6 +439,11 @@ My solutions and summary for problems in LeetCode.
 | 433 | Minimum Genetic Mutation | Medium | Python | 10.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/433.py) | 10/11/19 | |
 | 435 | Non-overlapping Intervals | Medium | Python | 96.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/435.py) | 10/11/19 | |
 | 436 | Find Right Interval | Medium | Python | 51.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/436.py) | 10/11/19 | |
+| 452 | Minimum Number of Arrows to Burst Balloons | Medium | Python | 64.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/452.py) | 10/15/19 | |
+| 454 | 4Sum II | Medium | Python | 48.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/454.py) | 10/15/19 | |
+| 456 | 132 Pattern | Medium | Python | 98.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/456.py) | 10/15/19 | |
+| 457 | Circular Array Loop | Medium | Python | 82.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/457.py) | 10/15/19 | |
+| 464 | Can I Win | Medium | Python | 28.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/464.py) | 10/15/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
