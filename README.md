@@ -444,6 +444,9 @@ My solutions and summary for problems in LeetCode.
 | 456 | 132 Pattern | Medium | Python | 98.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/456.py) | 10/15/19 | |
 | 457 | Circular Array Loop | Medium | Python | 82.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/457.py) | 10/15/19 | |
 | 464 | Can I Win | Medium | Python | 28.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/464.py) | 10/15/19 | |
+| 467 | Unique Substrings in Wraparound String | Medium | Python | 61.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/467.py) | 10/16/19 | |
+| 470 | Implement Rand10() Using Rand7() | Medium | Python | 40.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/470.py) | 10/16/19 | |
+| 473 | Matchsticks to Square | Medium | Python | 36.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/473.py) | 10/16/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
