@@ -246,7 +246,7 @@ My solutions and summary for problems in LeetCode.
 | 46 | Permutations | Medium | Python | 31.56%, 37.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/46.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/46_2.py) | 11/03/17, 10/03/19 | 47 |
 | 47 | Permutations II | Medium | Python | 16.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/47.py) | 11/03/17 | 46 |
 | 48 | Rotate Image | Medium | Python | 24.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/48.py) | 11/03/17 | |
-| 388 | Longest Absolute File Path | Medium | Python | 36.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/388.py) | 11/04/17 | |
+| 388 | Longest Absolute File Path | Medium | Python | 36.10%, 39.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/388.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/388_2.py) | 11/04/17, 10/17/19 | |
 | 681 | Next Closest Time | Medium | Python | 65.44%, 91.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/681.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/681_2.py) | 11/04/17, 10/06/18 | |
 | 482 | License Key Formatting | Medium | Python | 54.11%, 76.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/482.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/482.py) | 11/04/17, 10/07/18 | |
 | 49 | Group Anagrams | Medium | Python | 24.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49.py) | 11/07/17 | |
@@ -447,6 +447,8 @@ My solutions and summary for problems in LeetCode.
 | 467 | Unique Substrings in Wraparound String | Medium | Python | 61.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/467.py) | 10/16/19 | |
 | 470 | Implement Rand10() Using Rand7() | Medium | Python | 40.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/470.py) | 10/16/19 | |
 | 473 | Matchsticks to Square | Medium | Python | 36.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/473.py) | 10/16/19 | |
+| 528 | Random Pick with Weight | Medium | Python | 77.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/528.py) | 10/17/19 | |
+| 787 | Cheapest Flights Within K Stops | Medium | Python | 72.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/787.py) | 10/17/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
