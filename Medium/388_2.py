@@ -43,7 +43,7 @@
 # Notice that a/aa/aaa/file1.txt is not the longest file path, if there is another path 
 # aaaaaaaaaaaaaaaaaaaaa/sth.png.
 # 
-# Version: 1.0
+# Version: 2.0
 # 10/17/19 by Jianfa
 # ------------------------------
 

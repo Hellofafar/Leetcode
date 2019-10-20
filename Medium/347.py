@@ -37,3 +37,5 @@ if __name__ == "__main__":
 # Summary:
 # Idea from: https://leetcode.com/problems/top-k-frequent-elements/solution/
 # Learn to use heapq.nlargest, which is equivalent to: sorted(iterable, key=key, reverse=True)[:n].
+# 
+# O(Nlogk) + O(klogk) time, O(Nlogk) is adding an element in a heap N times, O(klogk) is build an output list at the end

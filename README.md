@@ -89,7 +89,7 @@ My solutions and summary for problems in LeetCode.
 | 136 | Single Number | Easy | Python | 72.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/136.py) | 06/08/18 | |
 | 141 | Linked List Cycle | Easy | Python | 9.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/141.py) | 06/08/18 | |
 | 155 | Min Stack | Easy | Python | 11.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/155.py) | 06/08/18 | |
-| 160 | Intersection of Two Linked Lists | Easy | Python | 99.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/160.py) | 06/08/18 | |
+| 160 | Intersection of Two Linked Lists | Easy | Python | 99.91%, 95.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/160.py), [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/160_2.py) | 06/08/18, 10/18/19 | |
 | 167 | Two Sum II - Input array is sorted | Easy | Python | 48.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/167.py) | 06/09/18 | |
 | 168 | Excel Sheet Column Title | Easy | Python | 43.90% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/168.py) | 06/09/18 | |
 | 169 | Majority Element | Easy | Python | 96.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/169.py) | 06/09/18 | |
@@ -449,6 +449,7 @@ My solutions and summary for problems in LeetCode.
 | 473 | Matchsticks to Square | Medium | Python | 36.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/473.py) | 10/16/19 | |
 | 528 | Random Pick with Weight | Medium | Python | 77.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/528.py) | 10/17/19 | |
 | 787 | Cheapest Flights Within K Stops | Medium | Python | 72.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/787.py) | 10/17/19 | |
+| 987 | Vertical Order Traversal of a Binary Tree | Medium | Python | 44.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/987.py) | 10/19/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |

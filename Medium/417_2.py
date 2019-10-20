@@ -29,7 +29,7 @@
 # Return:
 # [[0, 4], [1, 3], [1, 4], [2, 2], [3, 0], [3, 1], [4, 0]] (positions with parentheses in above matrix).
 # 
-# Version: 1.0
+# Version: 2.0
 # 10/10/19 by Jianfa
 # ------------------------------
 
