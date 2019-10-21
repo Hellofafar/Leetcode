@@ -19,45 +19,47 @@
 # minStack.getMin();   --> Returns -2.
 # 
 # Version: 1.0
-# 06/08/18 by Jianfa
+# 10/20/19 by Jianfa
 # ------------------------------
 
-class MinStack(object):
+class MinStack:
 
     def __init__(self):
         """
         initialize your data structure here.
         """
         self.stack = []
-        
+        self.minimum = sys.maxsize
 
-    def push(self, x):
-        """
-        :type x: int
-        :rtype: void
-        """
-        self.stack.insert(0, x)
-        
+    def push(self, x: int) -> None:
+        if x <= self.minimum:
+            # push the previous minimum to the stack if push operation will change the minimum
+            # so it help record previous minimum if this element is popped out
+            self.stack.append(self.minimum)
+            self.minimum = x
+        self.stack.append(x)
 
-    def pop(self):
-        """
-        :rtype: void
-        """
-        self.stack.pop(0)
-        
+    def pop(self) -> None:
+        if self.stack:
+            if self.stack.pop() == self.minimum:
+                # if the popped out element is the current minimum
+                # pop the stack again to get new minimum of rest stack
+                self.minimum = self.stack.pop()
 
-    def top(self):
-        """
-        :rtype: int
-        """
-        return self.stack[0]
-        
+    def top(self) -> int:
+        if self.stack:
+            return self.stack[-1]
 
-    def getMin(self):
-        """
-        :rtype: int
-        """
-        return min(self.stack)
+    def getMin(self) -> int:
+        return self.minimum
+
+
+# Your MinStack object will be instantiated and called as such:
+# obj = MinStack()
+# obj.push(x)
+# obj.pop()
+# param_3 = obj.top()
+# param_4 = obj.getMin()
 
 # Used for testing
 if __name__ == "__main__":
@@ -65,4 +67,5 @@ if __name__ == "__main__":
 
 # ------------------------------
 # Summary:
-# 
+# The trick point is how to define push and pop operation, since they may affect the result
+# of minimum number in the stack.

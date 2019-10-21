@@ -88,7 +88,7 @@ My solutions and summary for problems in LeetCode.
 | 125 | Valid Palindrome | Easy | Python | 6.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/125.py) | 06/08/18 | |
 | 136 | Single Number | Easy | Python | 72.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/136.py) | 06/08/18 | |
 | 141 | Linked List Cycle | Easy | Python | 9.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/141.py) | 06/08/18 | |
-| 155 | Min Stack | Easy | Python | 11.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/155.py) | 06/08/18 | |
+| 155 | Min Stack | Easy | Python | 77.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/155.py) | 10/20/19 | |
 | 160 | Intersection of Two Linked Lists | Easy | Python | 99.91%, 95.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/160.py), [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/160_2.py) | 06/08/18, 10/18/19 | |
 | 167 | Two Sum II - Input array is sorted | Easy | Python | 48.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/167.py) | 06/09/18 | |
 | 168 | Excel Sheet Column Title | Easy | Python | 43.90% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/168.py) | 06/09/18 | |
@@ -214,14 +214,15 @@ My solutions and summary for problems in LeetCode.
 | 509 | Fibonacci Number | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/509.java) | 08/03/19 | |
 | 558 | Quad Tree Intersection | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/558.java) | 08/03/19 | |
 | 703 | Kth Largest Element in a Stream | Easy | Java | 80.49% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/703.java) | 08/04/19 | |
-| 704 | Binary Search | Easy | Java | 100.00%% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/704.java) | 08/04/19 | |
-| 709 | To Lower Case | Easy | Java | 100.00%% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/709.java) | 08/06/19 | |
+| 704 | Binary Search | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/704.java) | 08/04/19 | |
+| 709 | To Lower Case | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/709.java) | 08/06/19 | |
+| 977 | Squares of a Sorted Array | Easy | Java | 32.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/977.java) | 10/21/19 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
 | - | ----- | ---------- | -------- | ----- | ------- | -------- | ------- |
 | 22 | Generate Parentheses | Medium | Python | 56.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/22.py) | 09/18/17 | |
-| 24 | Swap Nodes in Pairs | Medium | Python | 52.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/24.py) | 09/20/17 | 25 |
+| 24 | Swap Nodes in Pairs | Medium | Python | 52.30%, 78.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/24.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/24_2.py) | 09/20/17, 10/21/19 | 25 |
 | 3 | Longest Substring Without Repeating Characters | Medium | Python | 68.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/3.py) | 09/26/17 | |
 | 5 | Longest Palindromic Substring | Medium | Python | 96.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/5.py) | 09/28/17 | |
 | 12 | Integer to Roman | Medium | Python | 66.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/12.py) | 09/30/17 | 13 |
@@ -379,7 +380,7 @@ My solutions and summary for problems in LeetCode.
 | 777 | Swap Adjacent in LR String | Medium | Python | 83.05%, 98.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/777.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/777_2.py) | 11/13/18 | |
 | 562 | Longest Line of Consecutive One in Matrix | Medium | Python | 66.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/562.py) | 11/24/18 | |
 | 731 | My Calendar II | Medium | Python | 76.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/731.py) | 11/25/18 | |
-| 900 | RLE Iterator | Medium | Python | 9.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/900.py) | 11/25/18 | |
+| 900 | RLE Iterator | Medium | Python | 9.62%, 43.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/900.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/900_2.py) | 11/25/18, 10/20/19 | |
 | 300 | Longest Increasing Subsequence | Medium | Python | 2.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/300.py) | 12/15/18 | |
 | 337 | House Robber III | Medium | Python | 85.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/337.py) | 12/18/18 | |
 | 449 | Serialize and Deserialize BST | Medium | Python | 22.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/449.py) | 12/20/18 | |
@@ -496,3 +497,4 @@ My solutions and summary for problems in LeetCode.
 | 297 | Serialize and Deserialize Binary Tree | Hard | Python | 3.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/297.py) | 12/19/18 |  |
 | 149 | Max Points on a Line | Hard | Python | 56.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/149.py) | 10/04/19 |  |
 | 10 | Regular Expression Matching | Hard | Python | 16.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/10.py) | 10/05/19 |  |
+| 42 | Trapping Rain Water | Hard | Python | 52.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/42.py) | 10/20/19 |  |
