@@ -451,6 +451,7 @@ My solutions and summary for problems in LeetCode.
 | 528 | Random Pick with Weight | Medium | Python | 77.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/528.py) | 10/17/19 | |
 | 787 | Cheapest Flights Within K Stops | Medium | Python | 72.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/787.py) | 10/17/19 | |
 | 987 | Vertical Order Traversal of a Binary Tree | Medium | Python | 44.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/987.py) | 10/19/19 | |
+| 474 | Ones and Zeroes | Medium | Python | 84.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/474.py) | 10/21/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
