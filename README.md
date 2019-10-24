@@ -9,7 +9,7 @@ My solutions and summary for problems in LeetCode.
 | Hash Table | 30, 159, 340, 202, 204, 205，219, 438, 447 |
 | Design | 308, 346, 284, 173, 208, 146, 460, 355, 622 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124, 654, 655 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322, 416 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322, 416, 474 |
 | Stack | 394, 173, 71, 155, 94, 456 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
@@ -62,7 +62,7 @@ My solutions and summary for problems in LeetCode.
 | 246 | Strobogrammatic Number | Easy | Python | 26.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/246.py) | 11/14/17 | 247, 248 |
 | 345 | Reverse Vowels of a String | Easy | Python | 24.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/345.py) | 11/15/17 | |
 | 58 | Length of Last Word | Easy | Python | 51.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/58.py) | 11/21/17 | |
-| 687 | Longest Univalue Path | Easy | Python | 89.83% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/687.py) | 12/06/17 | 250 |
+| 687 | Longest Univalue Path | Easy | Python | 89.83% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/687.py) | 12/06/17 | 250, 543 |
 | 276 | Paint Fence | Easy | Python | 50.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/276.py) | 12/11/17 | |
 | 422 | Valid Word Square | Easy | Python | 55.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/422.py) | 12/11/17 | |
 | 67 | Add Binary | Easy | Python | 92.46%, 63.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/67.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/67_2.py) | 12/17/17, 12/18/17 | |
@@ -73,7 +73,7 @@ My solutions and summary for problems in LeetCode.
 | 371 | Sum of Two Integers | Easy | Python | 39.52% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/371.py) | 02/05/18 | |
 | 206 | Reverse Linked List | Easy | Python | 24.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/206.py) | 02/06/18 | |
 | 206 | Reverse Linked List | Easy | Python | 32.84% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/206_2.py) | 02/06/18 | |
-| 543 | Diameter of Binary Tree | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/543.py) | 02/22/18 | 124 |
+| 543 | Diameter of Binary Tree | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/543.py) | 02/22/18 | 124, 687 |
 | 100 | Same Tree | Easy | Python | 99.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/100.py) | 05/25/18 | |
 | 101 | Symmetric Tree | Easy | Python | 92.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/101.py) | 06/01/18 | |
 | 104 | Maximum Depth of Binary Tree | Easy | Python | 57.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/104.py) | 06/05/18 | |
@@ -108,7 +108,7 @@ My solutions and summary for problems in LeetCode.
 | 219 | Contains Duplicate | Easy | Python | 21.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/219.py) | 06/12/18 | |
 | 225 | Implement Stack using Queues | Easy | Python | 93.49% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/225.py) | 06/12/18 | |
 | 226 | Invert Binary Tree | Easy | Python | 98.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/226.py) | 06/12/18 | |
-| 231 | Invert Binary Tree | Easy | Python | 72.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/231.py) | 06/13/18 | |
+| 231 | Power of Two | Easy | Python | 72.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/231.py) | 06/13/18 | |
 | 232 | Implement Queue using Stacks | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/232.py) | 06/13/18 | |
 | 234 | Palindrome Linked List | Easy | Python | 16.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/234.py) | 06/18/18 | |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | Python | 63.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/235.py) | 06/20/18 | |
@@ -452,6 +452,9 @@ My solutions and summary for problems in LeetCode.
 | 787 | Cheapest Flights Within K Stops | Medium | Python | 72.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/787.py) | 10/17/19 | |
 | 987 | Vertical Order Traversal of a Binary Tree | Medium | Python | 44.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/987.py) | 10/19/19 | |
 | 474 | Ones and Zeroes | Medium | Python | 84.15% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/474.py) | 10/21/19 | |
+| 477 | Total Hamming Distance | Medium | Python | 29.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/477.py) | 10/22/19 | |
+| 478 | Generate Random Point in a Circle | Medium | Python | 20.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/478.py) | 10/22/19 | |
+| 481 | Magical String | Medium | Python | 46.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/481.py) | 10/22/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
