@@ -13,7 +13,7 @@ My solutions and summary for problems in LeetCode.
 | Stack | 394, 173, 71, 155, 94, 456 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
-| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310 |
+| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310, 491 |
 | Union Find | 305, 317, 130, 200, 803 |
 | Greedy | 406, 122, 134, 135, 402 |
 | Graph | 399, 207, 332 |
@@ -455,6 +455,9 @@ My solutions and summary for problems in LeetCode.
 | 477 | Total Hamming Distance | Medium | Python | 29.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/477.py) | 10/22/19 | |
 | 478 | Generate Random Point in a Circle | Medium | Python | 20.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/478.py) | 10/22/19 | |
 | 481 | Magical String | Medium | Python | 46.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/481.py) | 10/22/19 | |
+| 491 | Increasing Subsequences | Medium | Python | 46.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/491.py) | 10/24/19 | |
+| 494 | Target Sum | Medium | Python | 44.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/494.py) | 10/24/19 | |
+| 495 | Teemo Attacking | Medium | Python | 64.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/495.py) | 10/24/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |

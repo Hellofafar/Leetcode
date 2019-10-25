@@ -32,11 +32,13 @@ class Solution(object):
             n = 0
             
         res = 0
-        rowcount = 0
-        colcount = [0] * n
+        rowcount = 0       # number of enemies from last wall to current cell on the row
+        colcount = [0] * n # number of enemies from last wall to current cell on the column
         for i in range(m):
             for j in range(n):
                 if (j == 0 or grid[i][j-1] == "W"):
+                    # if it's the first cell on the row or last cell is a wall
+                    # reinitialize rowcount
                     rowcount = 0
                     for k in range(j, n):
                         if grid[i][k] != "W":
@@ -45,6 +47,8 @@ class Solution(object):
                             break
                     
                 if (i == 0 or grid[i-1][j] == "W"):
+                    # if it's the first cell on the column or last cell is a wall
+                    # reinitialize colcount[j]
                     colcount[j] = 0
                     for k in range(i, m):
                         if grid[k][j] != "W":
