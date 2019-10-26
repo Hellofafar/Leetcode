@@ -45,5 +45,4 @@ public class Main {
 
 //  ------------------------------
 // Summary:
-// O(logN) solution.
-// Use recursion to calculate. Some special points need to be cared: 1. when n < 0; 2. when n % 2 == 0
+// 

@@ -10,14 +10,14 @@ My solutions and summary for problems in LeetCode.
 | Design | 308, 346, 284, 173, 208, 146, 460, 355, 622 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124, 654, 655 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322, 416, 474 |
-| Stack | 394, 173, 71, 155, 94, 456 |
+| Stack | 394, 173, 71, 155, 94, 456, 503 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310, 491 |
 | Union Find | 305, 317, 130, 200, 803 |
 | Greedy | 406, 122, 134, 135, 402 |
 | Graph | 399, 207, 332 |
-| Binary Search | 33, 69, 88, 153, 162, 230, 436 |
+| Binary Search | 33, 69, 88, 153, 162, 230, 436, 497 |
 | Binary Search Tree | 530, 538, 220 |
 | Linked List | 82, 206, 92, 109, 143, 148 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201, 260, 318 |
@@ -27,7 +27,7 @@ My solutions and summary for problems in LeetCode.
 | Sort | 148, 179 |
 | Topological Sort | 207, 210 |
 | Trie | 208, 212 |
-| Divide and Conquer | 240 |
+| Divide and Conquer | 23, 240 |
 | Heap | 857, 703, 347, 373 |
 | Minimax | 464, 486 |
 | Brainteaser | 777 |
@@ -458,6 +458,9 @@ My solutions and summary for problems in LeetCode.
 | 491 | Increasing Subsequences | Medium | Python | 46.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/491.py) | 10/24/19 | |
 | 494 | Target Sum | Medium | Python | 44.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/494.py) | 10/24/19 | |
 | 495 | Teemo Attacking | Medium | Python | 64.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/495.py) | 10/24/19 | |
+| 497 | Random Point in Non-overlapping Rectangles | Medium | Python | 88.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/497.py) | 10/25/19 | |
+| 498 | Diagonal Traverse | Medium | Python | 77.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/498.py) | 10/25/19 | |
+| 503 | Next Greater Element II | Medium | Python | 53.64% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/503.py) | 10/25/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |

@@ -24,9 +24,10 @@ class Solution(object):
         """
         len1 = len(word1)
         len2 = len(word2)
-        
+        # dp[i][j] is the minimum number of operations to convert word1[0..i) to word2[0..j)
         dp = [[0 for j in range(len2+1)] for i in range(len1+1)]
         
+        # the base case is to convert a string to an empty string or convert empty string to a string
         for i in range(len1+1):
             dp[i][0] = i
         for j in range(len2+1):
@@ -35,6 +36,7 @@ class Solution(object):
         for i in range(1, len1+1):
             for j in range(1, len2+1):
                 if word1[i-1] == word2[j-1]:
+                    # no more operation is needed if these two characters are same
                     dp[i][j] = dp[i-1][j-1]
                 else:
                     dp[i][j] = min(dp[i-1][j-1] + 1, dp[i-1][j] + 1, dp[i][j-1] + 1)
@@ -49,3 +51,9 @@ if __name__ == "__main__":
 # Summary:
 # Dynamic programming solution.
 # Follow the idea from "20ms Detailed Explained C++ Solutions (O(n) Space)" in discuss session.
+# if word1[i - 1] == word2[j - 1], then no more operation is needed and dp[i][j] = dp[i - 1][j - 1]
+# If word1[i - 1] != word2[j - 1], we need to consider three cases.
+# 
+# 1. Replace word1[i - 1] by word2[j - 1] (dp[i][j] = dp[i - 1][j - 1] + 1);
+# 2. If word1[0..i - 1) = word2[0..j) then delete word1[i - 1] (dp[i][j] = dp[i - 1][j] + 1);
+# 3. If word1[0..i) + word2[j - 1] = word2[0..j) then insert word2[j - 1] to word1[0..i) (dp[i][j] = dp[i][j - 1] + 1).
