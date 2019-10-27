@@ -217,6 +217,7 @@ My solutions and summary for problems in LeetCode.
 | 704 | Binary Search | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/704.java) | 08/04/19 | |
 | 709 | To Lower Case | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/709.java) | 08/06/19 | |
 | 977 | Squares of a Sorted Array | Easy | Java | 32.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/977.java) | 10/21/19 | |
+| 771 | Jewels and Stones | Easy | Java | 76.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/771.java) | 10/26/19 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
