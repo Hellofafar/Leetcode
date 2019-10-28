@@ -7,13 +7,13 @@ My solutions and summary for problems in LeetCode.
 | ---- | -------- |
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216, 306, 10 |
 | Hash Table | 30, 159, 340, 202, 204, 205，219, 438, 447 |
-| Design | 308, 346, 284, 173, 208, 146, 460, 355, 622 |
+| Design | 308, 346, 284, 173, 208, 146, 460, 355, 622, 348 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124, 654, 655 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322, 416, 474 |
 | Stack | 394, 173, 71, 155, 94, 456, 503 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
-| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310, 491 |
+| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310, 491, 286 |
 | Union Find | 305, 317, 130, 200, 803 |
 | Greedy | 406, 122, 134, 135, 402 |
 | Graph | 399, 207, 332 |
@@ -462,6 +462,9 @@ My solutions and summary for problems in LeetCode.
 | 497 | Random Point in Non-overlapping Rectangles | Medium | Python | 88.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/497.py) | 10/25/19 | |
 | 498 | Diagonal Traverse | Medium | Python | 77.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/498.py) | 10/25/19 | |
 | 503 | Next Greater Element II | Medium | Python | 53.64% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/503.py) | 10/25/19 | |
+| 277 | Find the Celebrity | Medium | Python | 77.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/277.py) | 10/27/19 | |
+| 286 | Walls and Gates | Medium | Python | 53.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/286.py) | 10/27/19 | |
+| 348 | Design Tic-Tac-Toe | Medium | Python | 99.18% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/348.py) | 10/27/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
