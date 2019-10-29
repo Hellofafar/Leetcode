@@ -6,14 +6,14 @@ My solutions and summary for problems in LeetCode.
 | Topics | Problems |
 | ---- | -------- |
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216, 306, 10 |
-| Hash Table | 30, 159, 340, 202, 204, 205，219, 438, 447 |
+| Hash Table | 30, 159, 340, 202, 204, 205，219, 438, 447, 706 |
 | Design | 308, 346, 284, 173, 208, 146, 460, 355, 622, 348 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124, 654, 655 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322, 416, 474 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322, 416, 474, 516 |
 | Stack | 394, 173, 71, 155, 94, 456, 503 |
-| Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731 |
+| Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731, 697 |
 | Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
-| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310, 491, 286 |
+| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310, 491, 286, 529 |
 | Union Find | 305, 317, 130, 200, 803 |
 | Greedy | 406, 122, 134, 135, 402 |
 | Graph | 399, 207, 332 |
@@ -53,8 +53,8 @@ My solutions and summary for problems in LeetCode.
 | 121 | Best Time to Buy and Sell Stock | Easy | Python | 83.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/121.py) | 10/03/17 | |
 | 283 | Move Zeroes | Easy | Python | 79.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/283.py) | 10/05/17 | |
 | 387 | First Unique Character in a String | Easy | Python | 79.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/387.py) | 10/08/17 | |
-|  | Count Binary Substrings | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c696.py) | 10/14/17 | |
-|  | Degree of an Array | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c697.py) | 10/14/17 | |
+| 696 | Count Binary Substrings | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/696.py) | 10/14/17 | |
+| 697 | Degree of an Array | Easy | Python | N/A, 74.63% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/697.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/697_2.py) | 10/14/17, 10/28/19| |
 | 66 | Plus One | Easy | Python | 84.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/66.py) | 11/04/17 | |
 |  | Longest Word in Dictionary | Easy | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/c720.py) | 11/04/17 | |
 | 346 | Moving Average from Data Stream | Easy | Python | 95.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/346.py) | 11/07/17 | |
@@ -218,6 +218,8 @@ My solutions and summary for problems in LeetCode.
 | 709 | To Lower Case | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/709.java) | 08/06/19 | |
 | 977 | Squares of a Sorted Array | Easy | Java | 32.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/977.java) | 10/21/19 | |
 | 771 | Jewels and Stones | Easy | Java | 76.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/771.java) | 10/26/19 | |
+| 706 | Design HashMap | Easy | Java | 77.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/706.java) | 10/28/19 | |
+| 724 | Find Pivot Index | Easy | Java | 66.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/724.java) | 10/28/19 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -465,6 +467,11 @@ My solutions and summary for problems in LeetCode.
 | 277 | Find the Celebrity | Medium | Python | 77.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/277.py) | 10/27/19 | |
 | 286 | Walls and Gates | Medium | Python | 53.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/286.py) | 10/27/19 | |
 | 348 | Design Tic-Tac-Toe | Medium | Python | 99.18% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/348.py) | 10/27/19 | |
+| 362 | Design Hit Counter | Medium | Python | 21.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/362.py) | 10/28/19 | |
+| 510 | Inorder Successor in BST II | Medium | Python | 55.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/510.py) | 10/28/19 | |
+| 516 | Longest Palindromic Subsequence | Medium | Python | 62.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/516.py) | 10/28/19 | |
+| 523 | Continuous Subarray Sum | Medium | Python | 38.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/523.py) | 10/28/19 | |
+| 529 | Continuous Subarray Sum | Medium | Python | 82.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/529.py) | 10/28/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
