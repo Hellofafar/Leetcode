@@ -7,7 +7,7 @@ My solutions and summary for problems in LeetCode.
 | ---- | -------- |
 | Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216, 306, 10 |
 | Hash Table | 30, 159, 340, 202, 204, 205，219, 438, 447, 706 |
-| Design | 308, 346, 284, 173, 208, 146, 460, 355, 622, 348 |
+| Design | 308, 346, 284, 173, 208, 146, 460, 355, 622, 348, 535 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124, 654, 655 |
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322, 416, 474, 516 |
 | Stack | 394, 173, 71, 155, 94, 456, 503 |
@@ -220,6 +220,7 @@ My solutions and summary for problems in LeetCode.
 | 771 | Jewels and Stones | Easy | Java | 76.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/771.java) | 10/26/19 | |
 | 706 | Design HashMap | Easy | Java | 77.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/706.java) | 10/28/19 | |
 | 724 | Find Pivot Index | Easy | Java | 66.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/724.java) | 10/28/19 | |
+| 733 | Flood Fill | Easy | Java | 87.32%, 28.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/733.java), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/733_2.java) | 10/29/19 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -472,6 +473,10 @@ My solutions and summary for problems in LeetCode.
 | 516 | Longest Palindromic Subsequence | Medium | Python | 62.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/516.py) | 10/28/19 | |
 | 523 | Continuous Subarray Sum | Medium | Python | 38.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/523.py) | 10/28/19 | |
 | 529 | Continuous Subarray Sum | Medium | Python | 82.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/529.py) | 10/28/19 | |
+| 535 | Encode and Decode TinyURL | Medium | Python | 44.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/535.py) | 10/29/19 | |
+| 540 | Single Element in a Sorted Array | Medium | Python | 67.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/540.py) | 10/29/19 | |
+| 560 | Subarray Sum Equals K | Medium | Python | 58.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/560.py) | 10/29/19 | |
+| 670 | Maximum Swap | Medium | Python | 29.92%, 91.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/670.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/670_2.py) | 10/29/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
