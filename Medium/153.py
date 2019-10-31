@@ -35,9 +35,12 @@ class Solution(object):
             mid = (start + end) / 2
             
             if nums[mid] >= nums[start]:
+                # minimum must be at the nums[mid+1, high]
                 start = mid + 1
                 
             else:
+                # minimum must be at the nums[start, mid]
+                # low will not be 0
                 end = mid
 
 # Used for testing

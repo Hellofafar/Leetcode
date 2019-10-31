@@ -12,7 +12,7 @@ My solutions and summary for problems in LeetCode.
 | Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322, 416, 474, 516 |
 | Stack | 394, 173, 71, 155, 94, 456, 503 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731, 697 |
-| Two Pointers | 26, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
+| Two Pointers | 26, 75, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310, 491, 286, 529 |
 | Union Find | 305, 317, 130, 200, 803 |
 | Greedy | 406, 122, 134, 135, 402 |
@@ -138,7 +138,7 @@ My solutions and summary for problems in LeetCode.
 | 405 | Convert a Number to Hexadecimal | Easy | Python | 28.84% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/409.py) | 07/01/18 | |
 | 412 | Fizz Buzz | Easy | Python | 55.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/412.py) | 07/02/18 | |
 | 414 | Fizz Buzz | Easy | Python | 35.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/414.py) | 07/02/18 | |
-| 415 | Add Strings | Easy | Python | 21.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/415.py) | 07/02/18 | |
+| 415 | Add Strings | Easy | Python | 21.94%, 75.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/415.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/415_2.py) | 07/02/18, 10/30/19 | |
 | 434 | Number of Segments in a String | Easy | Python | 34.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/434.py) | 07/02/18 | |
 | 437 | Path Sum III | Easy | Python | 49.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/437.py) | 07/03/18 | |
 | 438 | Find All Anagrams in a String | Easy | Python | 74.86% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/438.py) | 07/04/18 | |
@@ -216,11 +216,12 @@ My solutions and summary for problems in LeetCode.
 | 703 | Kth Largest Element in a Stream | Easy | Java | 80.49% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/703.java) | 08/04/19 | |
 | 704 | Binary Search | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/704.java) | 08/04/19 | |
 | 709 | To Lower Case | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/709.java) | 08/06/19 | |
-| 977 | Squares of a Sorted Array | Easy | Java | 32.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/977.java) | 10/21/19 | |
-| 771 | Jewels and Stones | Easy | Java | 76.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/771.java) | 10/26/19 | |
-| 706 | Design HashMap | Easy | Java | 77.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/706.java) | 10/28/19 | |
-| 724 | Find Pivot Index | Easy | Java | 66.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/724.java) | 10/28/19 | |
-| 733 | Flood Fill | Easy | Java | 87.32%, 28.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/733.java), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/733_2.java) | 10/29/19 | |
+| 977 | Squares of a Sorted Array | Easy | Java | 32.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/977.py) | 10/21/19 | |
+| 771 | Jewels and Stones | Easy | Java | 76.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/771.py) | 10/26/19 | |
+| 706 | Design HashMap | Easy | Java | 77.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/706.py) | 10/28/19 | |
+| 724 | Find Pivot Index | Easy | Java | 66.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/724.py) | 10/28/19 | |
+| 733 | Flood Fill | Easy | Java | 87.32%, 28.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/733.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/733_2.py) | 10/29/19 | |
+| 1170 | Compare Strings by Frequency of the Smallest Character | Easy | Java | 53.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/1170.py) | 10/30/19 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -235,7 +236,7 @@ My solutions and summary for problems in LeetCode.
 | 62 | Unique Paths | Medium | java | 4.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/62.java) | 10/09/17 | 63 |
 | 15 | 3Sum | Medium | Python | 37.03% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/15.py) | 12/18/17 | 16 |
 | 16 | 3Sum Closest | Medium | Python | 51.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/16.py) | 10/13/17 | 15 |
-| 75 | Sort Color | Medium | Python | 70.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/75.py) | 10/14/17 | |
+| 75 | Sort Color | Medium | Python | 70.61%, 91.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/75.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/75_2.py) | 10/14/17, 10/30/19 | |
 | 17 | Letter Combinations of a Phone Number | Medium | Python | 86.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/17.py) | 10/16/17 | |
 | 187 | Repeated DNA Sequences | Medium | Python | 50.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/187.py) | 10/16/17 | |
 | 18 | 4Sum | Medium | Python | 33.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/18.py) | 10/17/17 | |
@@ -331,7 +332,7 @@ My solutions and summary for problems in LeetCode.
 | 150 | Evaluate Reverse Polish Notation | Medium | Python | 82.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/150.py) | 08/25/18 | |
 | 151 | Reverse Words in a String | Medium | Python | 24.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/151.py) | 08/25/18 | |
 | 152 | Maximum Product Subarray | Medium | Python | 87.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/152.py) | 08/25/18 | |
-| 153 | Find Minimum in Rotated Sorted Array | Medium | Python |  | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/153.py) | 08/25/18 | |
+| 153 | Find Minimum in Rotated Sorted Array | Medium | Python | 84.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/153.py) | 08/25/18 | |
 | 162 | Find Peak Element | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/162.py) | 08/25/18 | |
 | 165 | Compare Version Numbers | Medium | Python | 13.92% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/165.py) | 08/26/18 | |
 | 166 | Fraction to Recurring Decimal | Medium | Python | 99.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/166.py) | 08/26/18 | |
@@ -524,3 +525,4 @@ My solutions and summary for problems in LeetCode.
 | 149 | Max Points on a Line | Hard | Python | 56.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/149.py) | 10/04/19 |  |
 | 10 | Regular Expression Matching | Hard | Python | 16.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/10.py) | 10/05/19 |  |
 | 42 | Trapping Rain Water | Hard | Python | 52.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/42.py) | 10/20/19 |  |
+| 154 | Find Minimum in Rotated Sorted Array II | Hard | Python | 27.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/154.py) | 10/30/19 |  |
