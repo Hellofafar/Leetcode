@@ -50,3 +50,5 @@ if __name__ == "__main__":
 # If the stack becomes empty after popping, which means there are no matching "(" for this ")", push the index 
 # of ")" in the stack.
 # Replace the max_len if curr_len is greater.
+# 
+# O(n) time, O(n) space

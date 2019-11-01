@@ -49,7 +49,7 @@ My solutions and summary for problems in LeetCode.
 | 35 | Search Insert Position | Easy | Python | 41.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/35.py) | 09/24/17 | |
 | 38 | Count and Say | Easy | Python | 12.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/38.py) | 09/26/17 | |
 | 9 | Palindrome Number | Easy | Python | 63.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/9.py) | 09/29/17 | |
-| 53 | Maximum Subarray | Easy | Python | 30.29% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/53.py) | 10/01/17 | |
+| 53 | Maximum Subarray | Easy | Python | 30.29%, 53.82% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/53.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/53_2.py) | 10/01/17, 10/31/19 | |
 | 121 | Best Time to Buy and Sell Stock | Easy | Python | 83.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/121.py) | 10/03/17 | |
 | 283 | Move Zeroes | Easy | Python | 79.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/283.py) | 10/05/17 | |
 | 387 | First Unique Character in a String | Easy | Python | 79.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/387.py) | 10/08/17 | |
@@ -193,7 +193,7 @@ My solutions and summary for problems in LeetCode.
 | 637 | Average of Levels in Binary Tree | Easy | Python | 76.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/633.py) | 07/28/18 | |
 | 643 | Maximum Average Subarray I | Easy | Python | 1.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/643.py) | 07/28/18 | |
 | 645 | Set Mismatch | Easy | Python | 96.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/645.py) | 07/29/18 | |
-| 653 | Two Sum IV - Input is a BST | Easy | Python | 12.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/653.py) | 07/29/18 | |
+| 653 | Two Sum IV - Input is a BST | Easy | Python | 12.09%, 30.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/653.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/653_2.py) | 07/29/18, 10/31/19 | |
 | 657 | Judge Route Circle | Easy | Python | 24.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/657.py) | 07/29/18 | |
 | 661 | Image Smoother | Easy | Python | 31.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/661.py) | 07/30/18 | |
 | 665 | Non-decreasing Array | Easy | Python | 37.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/665.py) | 07/30/18 | |
@@ -478,13 +478,14 @@ My solutions and summary for problems in LeetCode.
 | 540 | Single Element in a Sorted Array | Medium | Python | 67.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/540.py) | 10/29/19 | |
 | 560 | Subarray Sum Equals K | Medium | Python | 58.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/560.py) | 10/29/19 | |
 | 670 | Maximum Swap | Medium | Python | 29.92%, 91.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/670.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/670_2.py) | 10/29/19 | |
+| 426 | Convert Binary Search Tree to Sorted Doubly Linked List | Medium | Python | 50.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/426.py) | 10/31/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
 | - | ----- | ---------- | -------- | ----- | ------- | -------- | ------- |
 | 25 | Reverse Nodes in k-Group | Hard | Python | 52.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/25.py) | 09/21/17 | 24 |
-| 23 | Merge k Sorted Lists | Hard | Python | 4.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/23.py) | 10/20/17 | 21 |
-| 32 | Longest Valid Parentheses | Hard | Python | 55.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/32.py) | 10/23/17 | 20 |
+| 23 | Merge k Sorted Lists | Hard | Python | 4.93%, 79.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/23.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/23_2.py) | 10/20/17, 10/31/19 | 21 |
+| 32 | Longest Valid Parentheses | Hard | Python | 55.30%, 49.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/32.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/32_2.py) | 10/23/17, 10/31/19 | 20 |
 | 683 | K Empty Slots | Hard | Python | 15.20%, 35.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/683.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/683_2.py) | 11/04/17, 12/12/17 |  |
 | 340 | Longest Substring with At Most K Distinct Characters | Hard | Python | 94.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/340.py) | 11/07/17 | 159 |
 | 308 | Range Sum Query 2D - Mutable | Hard | Python | 45.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/308.py) | 11/07/17 |  |
