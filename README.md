@@ -255,7 +255,7 @@ My solutions and summary for problems in LeetCode.
 | 388 | Longest Absolute File Path | Medium | Python | 36.10%, 39.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/388.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/388_2.py) | 11/04/17, 10/17/19 | |
 | 681 | Next Closest Time | Medium | Python | 65.44%, 91.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/681.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/681_2.py) | 11/04/17, 10/06/18 | |
 | 482 | License Key Formatting | Medium | Python | 54.11%, 76.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/482.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/482.py) | 11/04/17, 10/07/18 | |
-| 49 | Group Anagrams | Medium | Python | 24.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49.py) | 11/07/17 | |
+| 49 | Group Anagrams | Medium | Python | 24.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49_2.py), [3](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49_3.py) | 11/07/17, 10/19/19, 10/19/19 | |
 | 298 | Binary Tree Longest Consecutive Sequence | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/298.py) | 11/07/17 | |
 | 418 | Sentence Screen Fitting | Medium | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/418.py) | 11/08/17 | |
 | 361 | Bomb Enemy | Medium | Python | 60.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/361.py) | 11/08/17 | |
@@ -479,6 +479,7 @@ My solutions and summary for problems in LeetCode.
 | 560 | Subarray Sum Equals K | Medium | Python | 58.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/560.py) | 10/29/19 | |
 | 670 | Maximum Swap | Medium | Python | 29.92%, 91.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/670.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/670_2.py) | 10/29/19 | |
 | 426 | Convert Binary Search Tree to Sorted Doubly Linked List | Medium | Python | 50.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/426.py) | 10/31/19 | |
+| 688 | Knight Probability in Chessboard | Medium | Python | 53.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/688.py) | 11/01/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -527,3 +528,4 @@ My solutions and summary for problems in LeetCode.
 | 10 | Regular Expression Matching | Hard | Python | 16.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/10.py) | 10/05/19 |  |
 | 42 | Trapping Rain Water | Hard | Python | 52.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/42.py) | 10/20/19 |  |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | Python | 27.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/154.py) | 10/30/19 |  |
+| 41 | First Missing Positive | Hard | Python | 81.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/41.py) | 11/01/19 |  |
