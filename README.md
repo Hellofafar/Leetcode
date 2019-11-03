@@ -28,7 +28,7 @@ My solutions and summary for problems in LeetCode.
 | Topological Sort | 207, 210 |
 | Trie | 208, 212 |
 | Divide and Conquer | 23, 240 |
-| Heap | 857, 703, 347, 373 |
+| Heap | 857, 703, 347, 373， 692 |
 | Minimax | 464, 486 |
 | Brainteaser | 777 |
 | Segment Tree | 307 |
@@ -473,13 +473,15 @@ My solutions and summary for problems in LeetCode.
 | 510 | Inorder Successor in BST II | Medium | Python | 55.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/510.py) | 10/28/19 | |
 | 516 | Longest Palindromic Subsequence | Medium | Python | 62.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/516.py) | 10/28/19 | |
 | 523 | Continuous Subarray Sum | Medium | Python | 38.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/523.py) | 10/28/19 | |
-| 529 | Continuous Subarray Sum | Medium | Python | 82.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/529.py) | 10/28/19 | |
+| 529 | Minesweeper | Medium | Python | 82.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/529.py) | 10/28/19 | |
 | 535 | Encode and Decode TinyURL | Medium | Python | 44.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/535.py) | 10/29/19 | |
 | 540 | Single Element in a Sorted Array | Medium | Python | 67.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/540.py) | 10/29/19 | |
 | 560 | Subarray Sum Equals K | Medium | Python | 58.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/560.py) | 10/29/19 | |
 | 670 | Maximum Swap | Medium | Python | 29.92%, 91.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/670.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/670_2.py) | 10/29/19 | |
 | 426 | Convert Binary Search Tree to Sorted Doubly Linked List | Medium | Python | 50.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/426.py) | 10/31/19 | |
 | 688 | Knight Probability in Chessboard | Medium | Python | 53.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/688.py) | 11/01/19 | |
+| 692 | Top K Frequent Words | Medium | Python | 22.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/692.py) | 11/02/19 | |
+| 729 | My Calendar I | Medium | Python | 92.28% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/729.py) | 11/02/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
