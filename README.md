@@ -15,20 +15,20 @@ My solutions and summary for problems in LeetCode.
 | Two Pointers | 26, 75, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310, 491, 286, 529 |
 | Union Find | 305, 317, 130, 200, 803 |
-| Greedy | 406, 122, 134, 135, 402 |
+| Greedy | 406, 122, 134, 135, 402, 767 |
 | Graph | 399, 207, 332 |
 | Binary Search | 33, 69, 88, 153, 162, 230, 436, 497 |
 | Binary Search Tree | 530, 538, 220 |
 | Linked List | 82, 206, 92, 109, 143, 148 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201, 260, 318 |
-| Math | 168, 171, 172, 202, 693, 365, 368, 372 |
+| Math | 168, 171, 172, 202, 693, 365, 368, 372, 794 |
 | String | 680, 227, 44 |
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114, 230, 99, 331 |
-| Sort | 148, 179 |
+| Sort | 148, 179, 969 |
 | Topological Sort | 207, 210 |
 | Trie | 208, 212 |
 | Divide and Conquer | 23, 240 |
-| Heap | 857, 703, 347, 373， 692 |
+| Heap | 857, 703, 347, 373, 692, 767 |
 | Minimax | 464, 486 |
 | Brainteaser | 777 |
 | Segment Tree | 307 |
@@ -468,7 +468,7 @@ My solutions and summary for problems in LeetCode.
 | 503 | Next Greater Element II | Medium | Python | 53.64% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/503.py) | 10/25/19 | |
 | 277 | Find the Celebrity | Medium | Python | 77.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/277.py) | 10/27/19 | |
 | 286 | Walls and Gates | Medium | Python | 53.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/286.py) | 10/27/19 | |
-| 348 | Design Tic-Tac-Toe | Medium | Python | 99.18% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/348.py) | 10/27/19 | |
+| 348 | Design Tic-Tac-Toe | Medium | Python | 99.18% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/348.py) | 10/27/19 | 794 |
 | 362 | Design Hit Counter | Medium | Python | 21.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/362.py) | 10/28/19 | |
 | 510 | Inorder Successor in BST II | Medium | Python | 55.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/510.py) | 10/28/19 | |
 | 516 | Longest Palindromic Subsequence | Medium | Python | 62.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/516.py) | 10/28/19 | |
@@ -482,6 +482,11 @@ My solutions and summary for problems in LeetCode.
 | 688 | Knight Probability in Chessboard | Medium | Python | 53.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/688.py) | 11/01/19 | |
 | 692 | Top K Frequent Words | Medium | Python | 22.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/692.py) | 11/02/19 | |
 | 729 | My Calendar I | Medium | Python | 92.28% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/729.py) | 11/02/19 | |
+| 767 | Reorganize String | Medium | Python | 87.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/767.py) | 11/03/19 | |
+| 794 | Valid Tic-Tac-Toe State | Medium | Python | 77.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/794.py) | 11/03/19 | 348 |
+| 958 | Check Completeness of a Binary Tree | Medium | Python | 59.71% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/958.py) | 11/03/19 | |
+| 969 | Pancake Sorting | Medium | Python | 98.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/969.py) | 11/03/19 | |
+| 1027 | Longest Arithmetic Sequence | Medium | Python | 44.63% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/1027.py) | 11/03/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
