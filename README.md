@@ -14,7 +14,7 @@ My solutions and summary for problems in LeetCode.
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731, 697 |
 | Two Pointers | 26, 75, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
 | DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310, 491, 286, 529 |
-| Union Find | 305, 317, 130, 200, 803 |
+| Union Find | 305, 317, 130, 200, 803, 721 |
 | Greedy | 406, 122, 134, 135, 402, 767 |
 | Graph | 399, 207, 332 |
 | Binary Search | 33, 69, 88, 153, 162, 230, 436, 497 |
@@ -216,12 +216,17 @@ My solutions and summary for problems in LeetCode.
 | 703 | Kth Largest Element in a Stream | Easy | Java | 80.49% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/703.java) | 08/04/19 | |
 | 704 | Binary Search | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/704.java) | 08/04/19 | |
 | 709 | To Lower Case | Easy | Java | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/709.java) | 08/06/19 | |
-| 977 | Squares of a Sorted Array | Easy | Java | 32.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/977.py) | 10/21/19 | |
-| 771 | Jewels and Stones | Easy | Java | 76.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/771.py) | 10/26/19 | |
-| 706 | Design HashMap | Easy | Java | 77.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/706.py) | 10/28/19 | |
-| 724 | Find Pivot Index | Easy | Java | 66.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/724.py) | 10/28/19 | |
-| 733 | Flood Fill | Easy | Java | 87.32%, 28.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/733.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/733_2.py) | 10/29/19 | |
-| 1170 | Compare Strings by Frequency of the Smallest Character | Easy | Java | 53.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/1170.py) | 10/30/19 | |
+| 977 | Squares of a Sorted Array | Easy | Python | 32.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/977.py) | 10/21/19 | |
+| 771 | Jewels and Stones | Easy | Python | 76.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/771.py) | 10/26/19 | |
+| 706 | Design HashMap | Easy | Python | 77.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/706.py) | 10/28/19 | |
+| 724 | Find Pivot Index | Easy | Python | 66.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/724.py) | 10/28/19 | |
+| 733 | Flood Fill | Easy | Python | 87.32%, 28.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/733.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/733_2.py) | 10/29/19 | |
+| 1170 | Compare Strings by Frequency of the Smallest Character | Easy | Python | 53.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/1170.py) | 10/30/19 | |
+| 836 | Rectangle Overlap | Easy | Python | 32.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/836.py) | 11/04/19 | |
+| 876 | Middle of the Linked List | Easy | Python | 68.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/876.py) | 11/04/19 | |
+| 917 | Reverse Only Letters | Easy | Python | 75.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/917.py) | 11/04/19 | |
+| 938 | Range Sum of BST | Easy | Python | 49.75%, 64.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/938.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/938_2.py) | 11/04/19 | |
+| 953 | Verifying an Alien Dictionary | Easy | Python | 97.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/953.py) | 11/04/19 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -487,6 +492,7 @@ My solutions and summary for problems in LeetCode.
 | 958 | Check Completeness of a Binary Tree | Medium | Python | 59.71% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/958.py) | 11/03/19 | |
 | 969 | Pancake Sorting | Medium | Python | 98.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/969.py) | 11/03/19 | |
 | 1027 | Longest Arithmetic Sequence | Medium | Python | 44.63% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/1027.py) | 11/03/19 | |
+| 721 | Accounts Merge | Medium | Python | 30.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/721.py) | 11/04/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
