@@ -227,6 +227,7 @@ My solutions and summary for problems in LeetCode.
 | 917 | Reverse Only Letters | Easy | Python | 75.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/917.py) | 11/04/19 | |
 | 938 | Range Sum of BST | Easy | Python | 49.75%, 64.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/938.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/938_2.py) | 11/04/19 | |
 | 953 | Verifying an Alien Dictionary | Easy | Python | 97.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/953.py) | 11/04/19 | |
+| 1122 | Relative Sort Array | Easy | Python | 92.83%, 77.36% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/1122.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/1122_2.py) | 11/05/19 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
