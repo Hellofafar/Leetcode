@@ -41,7 +41,7 @@ My solutions and summary for problems in LeetCode.
 | - | ----- | ---------- | -------- | ----- | ------- | -------- | ------- |
 | 13 | Roman to Integer | Easy | Python | 89.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/13.py) | 09/15/17 | 12 |
 | 14 | Longest Common Prefix | Easy | Python | 29.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/14.py) | 09/16/17 | |
-| 20 | Valid Parentheses | Easy | Python | 61.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/20.py) | 09/17/17 | 32 |
+| 20 | Valid Parentheses | Easy | Python | 61.05%, 93.08% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/20.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/20_2.py) | 09/17/17, 11/09/19 | 32 |
 | 21 | Merge Two Sorted Lists | Easy | Python | 39.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/21.py) | 09/17/17 | 23 |
 | 26 | Remove Duplicates from Sorted Array | Easy | Python | 16.47% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/26.py) | 09/19/17 | 27, 80 |
 | 27 | Remove Element | Easy | Python | 58.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/27.py) | 09/22/17 | 26 |
@@ -262,7 +262,7 @@ My solutions and summary for problems in LeetCode.
 | 388 | Longest Absolute File Path | Medium | Python | 36.10%, 39.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/388.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/388_2.py) | 11/04/17, 10/17/19 | |
 | 681 | Next Closest Time | Medium | Python | 65.44%, 91.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/681.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/681_2.py) | 11/04/17, 10/06/18 | |
 | 482 | License Key Formatting | Medium | Python | 54.11%, 76.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/482.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/482.py) | 11/04/17, 10/07/18 | |
-| 49 | Group Anagrams | Medium | Python | 24.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49_2.py), [3](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49_3.py) | 11/07/17, 10/19/19, 10/19/19 | |
+| 49 | Group Anagrams | Medium | Python | 24.66%, 61.64%, 5.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49_2.py), [3](https://github.com/Hellofafar/Leetcode/blob/master/Medium/49_3.py) | 11/07/17, 10/19/19, 10/19/19 | |
 | 298 | Binary Tree Longest Consecutive Sequence | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/298.py) | 11/07/17 | |
 | 418 | Sentence Screen Fitting | Medium | Python | N/A | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/418.py) | 11/08/17 | |
 | 361 | Bomb Enemy | Medium | Python | 60.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/361.py) | 11/08/17 | |
@@ -295,7 +295,7 @@ My solutions and summary for problems in LeetCode.
 | 63 | Unique Paths II | Medium | Python | 34.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/63.py) | 01/16/18 | 62, 64 |
 | 64 | Minimum Path Sum | Medium | Python | 35.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/64.py) | 01/17/18 | 63 |
 | 71 | Simplify Path | Medium | Python | 65.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/71.py) | 01/19/18 | |
-| 73 | Set Matrix Zeroes | Medium | Python | 27.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/73.py) | 01/19/18 | |
+| 73 | Set Matrix Zeroes | Medium | Python | 27.65%, 98.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/73.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/73_2.py) | 01/19/18, 11/09/19 | |
 | 74 | Search a 2D Matrix | Medium | Python | 26.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/74.py) | 01/20/18 | |
 | 77 | Combinations | Medium | Python | 39.24%, 55.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/77.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/77_2.py) | 01/20/18, 10/03/19 | 78 |
 | 78 | Subsets | Medium | Python | 42.54%, 92.81% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/78.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/78_2.py) | 01/20/18, 10/03/19 | 77 |
@@ -541,6 +541,6 @@ My solutions and summary for problems in LeetCode.
 | 297 | Serialize and Deserialize Binary Tree | Hard | Python | 3.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/297.py) | 12/19/18 |  |
 | 149 | Max Points on a Line | Hard | Python | 56.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/149.py) | 10/04/19 |  |
 | 10 | Regular Expression Matching | Hard | Python | 16.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/10.py) | 10/05/19 |  |
-| 42 | Trapping Rain Water | Hard | Python | 52.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/42.py) | 10/20/19 |  |
+| 42 | Trapping Rain Water | Hard | Python | 52.94%, 99.16% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/42_2.py) | 10/20/19, 11/09/19 |  |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | Python | 27.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/154.py) | 10/30/19 |  |
 | 41 | First Missing Positive | Hard | Python | 81.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/41.py) | 11/01/19 |  |
