@@ -49,6 +49,7 @@ if __name__ == "__main__":
 
 # ------------------------------
 # Summary:
+# Idea from https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/14419/Pretty-short-C%2B%2BJavaRubyPython
 # There are three conditions need to be thought: nums[0] > target? nums[0] > nums[mid]? target > nums[mid]?
 # If exactly two of them are true, then target should be at left side.
 # Using XOR to distinguish.

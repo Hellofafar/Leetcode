@@ -71,8 +71,7 @@ My solutions and summary for problems in LeetCode.
 | 83 | Remove Duplicates from Sorted List | Easy | Python | 16.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/83.py) | 01/20/18 | |
 | 88 | Merge Sorted Array | Easy | Python | 27.82% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/88.py) | 01/26/18 | |
 | 371 | Sum of Two Integers | Easy | Python | 39.52% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/371.py) | 02/05/18 | |
-| 206 | Reverse Linked List | Easy | Python | 24.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/206.py) | 02/06/18 | |
-| 206 | Reverse Linked List | Easy | Python | 32.84% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/206_2.py) | 02/06/18 | |
+| 206 | Reverse Linked List | Easy | Python | 24.94%, 32.84%, 98.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/206.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/206_2.py), [3](https://github.com/Hellofafar/Leetcode/blob/master/Easy/206_3.py) | 02/06/18, 11/10/19 | |
 | 543 | Diameter of Binary Tree | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/543.py) | 02/22/18 | 124, 687 |
 | 100 | Same Tree | Easy | Python | 99.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/100.py) | 05/25/18 | |
 | 101 | Symmetric Tree | Easy | Python | 92.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/101.py) | 06/01/18 | |
@@ -249,7 +248,7 @@ My solutions and summary for problems in LeetCode.
 | 18 | 4Sum | Medium | Python | 33.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/18.py) | 10/17/17 | |
 | 19 | Remove Nth Node From End of List | Medium | Python | 76.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/19.py) | 10/18/17 | |
 | 31 | Next Permutation | Medium | Python | 54.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/31.py) | 10/19/17 | |
-| 33 | Search in Rotated Sorted Array | Medium | Python | 80.22% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/33.py) | 10/22/17 | 88 |
+| 33 | Search in Rotated Sorted Array | Medium | Python | 80.22%, 97.90%, 99.82% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/33.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/33_2.py), [3](https://github.com/Hellofafar/Leetcode/blob/master/Medium/33_3.py) | 10/22/17, 11/10/19, 11/10/19 | 81 |
 | 34 | Search for a Range | Medium | Python | 63.92% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/34.py) | 10/24/17 | |
 | 357 | Search for a Range | Medium | Python | 47.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/357.py) | 10/26/17 | |
 | 36 | Valid Sudoku | Medium | Python | 66.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/36.py) | 11/01/17 | |
@@ -276,7 +275,7 @@ My solutions and summary for problems in LeetCode.
 | 200 | Number of Islands | Medium | Python | 15.98%, 27.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200_2.py) | 11/13/17, 08/27/18 | 305 |
 | 280 | Wiggle Sort | Medium | Python | 80.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/280.py) | 11/14/17 | |
 | 259 | 3Sum Smaller | Medium | Python | 90.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/259.py) | 11/14/17 | 15 |
-| 54 | Spiral Matrix | Medium | Python | 46.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/54.py) | 11/18/17 | |
+| 54 | Spiral Matrix | Medium | Python | 46.10%, 72.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/54.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/54_2.py) | 11/18/17, 11/10/19 | |
 | 55 | Jump Game | Medium | Python | 15.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/55.py) | 11/21/17 | |
 | 406 | Queue Reconstruction by Height | Medium | Python | 67.74% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/406.py) | 11/25/17 | |
 | 616 | Add Bold Tag in String | Medium | Python | 29.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/616.py) | 12/04/17 | |
@@ -302,7 +301,7 @@ My solutions and summary for problems in LeetCode.
 | 79 | Word Search | Medium | Python | 7.46%, 64.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79_2.py) | 01/21/18, 11/19/18 | |
 | 80 | Remove Duplicates from Sorted Array II | Medium | Python | 41.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/80.py) | 01/21/18 | 26 |
 | 81 | Search in Rotated Sorted Array II | Medium | Python | 52.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/81.py) | 01/27/18 | 33 |
-| 86 | Search in Rotated Sorted Array II | Medium | Python | 0.19%, 52.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86_2.py) | 01/28/18, 01/28/18 | |
+| 86 | Partition List | Medium | Python | 0.19%, 52.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86_2.py) | 01/28/18, 01/28/18 | |
 | 82 | Remove Duplicates from Sorted List II | Medium | Python | 62.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/82.py) | 01/30/18 | |
 | 89 | Grey Code | Medium | Python | 31.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/89.py) | 02/02/18 | |
 | 90 | Subsets II | Medium | Python | 32.23%, 15.53% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/90.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/90_2.py) | 02/06/18, 10/03/19 | |
@@ -339,7 +338,7 @@ My solutions and summary for problems in LeetCode.
 | 150 | Evaluate Reverse Polish Notation | Medium | Python | 82.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/150.py) | 08/25/18 | |
 | 151 | Reverse Words in a String | Medium | Python | 24.54% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/151.py) | 08/25/18 | |
 | 152 | Maximum Product Subarray | Medium | Python | 87.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/152.py) | 08/25/18 | |
-| 153 | Find Minimum in Rotated Sorted Array | Medium | Python | 84.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/153.py) | 08/25/18 | |
+| 153 | Find Minimum in Rotated Sorted Array | Medium | Python | 84.57%, 99.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/153.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/153_2.py) | 08/25/18, 11/10/19 | |
 | 162 | Find Peak Element | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/162.py) | 08/25/18 | |
 | 165 | Compare Version Numbers | Medium | Python | 13.92% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/165.py) | 08/26/18 | |
 | 166 | Fraction to Recurring Decimal | Medium | Python | 99.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/166.py) | 08/26/18 | |
@@ -542,5 +541,5 @@ My solutions and summary for problems in LeetCode.
 | 149 | Max Points on a Line | Hard | Python | 56.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/149.py) | 10/04/19 |  |
 | 10 | Regular Expression Matching | Hard | Python | 16.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/10.py) | 10/05/19 |  |
 | 42 | Trapping Rain Water | Hard | Python | 52.94%, 99.16% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/42_2.py) | 10/20/19, 11/09/19 |  |
-| 154 | Find Minimum in Rotated Sorted Array II | Hard | Python | 27.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/154.py) | 10/30/19 |  |
+| 154 | Find Minimum in Rotated Sorted Array II | Hard | Python | 94.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/154.py) | 10/30/19 |  |
 | 41 | First Missing Positive | Hard | Python | 81.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/41.py) | 11/01/19 |  |
