@@ -13,7 +13,7 @@ My solutions and summary for problems in LeetCode.
 | Stack | 394, 173, 71, 155, 94, 456, 503 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731, 697 |
 | Two Pointers | 26, 75, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
-| DFS/BFS | 317, 329, 417, 100, 101, 104, 107, 108, 110, 111, 257, 695, 105, 113, 127, 130, 200, 310, 491, 286, 529 |
+| DFS/BFS | 317, 329, 417, 100, 101, 102, 103, 104, 107, 108, 110, 111, 116, 117, 257, 695, 105, 113, 127, 130, 200, 310, 491, 286, 529 |
 | Union Find | 305, 317, 130, 200, 803, 721 |
 | Greedy | 406, 122, 134, 135, 402, 767 |
 | Graph | 399, 207, 332 |
@@ -243,7 +243,7 @@ My solutions and summary for problems in LeetCode.
 | 15 | 3Sum | Medium | Python | 37.03% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/15.py) | 12/18/17 | 16 |
 | 16 | 3Sum Closest | Medium | Python | 51.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/16.py) | 10/13/17 | 15 |
 | 75 | Sort Color | Medium | Python | 70.61%, 91.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/75.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/75_2.py) | 10/14/17, 10/30/19 | |
-| 17 | Letter Combinations of a Phone Number | Medium | Python | 86.89% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/17.py) | 10/16/17 | |
+| 17 | Letter Combinations of a Phone Number | Medium | Python | 86.89%, 97.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/17.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/17_2.py) | 10/16/17, 11/11/19 | |
 | 187 | Repeated DNA Sequences | Medium | Python | 50.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/187.py) | 10/16/17 | |
 | 18 | 4Sum | Medium | Python | 33.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/18.py) | 10/17/17 | |
 | 19 | Remove Nth Node From End of List | Medium | Python | 76.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/19.py) | 10/18/17 | |
@@ -272,7 +272,7 @@ My solutions and summary for problems in LeetCode.
 | 351 | Android Unlock Patterns | Medium | Python | 19.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/351.py) | 11/11/17 | |
 | 288 | Unique Word Abbreviation | Medium | Python | 29.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/288.py) | 11/11/17 | |
 | 289 | Game of Life | Medium | Python | 86.80% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/289.py) | 11/12/17 | |
-| 200 | Number of Islands | Medium | Python | 15.98%, 27.72% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200_2.py) | 11/13/17, 08/27/18 | 305 |
+| 200 | Number of Islands | Medium | Python | 15.98%, 27.72%, 6.01%, 99.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200_2.py), [3](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200_3.py), [4](https://github.com/Hellofafar/Leetcode/blob/master/Medium/200_4.py) | 11/13/17, 08/27/18, 11/11/19, 11/11/19 | 305 |
 | 280 | Wiggle Sort | Medium | Python | 80.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/280.py) | 11/14/17 | |
 | 259 | 3Sum Smaller | Medium | Python | 90.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/259.py) | 11/14/17 | 15 |
 | 54 | Spiral Matrix | Medium | Python | 46.10%, 72.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/54.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/54_2.py) | 11/18/17, 11/10/19 | |
@@ -311,11 +311,11 @@ My solutions and summary for problems in LeetCode.
 | 94 | Binary Tree Inorder Traversal | Medium | Python | 99.96% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/94.py) | 08/07/18 | 98 |
 | 95 | Unique Binary Search Trees II | Medium | Python | 79.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/95.py) | 08/08/18 | 96 |
 | 96 | Unique Binary Search Trees | Medium | Python | 21.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/96.py) | 08/09/18 | 95 |
-| 98 | Validate Binary Search Tree | Medium | Python | 76.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/98.py) | 08/09/18 | 94 |
-| 102 | Binary Tree Level Order Traversal | Medium | Python | 6.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/102.py) | 08/10/18 | 103 |
+| 98 | Validate Binary Search Tree | Medium | Python | 76.09%, 96.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/98.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/98_2.py) | 08/09/18, 11/11/19 | 94 |
+| 102 | Binary Tree Level Order Traversal | Medium | Python | 6.67%, 98.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/102.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/102_2.py) | 08/10/18, 11/11/19 | 103 |
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/103.py) | 08/10/18 | 102 |
-| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | Python | 53.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/105.py) | 08/11/18 | 106 |
-| 106 | Construct Binary Tree from Inorder and Postorder Traversal | Medium | Python | 23.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/106.py) | 08/11/18 | 105 |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | Python | 53.04%, 99.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/105.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/105_2.py) | 08/11/18, 11/11/19 | 106 |
+| 106 | Construct Binary Tree from Inorder and Postorder Traversal | Medium | Python | 23.68%, 99.16% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/106.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/106_2.py) | 08/11/18, 11/11/19 | 105 |
 | 109 | Convert Sorted List to Binary Search Tree | Medium | Python | 52.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/109.py) | 08/11/18 | |
 | 113 | Path Sum II | Medium | Python | 71.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/113.py) | 08/12/18 | |
 | 114 | Flatten Binary Tree to Linked List | Medium | Python | 98.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/114.py) | 08/13/18 | |
@@ -329,7 +329,7 @@ My solutions and summary for problems in LeetCode.
 | 133 | Clone Graph | Medium | Python | 60.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/133.py) | 08/18/18 | |
 | 134 | Gas Station | Medium | Python | 31.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/134.py) | 08/19/18 | |
 | 137 | Single Number II | Medium | Python, Java | 5.62%, 16.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/137.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/137_2.java) | 08/20/18, 10/30/18 | |
-| 138 | Copy List with Random Pointer | Medium | Python | 58.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/138.py) | 08/21/18 | |
+| 138 | Copy List with Random Pointer | Medium | Python | 58.10%, 98.81% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/138.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/138_2.py) | 08/21/18, 11/11/19 | |
 | 139 | Word Break | Medium | Python | 10.94% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/139.py) | 08/22/18 | |
 | 142 | Linked List Cycle II | Medium | Python | 99.90% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/142.py) | 08/23/18 | |
 | 143 | Reorder List | Medium | Python | 46.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/143.py) | 08/23/18 | |
