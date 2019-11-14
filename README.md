@@ -43,7 +43,7 @@ My solutions and summary for problems in LeetCode.
 | 14 | Longest Common Prefix | Easy | Python | 29.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/14.py) | 09/16/17 | |
 | 20 | Valid Parentheses | Easy | Python | 61.05%, 93.08% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/20.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/20_2.py) | 09/17/17, 11/09/19 | 32 |
 | 21 | Merge Two Sorted Lists | Easy | Python | 39.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/21.py) | 09/17/17 | 23 |
-| 26 | Remove Duplicates from Sorted Array | Easy | Python | 16.47% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/26.py) | 09/19/17 | 27, 80 |
+| 26 | Remove Duplicates from Sorted Array | Easy | Python | 16.47%, 99.81% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/26.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/26_2.py) | 09/19/17, 11/12/19 | 27, 80 |
 | 27 | Remove Element | Easy | Python | 58.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/27.py) | 09/22/17 | 26 |
 | 28 | Implement strStr() | Easy | Python | 13.93% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/28.py) | 09/23/17 | |
 | 35 | Search Insert Position | Easy | Python | 41.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/35.py) | 09/24/17 | |
@@ -363,7 +363,7 @@ My solutions and summary for problems in LeetCode.
 | 230 | Kth Smallest Element in a BST | Medium | Python | 78.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/230.py) | 09/25/18 | |
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | Python | 54.71% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/236.py) | 09/25/18 | |
 | 238 | Product of Array Except Self | Medium | Python | 48.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/238.py) | 09/26/18 | |
-| 240 | Search a 2D Matrix II | Medium | Python | 2.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/240.py) | 09/26/18 | |
+| 240 | Search a 2D Matrix II | Medium | Python | 2.04%, 98.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/240.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/240_2.py) | 09/26/18, 11/12/19 | |
 | 241 | Different Ways to Add Parentheses | Medium | Python | 61.11% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/241.py) | 09/26/18 | |
 | 260 | Single Number III | Medium | Python | 69.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/260.py) | 09/27/18 | |
 | 264 | Ugly Number II | Medium | Python | 49.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/264.py) | 09/27/18 | |
@@ -543,3 +543,4 @@ My solutions and summary for problems in LeetCode.
 | 42 | Trapping Rain Water | Hard | Python | 52.94%, 99.16% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/42_2.py) | 10/20/19, 11/09/19 |  |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | Python | 94.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/154.py) | 10/30/19 |  |
 | 41 | First Missing Positive | Hard | Python | 81.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/41.py) | 11/01/19 |  |
+| 4 | Median of Two Sorted Arrays | Hard | Python | 85.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/4.py) | 11/12/19 |  |

@@ -49,8 +49,8 @@ class Solution:
 # Summary:
 # More concise O(n) solution from https://leetcode.com/problems/sort-colors/solution/
 # 
-# While i <= p2, do judgement
+# While i <= p2, do judgement (it's not i < p2)
 # if meeting a "0", swap number in p0 and i, then move 1 step both p0 and i
 # if meeting a "1", move i
-# if meeting a "2", swap number in p2 and i, then move p2 1 step back!! (just r)
+# if meeting a "2", swap number in p2 and i, then move p2 1 step back!! (just p2)
 # because after swap there maybe a 0 in the nums[i]
