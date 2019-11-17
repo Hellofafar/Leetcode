@@ -234,7 +234,7 @@ My solutions and summary for problems in LeetCode.
 | - | ----- | ---------- | -------- | ----- | ------- | -------- | ------- |
 | 22 | Generate Parentheses | Medium | Python | 56.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/22.py) | 09/18/17 | |
 | 24 | Swap Nodes in Pairs | Medium | Python | 52.30%, 78.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/24.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/24_2.py) | 09/20/17, 10/21/19 | 25 |
-| 3 | Longest Substring Without Repeating Characters | Medium | Python | 68.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/3.py) | 09/26/17 | |
+| 3 | Longest Substring Without Repeating Characters | Medium | Python | 68.40%, 96.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/3.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/3_2.py) | 09/26/17, 11/16/19 | |
 | 5 | Longest Palindromic Substring | Medium | Python | 96.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/5.py) | 09/28/17 | |
 | 12 | Integer to Roman | Medium | Python | 66.17% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/12.py) | 09/30/17 | 13 |
 | 445 | Add Two Numbers II | Medium | Python | 89.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/445.py) | 10/06/17 | |
@@ -246,14 +246,14 @@ My solutions and summary for problems in LeetCode.
 | 17 | Letter Combinations of a Phone Number | Medium | Python | 86.89%, 97.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/17.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/17_2.py) | 10/16/17, 11/11/19 | |
 | 187 | Repeated DNA Sequences | Medium | Python | 50.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/187.py) | 10/16/17 | |
 | 18 | 4Sum | Medium | Python | 33.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/18.py) | 10/17/17 | |
-| 19 | Remove Nth Node From End of List | Medium | Python | 76.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/19.py) | 10/18/17 | |
+| 19 | Remove Nth Node From End of List | Medium | Python | 76.66%, 97.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/19.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/19_2.py) | 10/18/17, 11/16/19 | |
 | 31 | Next Permutation | Medium | Python | 54.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/31.py) | 10/19/17 | |
 | 33 | Search in Rotated Sorted Array | Medium | Python | 80.22%, 97.90%, 99.82% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/33.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/33_2.py), [3](https://github.com/Hellofafar/Leetcode/blob/master/Medium/33_3.py) | 10/22/17, 11/10/19, 11/10/19 | 81 |
 | 34 | Search for a Range | Medium | Python | 63.92% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/34.py) | 10/24/17 | |
 | 357 | Search for a Range | Medium | Python | 47.01% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/357.py) | 10/26/17 | |
-| 36 | Valid Sudoku | Medium | Python | 66.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/36.py) | 11/01/17 | |
+| 36 | Valid Sudoku | Medium | Python | 66.35%, 98.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/36.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/36_2.py) | 11/01/17, 11/16/19 | |
 | 39 | Combination Sum | Medium | Python | 24.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/39.py) | 11/01/17 | 40 |
-| 40 | Combination Sum II | Medium | Python | 95.53% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/40.py) | 11/01/17 | 39 |
+| 40 | Combination Sum II | Medium | Python | 95.53%, 99.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/40.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/40_2.py) | 11/01/17, 11/15/19 | 39 |
 | 43 | Multiply Strings | Medium | Python | 32.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/43.py) | 11/03/17 | |
 | 46 | Permutations | Medium | Python | 31.56%, 37.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/46.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/46_2.py) | 11/03/17, 10/03/19 | 47 |
 | 47 | Permutations II | Medium | Python | 16.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/47.py) | 11/03/17 | 46 |
@@ -346,7 +346,7 @@ My solutions and summary for problems in LeetCode.
 | 199 | Binary Tree Right Side View | Medium | Python | 12.81% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/199.py) | 08/26/18 | |
 | 201 | Bitwise AND of Numbers Range | Medium | Python | 1.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/201.py) | 08/27/18 | |
 | 207 | Course Schedule | Medium | Python |  | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/207.py) | 08/27/18 | 210 |
-| 208 | Implement Trie (Prefix Tree) | Medium | Java | 8.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/208.java) | 08/28/18 | |
+| 208 | Implement Trie (Prefix Tree) | Medium | Java, Python | 8.95%, 30.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/208.java), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/208_2.py | 08/28/18, 11/14/19 | |
 | 209 | Minimum Size Subarray Sum | Medium | Java | 40.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/209.java) | 08/29/18 | |
 | 210 | Course Schedule II | Medium | Java | 15.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/210.java) | 08/30/18 | 207 |
 | 211 | Add and Search Word - Data structure design | Medium | Java | 3.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/211.java) | 08/31/18 | 208 |
@@ -370,7 +370,7 @@ My solutions and summary for problems in LeetCode.
 | 274 | H-Index | Medium | Python | 11.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/274.py) | 09/27/18 | |
 | 275 | H-Index II | Medium | Python | 99.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/275.py) | 09/27/18 | |
 | 279 | Perfect Squares | Medium | Python | 25.81%, 15.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/279.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/279_2.py) | 12/09/17, 09/28/18 | |
-| 287 | Find the Duplicate Number | Medium | Python | 14.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/287.py) | 09/30/18 | 142 |
+| 287 | Find the Duplicate Number | Medium | Python | 99.96% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/287.py) | 09/30/18 | 142 |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Python | 44.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/309.py) | 10/05/18 | |
 | 904 | Fruit Into Baskets | Medium | Python | 96.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/904.py) | 10/08/18 | |
 | 299 | Bulls and Cows | Medium | Python | 67.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/299.py) | 10/08/18 | |
@@ -392,9 +392,9 @@ My solutions and summary for problems in LeetCode.
 | 562 | Longest Line of Consecutive One in Matrix | Medium | Python | 66.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/562.py) | 11/24/18 | |
 | 731 | My Calendar II | Medium | Python | 76.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/731.py) | 11/25/18 | |
 | 900 | RLE Iterator | Medium | Python | 9.62%, 43.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/900.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/900_2.py) | 11/25/18, 10/20/19 | |
-| 300 | Longest Increasing Subsequence | Medium | Python | 2.12% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/300.py) | 12/15/18 | |
+| 300 | Longest Increasing Subsequence | Medium | Python | 2.12%, 98.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/300.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/300_2.py) | 12/15/18, 11/13/19 | |
 | 337 | House Robber III | Medium | Python | 85.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/337.py) | 12/18/18 | |
-| 449 | Serialize and Deserialize BST | Medium | Python | 22.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/449.py) | 12/20/18 | |
+| 449 | Serialize and Deserialize BST | Medium | Python | 22.73% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/449.py) | 12/20/18 | 297 |
 | 450 | Delete Node in a BST | Medium | Python | 15.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/450.py) | 12/21/18 | |
 | 508 | Most Frequent Subtree Sum | Medium | Python | 54.24% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/508.py) | 12/21/18 | |
 | 513 | Find Bottom Left Tree Value | Medium | Python | 26.51%, 26.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/513.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/513_2.py) | 12/21/18 | |
@@ -537,7 +537,7 @@ My solutions and summary for problems in LeetCode.
 | 99 | Recover Binary Search Tree | Hard | Python | 32.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/99.py) | 12/17/18 |  |
 | 124 | Binary Tree Maximum Path Sum | Hard | Python | 57.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/124.py) | 12/18/18 | 543 |
 | 145 | Binary Tree Postorder Traversal | Hard | Python | 20.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/145.py) | 12/18/18 | 590 |
-| 297 | Serialize and Deserialize Binary Tree | Hard | Python | 3.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/297.py) | 12/19/18 |  |
+| 297 | Serialize and Deserialize Binary Tree | Hard | Python | 3.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/297.py) | 12/19/18 | 449 |
 | 149 | Max Points on a Line | Hard | Python | 56.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/149.py) | 10/04/19 |  |
 | 10 | Regular Expression Matching | Hard | Python | 16.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/10.py) | 10/05/19 |  |
 | 42 | Trapping Rain Water | Hard | Python | 52.94%, 99.16% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/42_2.py) | 10/20/19, 11/09/19 |  |
