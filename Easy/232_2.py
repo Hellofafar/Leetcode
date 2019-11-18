@@ -11,57 +11,65 @@
 # 
 # Example:
 # MyQueue queue = new MyQueue();
+# 
 # queue.push(1);
 # queue.push(2);  
 # queue.peek();  // returns 1
 # queue.pop();   // returns 1
 # queue.empty(); // returns false
 # 
-# Version: 1.0
-# 06/13/18 by Jianfa
+# Notes:
+# You must use only standard operations of a stack -- which means only push to top, peek/pop 
+# from top, size, and is empty operations are valid.
+# Depending on your language, stack may not be supported natively. You may simulate a stack 
+# by using a list or deque (double-ended queue), as long as you use only standard operations 
+# of a stack.
+# You may assume that all operations are valid (for example, no pop or peek operations will 
+# be called on an empty queue).
+# 
+# Version: 2.0
+# 11/17/19 by Jianfa
 # ------------------------------
 
-class MyQueue(object):
+class MyQueue:
 
     def __init__(self):
         """
         Initialize your data structure here.
         """
-        self.queue = []
-        
+        self.stack1 = []
+        self.stack2 = []      
 
-    def push(self, x):
+    def push(self, x: int) -> None:
         """
         Push element x to the back of queue.
-        :type x: int
-        :rtype: void
         """
-        self.queue.append(x)
-        
+        self.stack1.append(x)
 
-    def pop(self):
+    def pop(self) -> int:
         """
         Removes the element from in front of queue and returns that element.
-        :rtype: int
         """
-        return self.queue.pop(0)
-        
+        self.fillStack2()
+        return self.stack2.pop()
 
-    def peek(self):
+    def peek(self) -> int:
         """
         Get the front element.
-        :rtype: int
         """
-        return self.queue[0]
-        
+        self.fillStack2()
+        return self.stack2[-1]
 
-    def empty(self):
+    def empty(self) -> bool:
         """
         Returns whether the queue is empty.
-        :rtype: bool
         """
-        return len(self.queue) == 0  
-
+        return not self.stack1 and not self.stack2
+        
+    def fillStack2(self) -> None:
+        if not self.stack2:
+            for i in range(len(self.stack1)):
+                self.stack2.append(self.stack1.pop())
 
 # Your MyQueue object will be instantiated and called as such:
 # obj = MyQueue()
@@ -76,4 +84,4 @@ if __name__ == "__main__":
 
 # ------------------------------
 # Summary:
-# Not the correct solution.
+# Two stacks solution.

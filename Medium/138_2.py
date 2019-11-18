@@ -37,7 +37,6 @@ class Solution:
         while head:
             # interweave new nodes and old nodes just based on next pointers
             copyNode = Node(head.val, head.next, None)
-            copyNode.next = head.next
             head.next = copyNode
             head = head.next.next
             

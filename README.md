@@ -88,7 +88,7 @@ My solutions and summary for problems in LeetCode.
 | 136 | Single Number | Easy | Python | 72.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/136.py) | 06/08/18 | |
 | 141 | Linked List Cycle | Easy | Python | 9.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/141.py) | 06/08/18 | |
 | 155 | Min Stack | Easy | Python | 77.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/155.py) | 10/20/19 | |
-| 160 | Intersection of Two Linked Lists | Easy | Python | 99.91%, 95.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/160.py), [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/160_2.py) | 06/08/18, 10/18/19 | |
+| 160 | Intersection of Two Linked Lists | Easy | Python | 99.91%, 95.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/160.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/160_2.py) | 06/08/18, 10/18/19 | |
 | 167 | Two Sum II - Input array is sorted | Easy | Python | 48.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/167.py) | 06/09/18 | |
 | 168 | Excel Sheet Column Title | Easy | Python | 43.90% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/168.py) | 06/09/18 | |
 | 169 | Majority Element | Easy | Python | 96.66% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/169.py) | 06/09/18 | |
@@ -108,7 +108,7 @@ My solutions and summary for problems in LeetCode.
 | 225 | Implement Stack using Queues | Easy | Python | 93.49% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/225.py) | 06/12/18 | |
 | 226 | Invert Binary Tree | Easy | Python | 98.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/226.py) | 06/12/18 | |
 | 231 | Power of Two | Easy | Python | 72.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/231.py) | 06/13/18 | |
-| 232 | Implement Queue using Stacks | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/232.py) | 06/13/18 | |
+| 232 | Implement Queue using Stacks | Easy | Python | 100.00%, 99.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/232.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/232_2.py) | 06/13/18, 11/17/19 | |
 | 234 | Palindrome Linked List | Easy | Python | 16.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/234.py) | 06/18/18 | |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | Python | 63.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/235.py) | 06/20/18 | |
 | 237 | Delete Node in a Linked List | Easy | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/237.py) | 06/20/18 | |
@@ -298,7 +298,7 @@ My solutions and summary for problems in LeetCode.
 | 74 | Search a 2D Matrix | Medium | Python | 26.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/74.py) | 01/20/18 | |
 | 77 | Combinations | Medium | Python | 39.24%, 55.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/77.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/77_2.py) | 01/20/18, 10/03/19 | 78 |
 | 78 | Subsets | Medium | Python | 42.54%, 92.81% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/78.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/78_2.py) | 01/20/18, 10/03/19 | 77 |
-| 79 | Word Search | Medium | Python | 7.46%, 64.35% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79_2.py) | 01/21/18, 11/19/18 | |
+| 79 | Word Search | Medium | Python | 7.46%, 64.35%, 87.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79_2.py), [3](https://github.com/Hellofafar/Leetcode/blob/master/Medium/79_3.py) | 01/21/18, 11/19/18, 11/17/19 | |
 | 80 | Remove Duplicates from Sorted Array II | Medium | Python | 41.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/80.py) | 01/21/18 | 26 |
 | 81 | Search in Rotated Sorted Array II | Medium | Python | 52.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/81.py) | 01/27/18 | 33 |
 | 86 | Partition List | Medium | Python | 0.19%, 52.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/86_2.py) | 01/28/18, 01/28/18 | |
@@ -351,7 +351,7 @@ My solutions and summary for problems in LeetCode.
 | 210 | Course Schedule II | Medium | Java | 15.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/210.java) | 08/30/18 | 207 |
 | 211 | Add and Search Word - Data structure design | Medium | Java | 3.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/211.java) | 08/31/18 | 208 |
 | 213 | House Robber II | Medium | Java | 74.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/213.java) | 09/02/18 | 198 |
-| 215 | Kth Largest Element in an Array | Medium | Python | 96.39% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/215.py) | 09/04/18 | |
+| 215 | Kth Largest Element in an Array | Medium | Python | 96.39%, 98.96% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/215.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/215_2.py) | 09/04/18, 11/17/19 | |
 | 216 | Combination Sum III | Medium | Python | 96.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/216.py) | 09/06/18 | |
 | 220 | Contains Duplicate III | Medium | Python | 89.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/220.py) | 09/10/18 | |
 | 221 | Maximal Square | Medium | Python | 80.30% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/221.py) | 09/12/18 | |
@@ -512,7 +512,7 @@ My solutions and summary for problems in LeetCode.
 | 248 | Strobogrammatic Number III | Hard | Python | 50.91%, 38.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/248.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/248_2.py) | 12/10/17, 11/27/18 | 246, 247 |
 | 30 | Substring with Concatenation of All Words | Hard | Python | 27.92%， 85.53% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/30.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/30_2.py) | 12/18/17, 10/04/19 |  |
 | 37 | Sudoku Solver | Hard | Python | 7.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/37.py) | 12/18/17 |  |
-| 57 | Insert Interval | Hard | Python | 27.47% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/57.py) | 12/19/17 |  |
+| 57 | Insert Interval | Hard | Python | 27.47%, 87.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/57.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Hard/57_2.py) | 12/19/17, 11/17/19 |  |
 | 65 | Valid Number | Hard | Python | 20.58% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/65.py) | 01/17/18 |  |
 | 68 | Text Justification | Hard | Python | 40.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/68.py) | 01/18/18 |  |
 | 72 | Edit Distance | Hard | Python | 31.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/72.py) | 01/19/18 |  |

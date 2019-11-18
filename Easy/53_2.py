@@ -36,7 +36,7 @@ if __name__ == "__main__":
 
 # ------------------------------
 # Summary:
-# DP solution from https://leetcode.com/problems/maximum-subarray/solution/
+# DP solution from https://leetcode.com/problems/maximum-subarray/solution/ (Kadane's algorithm)
 # Actually similar idea from 53.py.
 # 
 # O(n) time, O(1) space
