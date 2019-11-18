@@ -346,7 +346,7 @@ My solutions and summary for problems in LeetCode.
 | 199 | Binary Tree Right Side View | Medium | Python | 12.81% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/199.py) | 08/26/18 | |
 | 201 | Bitwise AND of Numbers Range | Medium | Python | 1.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/201.py) | 08/27/18 | |
 | 207 | Course Schedule | Medium | Python |  | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/207.py) | 08/27/18 | 210 |
-| 208 | Implement Trie (Prefix Tree) | Medium | Java, Python | 8.95%, 30.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/208.java), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/208_2.py | 08/28/18, 11/14/19 | |
+| 208 | Implement Trie (Prefix Tree) | Medium | Java, Python | 8.95%, 30.70% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/208.java), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/208_2.py) | 08/28/18, 11/14/19 | |
 | 209 | Minimum Size Subarray Sum | Medium | Java | 40.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/209.java) | 08/29/18 | |
 | 210 | Course Schedule II | Medium | Java | 15.44% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/210.java) | 08/30/18 | 207 |
 | 211 | Add and Search Word - Data structure design | Medium | Java | 3.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/211.java) | 08/31/18 | 208 |
