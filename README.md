@@ -376,7 +376,7 @@ My solutions and summary for problems in LeetCode.
 | 299 | Bulls and Cows | Medium | Python | 67.76% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/299.py) | 10/08/18 | |
 | 684 | Redundant Connection | Medium | Python | 5.31% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/684.py) | 10/09/18 | |
 | 486 | Predict the Winner | Medium | Python | 82.64%, 99.60% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/486.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/486_2.py) | 10/17/18, 10/28/18 | |
-| 253 | Meeting Rooms II | Medium | Python | 95.99% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/253.py) | 10/20/18 | |
+| 253 | Meeting Rooms II | Medium | Python | 95.99%, 97.65% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/253.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/253_2.py) | 10/20/18, 11/18/19 | |
 | 324 | Wiggle Sort II | Medium | Python | 82.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/324.py) | 10/20/18 | |
 | 468 | Validate IP Address | Medium | Python | 92.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/468.py) | 10/25/18 | |
 | 156 | Binary Tree Upside Down | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/156.py) | 11/03/18 | |
@@ -412,14 +412,14 @@ My solutions and summary for problems in LeetCode.
 | 313 | Super Ugly Number | Medium | Python | 52.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/313.py) | 9/26/19 | |
 | 318 | Maximum Product of Word Lengths | Medium | Python | 96.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/318.py) | 9/26/19 | |
 | 319 | Bulb Switcher | Medium | Python | 32.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/319.py) | 9/26/19 | |
-| 322 | Coin Change | Medium | Python | 17.78% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/322.py) | 9/26/19 | |
+| 322 | Coin Change | Medium | Python | 17.78%, 34.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/322.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/322_2.py) | 9/26/19, 11/18/19 | |
 | 328 | Odd Even Linked List | Medium | Python | 7.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/328.py) | 9/27/19 | |
 | 331 | Verify Preorder Serialization of a Binary Tree | Medium | Python | 92.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/331.py) | 9/27/19 | |
 | 332 | Reconstruct Itinerary | Medium | Python | 70.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/332.py) | 9/27/19 | |
 | 334 | Increasing Triplet Subsequence | Medium | Python | 74.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/334.py) | 9/27/19 | |
 | 341 | Flatten Nested List Iterator | Medium | Python | 70.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/341.py) | 9/27/19 | |
 | 343 | Integer Break | Medium | Python | 93.88% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/343.py) | 9/28/19 | |
-| 347 | Top K Frequent Elements | Medium | Python | 95.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/347.py) | 9/28/19 | |
+| 347 | Top K Frequent Elements | Medium | Python | 95.04%, 98.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/347.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/347_2.py) | 09/28/19, 11/18/19 | |
 | 355 | Design Twitter | Medium | Python | 82.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/355.py) | 9/28/19 | |
 | 365 | Water and Jug Problem | Medium | Python | 90.16% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/365.py) | 9/28/19 | |
 | 368 | Largest Divisible Subset | Medium | Python | 57.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/368.py) | 9/28/19 | |
@@ -544,3 +544,4 @@ My solutions and summary for problems in LeetCode.
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | Python | 94.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/154.py) | 10/30/19 |  |
 | 41 | First Missing Positive | Hard | Python | 81.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/41.py) | 11/01/19 |  |
 | 4 | Median of Two Sorted Arrays | Hard | Python | 85.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/4.py) | 11/12/19 |  |
+| 315 | Count of Smaller Numbers After Self | Hard | Python | 63.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/315.py) | 11/18/19 |  |

@@ -22,9 +22,12 @@ class Solution(object):
         :rtype: List[int]
         """
         res = [1] * len(nums)
+        # first multiply from left to right, res[i] = nums[0] * .. * nums[i-1] for i > 0
         for i in range(1, len(nums)):
             res[i] = res[i-1] * nums[i-1]
         
+        # then multiply from right to left, res[i] *= nums[i+1] * .. * nums[size-1] for i < size - 1
+        # use a right variable to store nums[i+1] * .. * nums[size-1]
         right = 1
         for j in range(len(nums))[::-1]:
             res[j] *= right
