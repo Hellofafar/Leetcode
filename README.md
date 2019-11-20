@@ -5,11 +5,11 @@ My solutions and summary for problems in LeetCode.
 ## Problems by topics
 | Topics | Problems |
 | ---- | -------- |
-| Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216, 306, 10 |
+| Backtrack | 37, 39, 40, 46, 47, 77, 79, 90, 131, 216, 306, 10, 425 |
 | Hash Table | 30, 159, 340, 202, 204, 205，219, 438, 447, 706 |
 | Design | 308, 346, 284, 173, 208, 146, 460, 355, 622, 348, 535 |
 | Tree | 298, 543, 100, 101, 104, 107, 108, 110, 111, 226, 257, 404, 437, 572, 669, 687, 117, 236, 156, 250, 99, 124, 654, 655 |
-| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322, 416, 474, 516 |
+| Dynamic Programming | 361, 418, 568, 62, 63, 64, 70, 72, 85, 198, 95, 96, 139, 213, 221, 264, 279, 309, 562, 304, 322, 416, 474, 516, 403, 518 |
 | Stack | 394, 173, 71, 155, 94, 456, 503 |
 | Array | 289, 54, 119, 122, 169, 189, 190, 448, 581, 665, 228, 849, 245, 731, 697 |
 | Two Pointers | 26, 75, 80, 125, 259, 345, 141, 142, 209, 844, 904 |
@@ -26,7 +26,7 @@ My solutions and summary for problems in LeetCode.
 | Preorder/Inorder/Postorder | 589, 590, 94, 105, 114, 230, 99, 331 |
 | Sort | 148, 179, 969 |
 | Topological Sort | 207, 210 |
-| Trie | 208, 212 |
+| Trie | 208, 212, 425 |
 | Divide and Conquer | 23, 240 |
 | Heap | 857, 703, 347, 373, 692, 767 |
 | Minimax | 464, 486 |
@@ -136,7 +136,7 @@ My solutions and summary for problems in LeetCode.
 | 409 | Longest Palindrome | Easy | Python | 97.25% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/409.py) | 06/29/18 | |
 | 405 | Convert a Number to Hexadecimal | Easy | Python | 28.84% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/409.py) | 07/01/18 | |
 | 412 | Fizz Buzz | Easy | Python | 55.02% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/412.py) | 07/02/18 | |
-| 414 | Fizz Buzz | Easy | Python | 35.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/414.py) | 07/02/18 | |
+| 414 | Third Maximum Number | Easy | Python | 35.75% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/414.py) | 07/02/18 | |
 | 415 | Add Strings | Easy | Python | 21.94%, 75.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/415.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/415_2.py) | 07/02/18, 10/30/19 | |
 | 434 | Number of Segments in a String | Easy | Python | 34.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/434.py) | 07/02/18 | |
 | 437 | Path Sum III | Easy | Python | 49.10% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/437.py) | 07/03/18 | |
@@ -412,7 +412,7 @@ My solutions and summary for problems in LeetCode.
 | 313 | Super Ugly Number | Medium | Python | 52.95% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/313.py) | 9/26/19 | |
 | 318 | Maximum Product of Word Lengths | Medium | Python | 96.37% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/318.py) | 9/26/19 | |
 | 319 | Bulb Switcher | Medium | Python | 32.79% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/319.py) | 9/26/19 | |
-| 322 | Coin Change | Medium | Python | 17.78%, 34.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/322.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/322_2.py) | 9/26/19, 11/18/19 | |
+| 322 | Coin Change | Medium | Python | 17.78%, 34.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/322.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/322_2.py) | 9/26/19, 11/18/19 | 518 |
 | 328 | Odd Even Linked List | Medium | Python | 7.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/328.py) | 9/27/19 | |
 | 331 | Verify Preorder Serialization of a Binary Tree | Medium | Python | 92.67% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/331.py) | 9/27/19 | |
 | 332 | Reconstruct Itinerary | Medium | Python | 70.43% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/332.py) | 9/27/19 | |
@@ -494,6 +494,7 @@ My solutions and summary for problems in LeetCode.
 | 969 | Pancake Sorting | Medium | Python | 98.34% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/969.py) | 11/03/19 | |
 | 1027 | Longest Arithmetic Sequence | Medium | Python | 44.63% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/1027.py) | 11/03/19 | |
 | 721 | Accounts Merge | Medium | Python | 30.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/721.py) | 11/04/19 | |
+| 518 | Coin Change 2 | Medium | Python | 96.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/518.py) | 11/19/19 | 322 |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -545,3 +546,4 @@ My solutions and summary for problems in LeetCode.
 | 41 | First Missing Positive | Hard | Python | 81.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/41.py) | 11/01/19 |  |
 | 4 | Median of Two Sorted Arrays | Hard | Python | 85.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/4.py) | 11/12/19 |  |
 | 315 | Count of Smaller Numbers After Self | Hard | Python | 63.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/315.py) | 11/18/19 |  |
+| 425 | Word Squares | Hard | Python | 43.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/425.py) | 11/19/19 |  |
