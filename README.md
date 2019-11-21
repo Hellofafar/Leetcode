@@ -183,7 +183,7 @@ My solutions and summary for problems in LeetCode.
 | 590 | N-ary Tree Postorder Traversal | Easy | Python | 7.74% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/590.py) | 07/22/18 | 589 |
 | 594 | Longest Harmonious Subsequence | Easy | Python | 64.64% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/594.py) | 07/22/18 | |
 | 598 | Range Addition II | Easy | Python | 97.45% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/598.py) | 07/22/18 | |
-| 599 | Minimum Index Sum of Two Lists | Easy | Python | 28.40% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/599.py) | 07/23/18 | |
+| 599 | Minimum Index Sum of Two Lists | Easy | Python | 28.40%, 97.64% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/599.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/599_2.py) | 07/23/18, 11/20/19 | |
 | 605 | Can Place Flowers | Easy | Python | 50.57% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/605.py) | 07/25/18 | |
 | 606 | Construct String from Binary Tree | Easy | Python | 2.23% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/606.py) | 07/25/18 | |
 | 617 | Merge Two Binary Trees | Easy | Python | 3.91% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/617.py) | 07/26/18 | |
@@ -228,6 +228,7 @@ My solutions and summary for problems in LeetCode.
 | 953 | Verifying an Alien Dictionary | Easy | Python | 97.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/953.py) | 11/04/19 | |
 | 1122 | Relative Sort Array | Easy | Python | 92.83%, 77.36% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/1122.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/1122_2.py) | 11/05/19 | |
 | 1185 | Day of the Week | Easy | Python | 97.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/1185.py) | 11/07/19 | |
+| 965 | Univalued Binary Tree | Easy | Python | 99.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/965.py) | 11/20/19 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -495,6 +496,9 @@ My solutions and summary for problems in LeetCode.
 | 1027 | Longest Arithmetic Sequence | Medium | Python | 44.63% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/1027.py) | 11/03/19 | |
 | 721 | Accounts Merge | Medium | Python | 30.61% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/721.py) | 11/04/19 | |
 | 518 | Coin Change 2 | Medium | Python | 96.04% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/518.py) | 11/19/19 | 322 |
+| 554 | Brick Wall | Medium | Python | 97.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/554.py) | 11/20/19 | |
+| 863 | All Nodes Distance K in Binary Tree | Medium | Python | 99.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/863.py) | 11/20/19 | |
+| 353 | Design Snake Game | Medium | Python | 92.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/353.py) | 11/20/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -547,3 +551,4 @@ My solutions and summary for problems in LeetCode.
 | 4 | Median of Two Sorted Arrays | Hard | Python | 85.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/4.py) | 11/12/19 |  |
 | 315 | Count of Smaller Numbers After Self | Hard | Python | 63.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/315.py) | 11/18/19 |  |
 | 425 | Word Squares | Hard | Python | 43.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/425.py) | 11/19/19 |  |
+| 715 | Range Module | Hard | Python | 93.53% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/715.py) | 11/20/19 |  |
