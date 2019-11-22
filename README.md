@@ -229,6 +229,7 @@ My solutions and summary for problems in LeetCode.
 | 1122 | Relative Sort Array | Easy | Python | 92.83%, 77.36% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/1122.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Easy/1122_2.py) | 11/05/19 | |
 | 1185 | Day of the Week | Easy | Python | 97.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/1185.py) | 11/07/19 | |
 | 965 | Univalued Binary Tree | Easy | Python | 99.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/965.py) | 11/20/19 | |
+| 758 | Bold Words in String | Easy | Python | 97.21% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/758.py) | 11/21/19 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -550,5 +551,6 @@ My solutions and summary for problems in LeetCode.
 | 41 | First Missing Positive | Hard | Python | 81.05% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/41.py) | 11/01/19 |  |
 | 4 | Median of Two Sorted Arrays | Hard | Python | 85.38% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/4.py) | 11/12/19 |  |
 | 315 | Count of Smaller Numbers After Self | Hard | Python | 63.59% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/315.py) | 11/18/19 |  |
+| 403 | Frog Jump | Hard | Python | 42.06% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/403.py) | 11/19/19 |  |
 | 425 | Word Squares | Hard | Python | 43.56% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/425.py) | 11/19/19 |  |
 | 715 | Range Module | Hard | Python | 93.53% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Hard/715.py) | 11/20/19 |  |
