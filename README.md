@@ -230,6 +230,7 @@ My solutions and summary for problems in LeetCode.
 | 1185 | Day of the Week | Easy | Python | 97.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/1185.py) | 11/07/19 | |
 | 965 | Univalued Binary Tree | Easy | Python | 99.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/965.py) | 11/20/19 | |
 | 758 | Bold Words in String | Easy | Python | 97.21% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/758.py) | 11/21/19 | |
+| 252 | Meeting Rooms | Easy | Python | 86.74% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/252.py) | 11/26/19 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -500,6 +501,8 @@ My solutions and summary for problems in LeetCode.
 | 554 | Brick Wall | Medium | Python | 97.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/554.py) | 11/20/19 | |
 | 863 | All Nodes Distance K in Binary Tree | Medium | Python | 99.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/863.py) | 11/20/19 | |
 | 353 | Design Snake Game | Medium | Python | 92.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/353.py) | 11/20/19 | |
+| 251 | Flatten 2D Vector | Medium | Python | 94.71% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/251.py) | 11/26/19 | |
+| 254 | Factor Combinations | Medium | Python | 96.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/254.py) | 11/26/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
