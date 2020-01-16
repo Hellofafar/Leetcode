@@ -17,7 +17,7 @@ My solutions and summary for problems in LeetCode.
 | Union Find | 305, 317, 130, 200, 803, 721 |
 | Greedy | 406, 122, 134, 135, 402, 767 |
 | Graph | 399, 207, 332 |
-| Binary Search | 33, 69, 88, 153, 162, 230, 436, 497 |
+| Binary Search | 33, 69, 88, 153, 162, 230, 436, 497, 392 |
 | Binary Search Tree | 530, 538, 220 |
 | Linked List | 82, 206, 92, 109, 143, 148 |
 | Bit Manipulation | 371, 136, 231, 342, 405, 461, 137, 201, 260, 318 |
@@ -231,6 +231,7 @@ My solutions and summary for problems in LeetCode.
 | 965 | Univalued Binary Tree | Easy | Python | 99.19% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/965.py) | 11/20/19 | |
 | 758 | Bold Words in String | Easy | Python | 97.21% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/758.py) | 11/21/19 | |
 | 252 | Meeting Rooms | Easy | Python | 86.74% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/252.py) | 11/26/19 | |
+| 392 | Is Subsequence | Easy | Python | 32.62% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Easy/392.py) | 01/13/19 | |
 
 ### Medium
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
@@ -503,6 +504,8 @@ My solutions and summary for problems in LeetCode.
 | 353 | Design Snake Game | Medium | Python | 92.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/353.py) | 11/20/19 | |
 | 251 | Flatten 2D Vector | Medium | Python | 94.71% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/251.py) | 11/26/19 | |
 | 254 | Factor Combinations | Medium | Python | 96.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/254.py) | 11/26/19 | |
+| 519 | Random Flip Matrix | Medium | Python | 28.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/519.py) | 01/15/19 | |
+| 522 | Longest Uncommon Subsequence II | Medium | Python | 95.63% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/522.py) | 01/15/19 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
