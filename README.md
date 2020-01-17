@@ -34,6 +34,7 @@ My solutions and summary for problems in LeetCode.
 | Segment Tree | 307 |
 | Reservoir Sampling | 382 |
 | Sliding Windows | 239, 424 |
+| Random | 519 |
 
 ## Finished problems
 ### Easy
@@ -289,7 +290,7 @@ My solutions and summary for problems in LeetCode.
 | 173 | Binary Search Tree Iterator | Medium | Python | 62.27% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/173.py) | 12/10/17 | 284 |
 | 56 | Merge Intervals | Medium | Python | 39.56%, 95.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/56_2.py) | 12/10/17, 08/06/18 | |
 | 247 | Strobogrammatic Number II | Medium | Python | 16.31%, 98.50% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/247.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/247_2.py) | 12/10/17, 11/04/18 | 246, 248 |
-| 524 | Longest Word in Dictionary through Deleting | Medium | Python | 91.14% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/524.py) | 12/10/17 | |
+| 524 | Longest Word in Dictionary through Deleting | Medium | Python | 91.14%, 63.46% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/524.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/524_2.py) | 12/10/17, 01/16/20 | |
 | 228 | Summary Ranges | Medium | Python | 74.59%, 99.48% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/228.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/228_2.py) | 12/11/17, 09/25/18 | |
 | 29 | Divide Two Integers | Medium | Python | 6.68% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/29.py) | 12/18/17 | |
 | 59 | Spiral Matrix II | Medium | Python | 0.87%, 40.09% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/59.py), [2](https://github.com/Hellofafar/Leetcode/blob/master/Medium/59_2.py) | 12/29/17, 01/03/18 | |
@@ -504,8 +505,9 @@ My solutions and summary for problems in LeetCode.
 | 353 | Design Snake Game | Medium | Python | 92.55% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/353.py) | 11/20/19 | |
 | 251 | Flatten 2D Vector | Medium | Python | 94.71% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/251.py) | 11/26/19 | |
 | 254 | Factor Combinations | Medium | Python | 96.87% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/254.py) | 11/26/19 | |
-| 519 | Random Flip Matrix | Medium | Python | 28.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/519.py) | 01/15/19 | |
-| 522 | Longest Uncommon Subsequence II | Medium | Python | 95.63% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/522.py) | 01/15/19 | |
+| 519 | Random Flip Matrix | Medium | Python | 28.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/519.py) | 01/15/20 | |
+| 522 | Longest Uncommon Subsequence II | Medium | Python | 95.63% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/522.py) | 01/15/20 | |
+| 525 | Contiguous Array | Medium | Python | 47.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/525.py) | 01/16/20 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |

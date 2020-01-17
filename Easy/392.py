@@ -26,7 +26,7 @@
 # one by one to see if T has its subsequence. In this scenario, how would you change your code?
 # 
 # Version: 1.0
-# 01/13/19 by Jianfa
+# 01/13/20 by Jianfa
 # ------------------------------
 
 from bisect import bisect_left

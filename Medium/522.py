@@ -22,7 +22,7 @@
 # The length of the given list will be in the range of [2, 50].
 # 
 # Version: 1.0
-# 01/15/19 by Jianfa
+# 01/15/20 by Jianfa
 # ------------------------------
 
 class Solution:
