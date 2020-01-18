@@ -508,6 +508,8 @@ My solutions and summary for problems in LeetCode.
 | 519 | Random Flip Matrix | Medium | Python | 28.42% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/519.py) | 01/15/20 | |
 | 522 | Longest Uncommon Subsequence II | Medium | Python | 95.63% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/522.py) | 01/15/20 | |
 | 525 | Contiguous Array | Medium | Python | 47.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/525.py) | 01/16/20 | |
+| 526 | Beautiful Arrangement | Medium | Python | 46.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/526.py) | 01/17/20 | |
+| 537 | Complex Number Multiplication | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/537.py) | 01/17/20 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
