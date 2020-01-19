@@ -510,6 +510,7 @@ My solutions and summary for problems in LeetCode.
 | 525 | Contiguous Array | Medium | Python | 47.20% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/525.py) | 01/16/20 | |
 | 526 | Beautiful Arrangement | Medium | Python | 46.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/526.py) | 01/17/20 | |
 | 537 | Complex Number Multiplication | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/537.py) | 01/17/20 | |
+| 539 | Minimum Time Difference | Medium | Python | 93.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/539.py) | 01/18/20 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
