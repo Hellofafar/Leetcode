@@ -14,7 +14,7 @@
 # The input time is legal and ranges from 00:00 to 23:59.
 # 
 # Version: 1.0
-# 01/18/19 by Jianfa
+# 01/18/20 by Jianfa
 # ------------------------------
 
 class Solution:

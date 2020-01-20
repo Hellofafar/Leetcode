@@ -29,7 +29,7 @@
 # N is a positive integer and will not exceed 15.
 # 
 # Version: 1.0
-# 01/17/19 by Jianfa
+# 01/17/20 by Jianfa
 # ------------------------------
 
 class Solution:

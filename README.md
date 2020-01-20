@@ -511,6 +511,8 @@ My solutions and summary for problems in LeetCode.
 | 526 | Beautiful Arrangement | Medium | Python | 46.51% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/526.py) | 01/17/20 | |
 | 537 | Complex Number Multiplication | Medium | Python | 100.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/537.py) | 01/17/20 | |
 | 539 | Minimum Time Difference | Medium | Python | 93.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/539.py) | 01/18/20 | |
+| 542 | Minimum Time Difference | Medium | Python | 84.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/542.py) | 01/19/20 | |
+| 547 | Friend Circles | Medium | Python | 19.77% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/547.py) | 01/19/20 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |

@@ -25,7 +25,7 @@
 # belong to the range of [-100, 100]. And the output should be also in this form.
 # 
 # Version: 1.0
-# 01/17/19 by Jianfa
+# 01/17/20 by Jianfa
 # ------------------------------
 
 class Solution:
