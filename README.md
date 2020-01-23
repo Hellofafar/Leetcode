@@ -513,6 +513,9 @@ My solutions and summary for problems in LeetCode.
 | 539 | Minimum Time Difference | Medium | Python | 93.69% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/539.py) | 01/18/20 | |
 | 542 | Minimum Time Difference | Medium | Python | 84.07% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/542.py) | 01/19/20 | |
 | 547 | Friend Circles | Medium | Python | 19.77% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/547.py) | 01/19/20 | |
+| 553 | Optimal Division | Medium | Python | 18.81% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/553.py) | 01/21/20 | |
+| 556 | Next Greater Element III | Medium | Python | 8.97% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/556.py) | 01/22/20 | |
+| 565 | Array Nesting | Medium | Python | 11.00% | [1](https://github.com/Hellofafar/Leetcode/blob/master/Medium/565.py) | 01/22/20 | |
 
 ### Hard
 | # | Title	| Difficulty | Language | Beats | Version | Last Try | Similar |
